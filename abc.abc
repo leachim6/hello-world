@@ -1,0 +1,4 @@
+probe program
+{
+	on_entry log ("Hello, World!\n");
+}
