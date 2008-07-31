@@ -1,0 +1,1 @@
+: HELLO S" Hello, world!" TELL CR ;
