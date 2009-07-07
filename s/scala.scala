@@ -1,3 +1,3 @@
 object HelloWorld extends Application {
-	Console.println("Hello World")
+  println("Hello World")
 }
