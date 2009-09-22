@@ -1,2 +1,1 @@
-@ECHO OFF
-ECHO Hello World!
+echo Hello World!
