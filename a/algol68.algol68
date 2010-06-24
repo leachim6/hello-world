@@ -1,3 +1,0 @@
-begin
-  print(("Hello, world!",newline))
-end
