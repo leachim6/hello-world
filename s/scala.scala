@@ -1,3 +1,1 @@
-object HelloWorld extends Application {
-  println("Hello World")
-}
+print "Hello World"
