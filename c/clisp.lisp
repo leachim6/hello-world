@@ -1,1 +1,0 @@
-(write-line "Hello World")

@@ -1,1 +1,0 @@
-display dialog "Hello World"  

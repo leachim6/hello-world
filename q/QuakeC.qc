@@ -1,1 +1,0 @@
-bprint("Hello World\n");
