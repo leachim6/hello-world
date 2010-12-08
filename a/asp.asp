@@ -1,5 +1,7 @@
- <html>
-     <body>                    
-         <% Response.Write "Hello World!  How are you today?" %>                          
-     </body>
+<html>
+<body>
+<%
+response.write("Hello World")
+%>
+</body>
 </html>
