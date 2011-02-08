@@ -1,0 +1,132 @@
+cleanscreen
+forward 200
+back 100
+right 90
+forward 100
+left 90
+forward 100
+back 200
+penup ; H
+right 90
+forward 50
+pendown
+forward 100
+back 100
+left 90
+forward 100
+right 90
+forward 70
+back 70
+left 90
+forward 100
+right 90
+forward 100
+back 100
+right 90
+forward 200
+left 90
+forward 100
+penup ; E
+forward 50
+pendown
+forward 100
+back 100
+left 90
+forward 200
+back 200
+right 90
+forward 100
+penup ; L
+forward 50
+pendown
+forward 100
+back 100
+left 90
+forward 200
+back 200
+right 90
+forward 100
+penup ; L
+forward 50
+pendown
+forward 100
+back 100
+left 90
+forward 200
+right 90
+forward 100
+right 90
+forward 200
+left 90
+penup ; O
+forward 150
+pendown
+left 90
+forward 200
+back 200
+right 90
+forward 50
+left 90
+forward 200
+back 200
+right 90
+forward 50
+left 90
+forward 200
+back 200
+right 90
+penup ; W
+forward 50
+pendown
+forward 100
+back 100
+left 90
+forward 200
+right 90
+forward 100
+right 90
+forward 200
+left 90
+penup ; O
+forward 50
+pendown
+left 90
+forward 200
+right 90
+forward 100
+right 90
+forward 100
+right 90
+forward 100
+left 135
+forward 141
+back 141
+right 135
+left 90
+forward 100
+left 90
+penup ; R
+forward 150
+pendown
+forward 100
+back 100
+left 90
+forward 200
+back 200
+right 90
+forward 100
+penup ; L
+forward 50
+pendown
+left 90
+forward 200
+right 90
+forward 50
+right 45
+forward 70
+right 45
+forward 100
+right 45
+forward 70
+right 45
+forward 50 ; D
