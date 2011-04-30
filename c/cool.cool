@@ -1,0 +1,5 @@
+class Main : IO is
+  Main() begin
+    out_string("Hello World");
+  end;
+end;
