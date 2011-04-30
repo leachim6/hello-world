@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="200" height="50" xml:lang="en">
-	<title>Hello World</title>
-	<text x="11" y="33" font-family="Helvetica, Verdana, sans-serif" font-size="24">Hello world!</text>
+       <title>Hello World</title>
+       <text x="11" y="33" font-family="Helvetica, Verdana, sans-serif" font-size="24">Hello world!</text>
 </svg>
