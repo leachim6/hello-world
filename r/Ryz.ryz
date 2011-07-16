@@ -1,5 +1,5 @@
 hello.World {
    main( args : String* ) { 
-      out.println("Hello, Ryz world!")
+      "Hello, Ryz world!".println()
    }
 }
