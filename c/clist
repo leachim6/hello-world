@@ -1,0 +1,6 @@
+/***********************************/
+/* HELLO WORLD PROGRAM WRITTEN     */
+/* IN CLIST ON THE IBM Z/OS        */
+/* OPERATING SYSTEM                */
+/***********************************/
+WRITE HELLO, WORLD!                  
