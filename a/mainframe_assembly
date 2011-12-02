@@ -1,0 +1,59 @@
+R0       EQU   0                                                      
+R1       EQU   1                                                      
+R2       EQU   2                                                      
+R3       EQU   3                                                      
+R4       EQU   4                                                      
+R5       EQU   5                                                      
+R6       EQU   6                                                      
+R7       EQU   7                                                      
+R8       EQU   8                                                      
+R9       EQU   9                                                      
+R10      EQU   10                                                     
+R11      EQU   11                                                     
+R12      EQU   12                                                     
+R13      EQU   13                                                     
+R14      EQU   14                                                     
+R15      EQU   15                                                     
+**********************************************************************
+* HELLO WORLD IN ASSEMBLY FOR THE IBM MAINFRAME COMPUTER             *
+**********************************************************************
+*                                                                     
+HELLOW   CSECT ,                                                      
+HELLOW   AMODE ANY                                                    
+HELLOW   RMODE 24                                                     
+*                                                                     
+         STM   R14,R12,12(R13)    SAVE REGISTERS IN OLD SAVE AREA     
+         LR    R12,R15            ESTABLISH NEW BASE REG              
+         USING HELLOW,R12         USE BASE REG                        
+*                                                                     
+         LA    R14,SAVEAREA       GET OUR SAVE AREA                   
+         ST    R14,8(,R13)        KEEP A(NEW SA) IN OLD SA            
+         ST    R13,4(R14)         KEEP A(OLD SA) IN NEW SA            
+         LR    R13,R14            R13 -> NEW SA                       
+**********************************************************************
+* BEGIN LOGIC                                                        *
+**********************************************************************
+         OPEN  (SYSPRINT,(OUTPUT)) OPEN OUTPUT                        
+         PUT   SYSPRINT,PRINTLN   PRINT LINE                          
+         CLOSE SYSPRINT           CLOSE OUTPUT                        
+**********************************************************************
+* END LOGIC                                                          *
+**********************************************************************
+RETURN   DS    0H                                                     
+         XR    R15,R15            CLEAR RETURN CODE                   
+         L     R13,4(R13)         GET OLD SAVE AREA                   
+         L     R14,12(R13)        GET BACK ALL REGISTERS              
+         LM    R0,R12,20(R13)     GET BACK ALL REGISTERS              
+         BR    14                           RETURN                    
+         DROP  R12                DROP USING                          
+**********************************************************************
+* HELLOW SAVE AREA                                                   *
+**********************************************************************
+*                                                                     
+* CONSTANT SAVE AREA                                                  
+         LTORG ,                                                      
+         DS    0F                                                     
+SAVEAREA DS    18F                REGISTER SAVE AREA                  
+SYSPRINT DCB   LRECL=133,MACRF=PM,DSORG=PS,RECFM=FB,DDNAME=SYSPRINT   
+PRINTLN  DC    CL133'HELLO, WORLD!'                                   
+         END   ,                                                      
