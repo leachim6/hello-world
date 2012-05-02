@@ -1,1 +1,3 @@
-Hello World
+<?php
+	print("Hello World");
+?>
