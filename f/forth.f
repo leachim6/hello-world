@@ -1,1 +1,1 @@
-: HELLO S" Hello, world!" TELL CR ;
+: HELLO  ( -- )  CR ." Hello, world!" ; HELLO <cr>
