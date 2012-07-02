@@ -1,4 +1,4 @@
 task main()
 {
-    TextOut(0, LCD_LINE_1, "Hello world!");
+    TextOut(0, LCD_LINE1, "Hello world!");
 }
