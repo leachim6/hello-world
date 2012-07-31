@@ -4,8 +4,6 @@ jsr Hello_World
 set PC,end
 ;;;;;;;;;;;;;;;;;;;
 :dev_screen   dat 0
-:dev_keyboard dat 0
-:dev_clock    dat 0
 :device_count dat 0
 ;;;;;;;;;;;;;;;;;;;
 :find_devices
@@ -13,10 +11,6 @@ hwn [device_count]
 set I,0
 :find_devices_loop
 hwq i
-ife A,0x7406
-    set [dev_keyboard],1
-ife A,0xb402
-    set [dev_clock],1
 ife A,0xf615
     set [dev_screen],1
 add I,1
@@ -29,12 +23,6 @@ jsr find_devices
 set A,0
 set B,0x8000
 hwi [dev_screen]
-;set up clock
-set B, 0
-hwi [dev_clock]
-;set up keyboard
-set A,0
-hwi [dev_keyboard]
 set PC,pop
 
 :Hello_World
