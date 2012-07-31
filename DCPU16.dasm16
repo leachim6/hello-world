@@ -35,7 +35,6 @@ hwi [dev_clock]
 ;set up keyboard
 set A,0
 hwi [dev_keyboard]
-;set up clock
 set PC,pop
 
 :Hello_World
