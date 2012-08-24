@@ -1,5 +1,6 @@
+#include "NXCDefs.h"
+
 task main()
 {
-        TextOut(0, LCD_LINE1, "Hello world!");
-        return 0;
+    TextOut(0, LCD_LINE1, "Hello world!");
 }
