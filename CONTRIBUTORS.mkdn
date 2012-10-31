@@ -51,7 +51,6 @@ Contributors
 * DunkleAura <dunkleaura@gmail.com>
 * Elliot Winard <elliot.winard@frogdesign.com>
 * Eric Schaefer <eric.schaefer@ericschaefer.org>
-* Erik Hahn <erik_hahn@gmx.de>
 * Erik Hahn <erikholgerhahn@web.de>
 * Faisalman <fyzlman@gmail.com>
 * Felix Kaiser <felix.kaiser@fxkr.net>
@@ -92,7 +91,6 @@ Contributors
 * Michael Bemmerl <mail@mx-server.de>
 * Michael Gebetsroither <michael.geb@gmx.at>
 * Miguel Aranha Baldi Hörlle <miguel.horlle@gmail.com>
-* Mike Donaghy <leachim6@Sephiroth.(none)>
 * Mike Donaghy <mike@mikedonaghy.org>
 * Mike Green <mike.is.green@gmail.com>
 * Nathan M. Swan <nathanmswan@gmail.com>
@@ -112,6 +110,7 @@ Contributors
 * Rene Nyffenegger <rene.nyffenegger@adp-gmbh.ch>
 * Rene Saarsoo <nene@triin.net>
 * Richard Walton <richard.walton@dubitlimited.com>
+* Rob Altenburg <rca@qrpc.com>
 * Rob Zehner <zehner@lab126.com>
 * Robby Russell <robby@planetargon.com>
 * Robert Peters <robert-peters@gmx.net>
