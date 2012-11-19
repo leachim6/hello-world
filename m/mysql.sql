@@ -1,2 +1,1 @@
-SET @message = 'Hello World!';
-SELECT @message;
+SELECT 'Hello World!';
