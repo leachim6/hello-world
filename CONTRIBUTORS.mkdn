@@ -79,6 +79,7 @@ Contributors
 * Kudu <mozillawaterfox@gmail.com>
 * Kyle Lau <ulinkwo@gmail.com>
 * Kyle Liu <ulinkwo@gmail.com>
+* Leigh <leight@gmail.com>
 * Leroux Cifer <leroux@fezrev.com>
 * Luca Greco <luca.greco@alcacoop.it>
 * Marc Hoersken <info@marc-hoersken.de>
