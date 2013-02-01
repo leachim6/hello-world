@@ -114,6 +114,7 @@ Contributors
 * Richard Walton <richard.walton@dubitlimited.com>
 * Rob Altenburg <rca@qrpc.com>
 * Rob Zehner <zehner@lab126.com>
+* Robbie Ferrero <robbie@metaltoad.com>
 * Robby Russell <robby@planetargon.com>
 * Robert Altenburg <rca@qrpc.com>
 * Robert Peters <robert-peters@gmx.net>
