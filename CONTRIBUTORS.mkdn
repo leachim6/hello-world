@@ -33,6 +33,7 @@ Contributors
 * Callum Macrae <callum@lynxphp.com>
 * Callum Macrae <callumacrae95@gmail.com>
 * Carsten Nielsen <heycarsten@gmail.com>
+* Cristobal Dabed <cristobal@dabed.org>
 * Chris Clarke <beakr@ninjanizr.com>
 * Chris Wanstrath <chris@ozmm.org>
 * Christian <x00bit@gmail.com>
