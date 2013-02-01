@@ -156,6 +156,7 @@ Contributors
 * nCdy <X@nCdy.org>
 * nitish <nitish@localhost.localdomain>
 * odalet <odalet@gmail.com>
+* qiongyue <wangqiongyue@gmail.com>
 * rck <dev.rck@gmail.com>
 * sebcioz <sebcioz@gmail.com>
 * timwolla <timwolla@mail.develfusion.com>
