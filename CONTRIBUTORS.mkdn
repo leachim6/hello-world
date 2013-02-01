@@ -131,6 +131,7 @@ Contributors
 * Tim Kellogg <timothy.kellogg@gmail.com>
 * TimWolla <timwolla@arcor.de>
 * Timothy Goddard <tim@goddard.net.nz>
+* Tomas Morstein <tmr@idea.cz>
 * U-Zyn Chua <chua@uzyn.com>
 * William Suggs <joshsuggs@gmail.com>
 * Yacin Nadji <ynadji@iit.edu>
