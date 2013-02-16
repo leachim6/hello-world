@@ -1,1 +1,1 @@
-$(info Hello, World)
+$(info Hello, World!)
