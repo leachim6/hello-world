@@ -1,3 +1,3 @@
 #!/opt/local/bin/jc
-echo 'Hello World'
+echo 'Hello World!'
 exit ''

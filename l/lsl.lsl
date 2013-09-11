@@ -1,7 +1,7 @@
 default
 {
-    state_entry()
-    {
-        llSay(0, "Hello World");
-    }
+	state_entry()
+	{
+		llSay(0, "Hello World!");
+	}
 }

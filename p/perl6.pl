@@ -1,2 +1,2 @@
 #!/usr/bin/env perl6
-say "Hello, world!"
+say "Hello World!"

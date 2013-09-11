@@ -1,3 +1,3 @@
 data _null_;
-put 'Hello, world!';
+put 'Hello World!';
 run;

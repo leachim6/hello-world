@@ -1,4 +1,4 @@
-; hello_world.asm intel 
+; hello_world.asm intel
 
 .model small
 
@@ -9,16 +9,16 @@ msg db "Hello World!",'$'
 
 .code
 main proc
-        mov ax,@data
-        mov ds, ax
+	mov ax,@data
+	mov ds, ax
 
-; hello-world is there 
-        mov dx,offset msg
-        mov ah,09
-        int 21h
+; hello-world is there
+	mov dx,offset msg
+	mov ah,09
+	int 21h
 
-        mov ax,4c00h
-        int 21h
+	mov ax,4c00h
+	int 21h
 
 main endp
 end main

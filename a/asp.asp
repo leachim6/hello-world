@@ -1,7 +1,5 @@
 <html>
-<body>
-<%
-response.write("Hello World")
-%>
-</body>
+	<body>
+	<% response.write("Hello World!") %>
+	</body>
 </html>

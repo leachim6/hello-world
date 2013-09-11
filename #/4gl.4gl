@@ -1,3 +1,3 @@
 main
-    display "Hello World"
+	display "Hello World!"
 end main

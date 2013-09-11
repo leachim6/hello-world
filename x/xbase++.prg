@@ -1,3 +1,3 @@
 func Main()
-    Qout("Hello World")
+	Qout("Hello World!")
 return 1

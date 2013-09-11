@@ -1,1 +1,1 @@
-display dialog "Hello World"  
+display dialog "Hello World!"

@@ -1,8 +1,8 @@
 (defrule hw
-    (f ?x)
-=>
-    (printout t ?x crlf))
+ (f ?x)
+ =>
+ (printout t ?x crlf))
 
-(assert (f "Hello World"))
+(assert (f "Hello World!"))
 
 (run)

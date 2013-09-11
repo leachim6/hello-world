@@ -1,2 +1,2 @@
 <<hello.rexx>>=
-Say "Hello, World!"
+Say "Hello World!"

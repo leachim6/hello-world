@@ -1,3 +1,3 @@
 function Start() : void {
-   print("Hello, world!");
+	print("Hello World!");
 }

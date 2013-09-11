@@ -1,8 +1,8 @@
 /* Hello World in B */
 
 main() {
-    extern a, b, c;
-      putchar (a); putchar (b); putchar (c); putchar ('!*n');
+	extern a, b, c;
+	putchar (a); putchar (b); putchar (c); putchar ('!*n');
 }
 
 a 'hell' ;

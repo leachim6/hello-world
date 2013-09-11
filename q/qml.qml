@@ -4,7 +4,7 @@ Rectangle {
 	width: 320; height: 180
 
 	Text {
-		text: "Hello world!"
+		text: "Hello World!"
 	}
 }
 

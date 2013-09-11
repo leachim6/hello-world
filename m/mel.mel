@@ -1,4 +1,4 @@
 proc helloWorld () {
-   print "Hello World\n";
+	print "Hello World!\n";
 }
 helloWorld;

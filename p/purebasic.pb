@@ -1,3 +1,3 @@
 If OpenConsole()
-  PrintN("Hello World")
+	PrintN("Hello World!")
 EndIf

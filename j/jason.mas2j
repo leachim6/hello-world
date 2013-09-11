@@ -1,2 +1,2 @@
 !greeting.
-+!greeting : true <- .print("Hello World").
++!greeting : true <- .print("Hello World!").

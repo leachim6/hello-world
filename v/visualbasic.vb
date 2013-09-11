@@ -1,5 +1,5 @@
 Module HelloWorld
-    Sub Main()
-        MsgBox("Hello world!")
-    End Sub
+	Sub Main()
+		MsgBox("Hello World!")
+	End Sub
 End Module
