@@ -1,4 +1,5 @@
-program HelloWorld(output);
+program HelloWorld;
+uses crt;
 begin
-        writeln('Hello World')
+        writeln('Hello World');
 end.
