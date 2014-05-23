@@ -1,0 +1,4 @@
+component hello
+export Executable
+run() = println("Hello World!")
+end
