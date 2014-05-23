@@ -88,7 +88,7 @@ Contributors
 * Marcus Ortiz <mportiz08@gmail.com>
 * Mariusz Wojcik <MDickie007@gmail.com>
 * Markus Gräb <markus.graeb@gmail.com>
-* Martin H�ger <martin.haeger@gmail.com>
+* Martin Häger <martin.haeger@gmail.com>
 * Matt Foster <matt.p.foster@gmail.com>
 * Max Bernstein <tekknolagi@gmail.com>
 * Michael Bemmerl <mail@mx-server.de>
