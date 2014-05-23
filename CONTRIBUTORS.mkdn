@@ -68,6 +68,7 @@ Contributors
 * Jean-Olivier Irisson <irisson@normalesup.org>
 * Jose Hugo De la cruz <hugo.delacruz@live.com.mx>
 * Josef Šimánek <retro@ballgag.cz>
+* Josh Fogg <joshua.h.fogg@gmail.com>
 * Josh Oldenburg <josh.legogeek@gmail.com>
 * Joshua Suggs <josh@fcit.org>
 * Juan Felipe Alvarez Saldarriaga <nebiros@gmail.com>
@@ -87,7 +88,7 @@ Contributors
 * Marcus Ortiz <mportiz08@gmail.com>
 * Mariusz Wojcik <MDickie007@gmail.com>
 * Markus Gräb <markus.graeb@gmail.com>
-* Martin H�ger <martin.haeger@gmail.com>
+* Martin H�ger <martin.haeger@gmail.com>
 * Matt Foster <matt.p.foster@gmail.com>
 * Max Bernstein <tekknolagi@gmail.com>
 * Michael Bemmerl <mail@mx-server.de>
