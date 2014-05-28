@@ -1,1 +1,1 @@
-foo="Hello World!"
+output="Hello World!\n"
