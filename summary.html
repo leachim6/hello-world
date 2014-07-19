@@ -67,7 +67,7 @@
     // curl -i https://api.github.com/repos/pingjiang/hello-world/readme
     // curl -i https://api.github.com/repos/pingjiang/hello-world/contents/
     jQuery(document).ready(function($) {
-        var REPOS_USER = 'pingjiang';
+        var REPOS_USER = 'leachim6';// leachim6
         var REPOS_NAME = 'hello-world';
         var GITHUB_API = 'https://api.github.com/repos/' + REPOS_USER + '/' + REPOS_NAME + '/contents';
         
@@ -83,8 +83,31 @@
                 + data.documentation_url + '</a>.</p><p>Please refresh later.</p>');
         }
         
+        function loadContent(self_url, onSuccess) {
+            $.ajax({
+                type: "POST",
+                url: self_url + '&callback=?',
+                crossDomain: true,
+                statusCode: {
+                    403: function(data) {
+                        onGithubError(data);
+                    }
+                },
+                success: function (data) {
+                    var result = data.data;
+                    // console.log(result);
+                    if (result.content == undefined || result.content == null) {
+                        // onGithubError(result);
+                        return;
+                    }
+                    var content = atob(result.content);
+                    onSuccess(content);
+                },
+                dataType: 'jsonp'
+            });
+        }
+        
         function loadLanguages(langGroupName, appendToId, langGroup, onSuccess) {
-            // console.log('Load languages: ' + langGroupName + ', ' + langGroup);
             $.ajax({
                 type: "POST",
                 url: langGroup + '&callback=?',
@@ -101,12 +124,12 @@
                         return;
                     }
                     $.each(entries, function(i, entry) {
-                        // console.log(entry.type + ' => ' + entry.name);
                         if (entry.type == 'file') {
-                            // console.log($(tabId + '>ul.langcodes'));
-                            $('<li class="list-group-item"><h4 class="list-group-item-heading">' + entry.name 
-                            + '</h4><div class="list-group-item-text"><a class="langcode" href="' + entry.html_url + '">' 
-                                + entry.html_url + '</a></div></li>').appendTo(appendToId);
+                            loadContent(entry._links.self, function(content) {
+                                $('<li class="list-group-item"><h4 class="list-group-item-heading">' + entry.name 
+                                + '</h4><div class="list-group-item-text"><code>' + content + '</code><p>Code: <a class="langcode" href="' + entry.html_url + '">' 
+                                    + entry.html_url + '</a></p></div></li>').appendTo(appendToId);
+                            });
                         }
                     });
                     
