@@ -83,6 +83,14 @@
                 + data.documentation_url + '</a>.</p><p>Please refresh later.</p>');
         }
         
+        function htmlEncode(value){
+            return $('<div/>').text(value).html();
+        }
+
+        function htmlDecode(value){
+            return $('<div/>').html(value).text();
+        }
+        
         function loadContent(self_url, onSuccess) {
             $.ajax({
                 type: "POST",
@@ -95,9 +103,8 @@
                 },
                 success: function (data) {
                     var result = data.data;
-                    // console.log(result);
                     if (result.content == undefined || result.content == null) {
-                        // onGithubError(result);
+                        onSuccess('Fetch content of code ' + self_url + ' failed.');
                         return;
                     }
                     var content = atob(result.content);
@@ -125,9 +132,11 @@
                     }
                     $.each(entries, function(i, entry) {
                         if (entry.type == 'file') {
+                            var codeCssClass = 'code-' + entry.name.split('.')[0].toLowerCase();
                             loadContent(entry._links.self, function(content) {
+                                // console.log(content);
                                 $('<li class="list-group-item"><h4 class="list-group-item-heading">' + entry.name 
-                                + '</h4><div class="list-group-item-text"><code>' + content + '</code><p>Code: <a class="langcode" href="' + entry.html_url + '">' 
+                                + '</h4><div class="list-group-item-text"><pre class="code">' + htmlEncode(content) + '</pre><p>Code: <a class="langcode" href="' + entry.html_url + '">' 
                                     + entry.html_url + '</a></p></div></li>').appendTo(appendToId);
                             });
                         }
