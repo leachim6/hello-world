@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>All programming hello world code</title>
+    
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+    
+    <style type="text/css" media="screen">
+    #main {
+        margin-top: 10px;
+        padding-top: 10px;
+        min-width: 725px;
+        min-height: 100px;
+        border: 1px #eee solid;
+        border-radius: 4px 4px 0 0;
+    }
+    .nav>li>a {
+        padding: 3px 6px;
+    }
+    .tab-content {
+        margin-top: 4px;
+    }
+    </style>
+</head>
+<body>
+    <div id="main" class="container">
+        <div id="helloword">
+            <!-- Nav tabs -->
+            <ul id="langgroups" class="nav nav-tabs" role="tablist">
+              <li class="active"><a href="#aboutTab" role="tab" data-toggle="tab">About</a></li>
+            </ul>
+
+            <!-- Tab panes -->
+            <div id="langcodegroups" class="tab-content">
+                <div class="tab-pane fade in active" id="aboutTab">
+                    <ul class="list-group">
+                        <li class="list-group-item">
+                            <h4 id="about-heading" class="list-group-item-heading">Hello world in every programming language.</h4>
+                            <div id="about-text" class="list-group-item-text">
+                                
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+          
+            </div>
+        </div>
+        
+        <p>
+            &copy; 2014 Powered by <a href="jquery.com">jQuery</a>, <a href="http://getbootstrap.com">Boostrap</a> and <a href="https://developer.github.com/v3/">Github APIs</a>.
+        </p>
+    </div>
+    
+    
+    
+    <script type='text/javascript' src='http://ajax.useso.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+    
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    
+    <script type="text/javascript">
+    // curl -i https://api.github.com/repos/pingjiang/hello-world/readme
+    // curl -i https://api.github.com/repos/pingjiang/hello-world/contents/
+    jQuery(document).ready(function($) {
+        var REPOS_USER = 'leachim6';// leachim6
+        var REPOS_NAME = 'hello-world';
+        var GITHUB_API = 'https://api.github.com/repos/' + REPOS_USER + '/' + REPOS_NAME + '/contents';
+        
+        $('#about-text').html('<dl class="dl-horizontal"><dt>User</dt><dd><a href="https://github.com/' + REPOS_USER + '">' + REPOS_USER 
+            + '</a></dd><dt>Repository</dt><dd><a href="https://github.com/' + REPOS_USER + '/' + REPOS_NAME + '">' + REPOS_NAME 
+            + '</a></dd><dt>Contents API</dt><dd><a href="' + GITHUB_API + '">' + GITHUB_API + '</a></dd></dl>');
+        
+        function onGithubError(data) {
+            $('#about-heading').text('Github Error');
+            $('#about-text').html('<p>' 
+                + data.message + '</p><p>Documentation reference <a href="' 
+                + data.documentation_url + '">' 
+                + data.documentation_url + '</a>.</p><p>Please refresh later.</p>');
+        }
+        
+        function htmlEncode(value){
+            return $('<div/>').text(value).html();
+        }
+
+        function htmlDecode(value){
+            return $('<div/>').html(value).text();
+        }
+        
+        function loadContent(self_url, onSuccess) {
+            $.ajax({
+                type: "POST",
+                url: self_url + '&callback=?',
+                crossDomain: true,
+                statusCode: {
+                    403: function(data) {
+                        onGithubError(data);
+                    }
+                },
+                success: function (data) {
+                    var result = data.data;
+                    if (result.content == undefined || result.content == null) {
+                        onSuccess('Fetch content of code ' + self_url + ' failed.');
+                        return;
+                    }
+                    var content = atob(result.content);
+                    onSuccess(content);
+                },
+                dataType: 'jsonp'
+            });
+        }
+        
+        function loadLanguages(langGroupName, appendToId, langGroup, onSuccess) {
+            $.ajax({
+                type: "POST",
+                url: langGroup + '&callback=?',
+                crossDomain: true,
+                statusCode: {
+                    403: function(data) {
+                        onGithubError(data);
+                    }
+                },
+                success: function (data) {
+                    var entries = data.data;
+                    if (!(entries instanceof Array)) {
+                        onGithubError(entries);
+                        return;
+                    }
+                    $.each(entries, function(i, entry) {
+                        if (entry.type == 'file') {
+                            var codeCssClass = 'code-' + entry.name.split('.')[0].toLowerCase();
+                            loadContent(entry._links.self, function(content) {
+                                // console.log(content);
+                                $('<li class="list-group-item"><h4 class="list-group-item-heading">' + entry.name 
+                                + '</h4><div class="list-group-item-text"><pre class="code">' + htmlEncode(content) + '</pre><p>Code: <a class="langcode" href="' + entry.html_url + '">' 
+                                    + entry.html_url + '</a></p></div></li>').appendTo(appendToId);
+                            });
+                        }
+                    });
+                    
+                    if (entries == undefined || entries == null || entries.length == 0) {
+                        $('<li class="list-group-item"><a class="list-group-item langcode" href="#">None</a></li>').appendTo(appendToId);
+                    }
+                    
+                    onSuccess();
+                },
+                dataType: 'jsonp'
+            });
+        }
+        
+        $.ajax({
+            type: "POST",
+            url: GITHUB_API + '?callback=?',
+            crossDomain: true,
+            statusCode: {
+                403: function(data) {
+                    onGithubError(data);
+                }
+            },
+            success: function (data) {
+                var entryGroups = data.data;
+                if (!(entryGroups instanceof Array)) {
+                    onGithubError(entryGroups);
+                    return;
+                }
+                var entryCache = {};
+                
+                $.each(entryGroups, function(i, entryGroup) {
+                    entryCache[entryGroup.name] = entryGroup._links.self;
+                    if (entryGroup.name != '#' && entryGroup.type == 'dir') {
+                        $('<li><a class="langgroup" href="#' + entryGroup.name 
+                            + 'Tab" data-loadlink="' + entryGroup._links.self + '" role="tab" data-toggle="tab">' 
+                            + entryGroup.name + '</a></li>').appendTo('#langgroups');
+                            
+                        $('<div class="tab-pane fade" id="' + entryGroup.name 
+                            + 'Tab"><ul class="list-group langcodes" class="nav nav-tabs" role="tablist"></ul></div>').appendTo('#langcodegroups');
+                    }
+                });
+                
+                $('.langgroup').click(function() {
+                    var entryGroupName = $(this).text();
+                    var tabId = $(this).attr('href');
+                    var tab = $(tabId);
+                    var selected = $(this);
+                    var langcodes = $(tabId + '>ul.langcodes>li');
+                    if (langcodes == undefined || langcodes.length == 0) {
+                        loadLanguages(entryGroupName, tabId + '>ul.langcodes', entryCache[entryGroupName], function() {
+                            selected.tab('show');
+                        });   
+                    } else {
+                        selected.tab('show');
+                    }
+                });
+            },
+            dataType: 'jsonp'
+        });
+    });
+    </script>
+</body>
+</html>
