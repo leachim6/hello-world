@@ -1,4 +1,3 @@
-main()
-{
-  print('Hello, world!');
+main() {
+  print('Hello, World!');
 }
