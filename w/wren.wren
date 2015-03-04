@@ -1,0 +1,1 @@
+IO.print("Hello World")
