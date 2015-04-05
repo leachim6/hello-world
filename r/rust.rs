@@ -1,3 +1,3 @@
 fn main() {
-  io::println("Hello, world!");
+  println!("Hello, world!");
 }
