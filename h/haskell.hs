@@ -1,4 +1,3 @@
-module Main
-  where
+module Main where
 
-main=putStrLn "Hello, World!"
+main = putStrLn "Hello, World!"
