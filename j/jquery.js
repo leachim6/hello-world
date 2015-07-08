@@ -1,0 +1,1 @@
+$("#divname").text("Hello World");
