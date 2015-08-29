@@ -5,7 +5,7 @@ chef makes a " world!" cake, which he puts in the baking dish. When he gets the
 sous chef to make the "Hello" chocolate sauce, it gets put into the baking dish
 and then the whole thing is printed when he refrigerates the sauce. When
 actually cooking, I'm interpreting the chocolate sauce baking dish to be
-separate from the cake one and Liquify to mean either melt or blend depending on
+separate from the cake one and Liquefy to mean either melt or blend depending on
 context.
 
 Ingredients.
@@ -34,7 +34,7 @@ Put cocoa  powder into the mixing bowl.
 Stir the mixing bowl for 1 minute.
 Combine double cream into the mixing bowl.
 Stir the mixing bowl for 4 minutes.
-Liquify the contents of the mixing bowl.
+Liquefy the contents of the mixing bowl.
 Pour contents of the mixing bowl into the baking dish.
 bake the cake mixture.
 Wait until baked.
@@ -56,10 +56,10 @@ Put hot water into the mixing bowl.
 Put heated double cream into the mixing bowl.
 dissolve the sugar.
 agitate the sugar until dissolved.
-Liquify the dark chocolate.
+Liquefy the dark chocolate.
 Put dark chocolate into the mixing bowl.
-Liquify the milk chocolate.
+Liquefy the milk chocolate.
 Put milk chocolate into the mixing bowl.
-Liquify contents of the mixing bowl.
+Liquefy contents of the mixing bowl.
 Pour contents of the mixing bowl into the baking dish.
 Refrigerate for 1 hour.
