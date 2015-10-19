@@ -3,16 +3,15 @@ section	.text
 
 _start:					;tell linker entry point
 
-	xor	eax,eax	; eax:=0
+	xor	eax,eax		; eax:=0
 	lea	edx,[rax+len]	;message length
-	mov	esi,msg	;message to write
-	lea	edi,[rax+1];file descriptor (stdout)
-	mov	al,1	;system call number (sys_write)
-	syscall		;call kernel
+	mov	esi,msg		;message to write
+	lea	edi,[rax+1]	;file descriptor (stdout)
+	mov	al,1		;system call number (sys_write)
+	syscall			;call kernel
 	
-;	xor	eax, eax
-	mov	al,60	;system call number (sys_exit)
-	syscall		;call kernel
+	mov	al,60		;system call number (sys_exit)
+	syscall			;call kernel
 
 section	.data
 
