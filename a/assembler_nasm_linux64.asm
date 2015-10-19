@@ -13,7 +13,7 @@ _start:					;tell linker entry point
 	mov	al,60		;system call number (sys_exit)
 	syscall			;call kernel
 
-section	.data
+section	.rodata
 
 msg	db	'Hello, world!',0xa	;our string
 len	equ	$ - msg			;length of our string
