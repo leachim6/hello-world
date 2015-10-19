@@ -5,8 +5,8 @@ _start:					;tell linker entry point
 
 	xor	eax,eax		; eax:=0
 	lea	edx,[rax+len]	;message length
-	mov	esi,msg		;message to write
 	mov	al,1		;system call number (sys_write)
+	mov	esi,msg		;message to write
 	mov	edi,eax		;file descriptor (stdout)
 	syscall			;call kernel
 	
