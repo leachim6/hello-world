@@ -1,0 +1,1 @@
+hello : $(info Hello world!)
