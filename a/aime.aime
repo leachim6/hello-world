@@ -1,0 +1,7 @@
+integer
+main(void)
+{
+    o_text("Hello world!\n");
+ 
+    return 0;
+}
