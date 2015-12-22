@@ -8,11 +8,11 @@ _start:					;tell linker entry point
 	lea	edx,[ebx+len]	;message length
 	lea	eax,[ebx+4]	;system call number (sys_write)
 	inc	ebx		;file descriptor (stdout)
-	int	0x80	;call kernel
+	int	0x80		;call kernel
 
-	xor	eax, eax
-	inc	eax	;system call number (sys_exit)
-	int	0x80	;call kernel
+	xor	eax, eax	;set eax=0
+	inc	eax		;system call number (sys_exit)
+	int	0x80		;call kernel
 
 section	.rodata
 
