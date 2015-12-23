@@ -1,0 +1,6 @@
+			.ORIG x3000
+
+			LEA R0, HELLOWORLD
+			PUTS
+	
+HELLOWORLD	.STRINGZ "Hello world!\n"
