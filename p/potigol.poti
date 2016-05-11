@@ -1,0 +1,1 @@
+escreva "Hello World"
