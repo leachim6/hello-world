@@ -1,0 +1,1 @@
+select ?s { bind("Hello World!" as ?s) }
