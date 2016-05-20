@@ -1,0 +1,7 @@
+#!/usr/bin/bts
+
+const hello = "Hello, world!\n"
+
+print(hello)
+
+// vim: set syntax=c ts=4 sw=4 et:
