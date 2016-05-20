@@ -1,6 +1,5 @@
-#include<stdio.h>
+#include <unistd.h>
 
 int main() {
-	printf("Hello World\n");
-	return 0;
+	return write(1, "Hello World\n", 12);
 }
