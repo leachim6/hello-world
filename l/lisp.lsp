@@ -1,4 +1,6 @@
 ; LISP
-(DEFUN HELLO-WORLD ()
+(DEFUN hello ()
   (PRINT (LIST 'HELLO 'WORLD))
 )
+
+(hello)
