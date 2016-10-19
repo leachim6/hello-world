@@ -1,4 +1,0 @@
-main()
-{
-  print('Hello, world!');
-}
