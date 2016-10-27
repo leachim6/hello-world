@@ -1,10 +1,4 @@
-HELLO:   PROCEDURE OPTIONS (MAIN);
+World: Procedure options(main);
+          Put List( 'Hello world' );
 
-             /* A PROGRAM TO OUTPUT HELLO WORLD */
-             FLAG = 0;
-
-LOOP:     DO WHILE (FLAG = 0);        
-             PUT SKIP DATA('HELLO WORLD!');
-          END LOOP;
-
-END HELLO;
+          End World;
