@@ -3,7 +3,7 @@ Hello, World!
 
 Hello world in every programming language.
 
-Inspired by[Helloworldcollection.de](http://helloworldcollection.de/)
+Inspired by [Helloworldcollection.de](http://helloworldcollection.de/)
 
 As I watch the collection expand, this project has blown up more than I ever thought possible.
 Thanks to everyone who continues to contribute, new languages are created every day!
