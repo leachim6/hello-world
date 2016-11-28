@@ -5,6 +5,6 @@ When adding new "Hello World" programs, please name the file according to the la
 
 Use
 ```bash
-cat README_nolist.md > README.md; echo >> README.md; echo "### This repository surrently contains "Hello World" programs in the following languages:" >> README.md; ruby list_langs.rb >> README.md
+cat README_nolist.md > README.md; echo >> README.md; echo "### This repository currently contains "Hello World" programs in the following languages:" >> README.md; ruby list_langs.rb >> README.md
 ```
 for updating the list of languages in `README.md` (make sure you are in the repository's root directory when invoking those commands).
