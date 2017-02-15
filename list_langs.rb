@@ -3,7 +3,7 @@ Dir.foreach "." do |odir|
   Dir.foreach odir do |dir|
     next if dir == "." or dir == ".."
     currdirname = ""
-    dir.split(".")[0].gsub("-", " ").split(" ").each do |str|
+    dir.split(".")[0].gsub("-", " ").gsub("_", " ").split(" ").each do |str|
       currdirname << str.capitalize + " "
     end
     currdirname.chomp(currdirname[-1])
