@@ -228,6 +228,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz) the evolution of [hello-wor
 * Ceylon 
 * Cat 
 * Clips 
+* Cheddar 
 * Cypherneo4j 
 * Coffeescript 
 * Cgi 
