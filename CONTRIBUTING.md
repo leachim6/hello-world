@@ -7,4 +7,5 @@ Use
 ```bash
 ./list_langs.py
 ```
-for updating the list of languages in `README.md` (make sure you are in the repository's root directory when running the script).
+for updating the list of languages in `README.md` (make sure you are in the repository's root directory when running the script).  
+**NOTE THAT THIS SCRIPT MUST BE EXECUTED ON PYTHON 3.6+!** If your default isn't 3.6+, use `python3 list_langs.py`.
