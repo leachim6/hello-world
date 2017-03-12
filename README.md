@@ -104,6 +104,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz) the evolution of [hello-wor
 * [Beta](b/beta.bet)
 * [Bit](b/BIT.bit)
 * [Bitbitjump](b/BitBitJump.bbj)
+* [BlackRum](b/BlackRum.br)
 * [Blc](b/BLC.Blc)
 * [Blitz3d](b/blitz3d.bb)
 * [Blub](b/blub.blub)
