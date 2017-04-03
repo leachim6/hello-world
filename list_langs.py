@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import os
+from urllib.parse import quote
 
 readme = open('README.md', 'w')
 
@@ -20,6 +21,6 @@ for dir in os.listdir('.'):
         lang = ''
         for str in file[0:(len(file) if file.find('.') == -1 else file.find('.'))].replace('-', ' ').replace('_', ' ').split():
           lang += str.capitalize() + ' '
-        readme.write('* [{}]({})\n'.format(lang[:-1], os.path.join(dir if dir != "#" else "%23", file))) # Cut trailing space
+        readme.write('* [{}]({})\n'.format(lang[:-1], quote(os.path.join(dir if dir != "#" else "%23", file)))) # Cut trailing space
 
 readme.close()
