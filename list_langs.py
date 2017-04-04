@@ -14,13 +14,13 @@ with open('README_nolist.md', 'r') as temp:
 readme.write('\n### This repository currently contains "Hello World" programs in the following languages:\n')
 
 # List the available languages
-for dir in sorted(os.listdir('.')):
-  if not (dir == '.' or dir == '..' or dir[0] == '.' or os.path.isfile(dir)):
-    for file in sorted(os.listdir(dir), key=lambda s: s.lower()):
-      if os.path.isfile(os.path.join(dir, file)):
+for dirname in sorted(os.listdir('.')):
+  if not (dirname == '.' or dirname == '..' or dirname[0] == '.' or os.path.isfile(dirname)):
+    for filename in sorted(os.listdir(dirname), key=lambda s: s.lower()):
+      if os.path.isfile(os.path.join(dirname, filename)):
         lang = ''
-        for str in file[0:(len(file) if file.find('.') == -1 else file.find('.'))].replace('-', ' ').replace('_', ' ').split():
-          lang += str.capitalize() + ' '
-        readme.write('* [{}]({})\n'.format(lang[:-1], quote(os.path.join(dir, file)))) # Cut trailing space
+        for name in filename[0:(len(filename) if filename.find('.') == -1 else filename.find('.'))].replace('-', ' ').replace('_', ' ').split():
+          lang += name.capitalize() + ' '
+        readme.write('* [{}]({})\n'.format(lang[:-1], quote(os.path.join(dirname, filename)))) # Cut trailing space
 
 readme.close()
