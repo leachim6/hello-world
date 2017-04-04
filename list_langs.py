@@ -13,13 +13,13 @@ with open('README_nolist.md', 'r') as temp:
 readme.write('\n### This repository currently contains "Hello World" programs in the following languages:\n')
 
 # List the available languages
-for dir in os.listdir('.'):
-  if not (dir == '.' or dir == '..' or dir[0] == '.' or os.path.isfile(dir)):
-    for file in os.listdir(dir):
-      if os.path.isfile(os.path.join(dir, file)):
+for dirname in os.listdir('.'):
+  if not (dirname == '.' or dirname == '..' or dirname[0] == '.' or os.path.isfile(dirname)):
+    for filename in os.listdir(dirname):
+      if os.path.isfile(os.path.join(dirname, filename)):
         lang = ''
-        for str in file[0:(len(file) if file.find('.') == -1 else file.find('.'))].replace('-', ' ').replace('_', ' ').split():
-          lang += str.capitalize() + ' '
-        readme.write('* [{}]({})\n'.format(lang[:-1], os.path.join(dir if dir != "#" else "%23", file))) # Cut trailing space
+        for name in filename[0:(len(filename) if filename.find('.') == -1 else filename.find('.'))].replace('-', ' ').replace('_', ' ').split():
+          lang += name.capitalize() + ' '
+        readme.write('* [{}]({})\n'.format(lang[:-1], os.path.join(dirname if dirname != "#" else "%23", filename))) # Cut trailing space
 
 readme.close()
