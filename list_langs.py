@@ -18,9 +18,7 @@ for dirname in sorted(os.listdir('.')):
   if not (dirname == '.' or dirname == '..' or dirname[0] == '.' or os.path.isfile(dirname)):
     for filename in sorted(os.listdir(dirname), key=lambda s: s.lower()):
       if os.path.isfile(os.path.join(dirname, filename)):
-        lang = ''
-        for name in filename[0:(len(filename) if filename.find('.') == -1 else filename.find('.'))].replace('-', ' ').replace('_', ' ').split():
-          lang += name.capitalize() + ' '
-        readme.write('* [{}]({})\n'.format(lang[:-1], quote(os.path.join(dirname, filename)))) # Cut trailing space
+        lang = os.path.splitext(filename)[0].replace('-', ' ').replace('_', ' ').title()
+        readme.write('* [{}]({})\n'.format(lang, quote(os.path.join(dirname, filename)))) # Cut trailing space
 
 readme.close()
