@@ -1,6 +1,6 @@
 use std
 
 const main = {
-    std.write(1, "Hello world!\n")
+    std.put("Hello world!\n")
 }
 
