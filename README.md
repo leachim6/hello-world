@@ -313,7 +313,6 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz) the evolution of [hello-wor
 * [Mumps](m/mumps.m)
 * [Mushcode](m/mushcode.mush)
 * [Myrddin](m/myrddin.myr)
-* [Myrddin](m/myrddin.use)
 * [Mysql](m/mysql.sql)
 * [Neko](n/neko.neko)
 * [Nemerle](n/nemerle.n)
