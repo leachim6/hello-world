@@ -1,17 +1,17 @@
 Hello, World!
 =============
 
-Hello world in every programming language.
+> Inspired by [The Hello World Collection](https://helloworldcollection.github.io/).
 
-Inspired by [The Hello World Collection](https://helloworldcollection.github.io/)
+#### Hello world in every programming language.
 
 As I watch the collection expand, this project has blown up more than I ever thought possible.
 Thanks to everyone who continues to contribute, new languages are created every day!
 
 Make sure to see CONTRIBUTING.md for instructions on contributing to the project!
 
-Spin-Off project smartly suggested and implemented by @zenware  
-Meet [FizzBuzz](https://github.com/zenware/FizzBuzz) the evolution of [hello-world](https://github.com/leachim6/hello-world)
+Spin-Off project smartly suggested and implemented by [@zenware](https://github.com/zenware):  
+Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-world](https://github.com/leachim6/hello-world).
 
 ### This repository currently contains "Hello World" programs in the following languages:
 * [0815](%23/0815.0815)
@@ -348,6 +348,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz) the evolution of [hello-wor
 * [Pawn](p/pawn.p)
 * [Pb](p/pb.pwr)
 * [Pbwin](p/pbwin.bas)
+* [Pebble](p/pebble.c)
 * [Perl](p/perl.cgi)
 * [Perl](p/perl.pl)
 * [Perl6](p/perl6.p6)
@@ -436,6 +437,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz) the evolution of [hello-wor
 * [Stanza](s/stanza.stanza)
 * [Streem](s/streem.strm)
 * [Stuck](s/stuck.stuck)
+* [Stuck 0Byte](s/stuck_0byte.stuck)
 * [Subleq](s/subleq.sq)
 * [Supercollider](s/supercollider.sc)
 * [Svg](s/svg.svg)
