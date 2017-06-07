@@ -157,6 +157,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Dc](d/dc.dc)
 * [Dcl](d/DCL)
 * [Dd Dd](d/dd_dd.dd)
+* [Decimal](d/Decimal.dec)
 * [Delphi](d/delphi.delphi)
 * [Delphi](d/delphi.pas)
 * [Dis](d/dis.dis)
