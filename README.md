@@ -319,7 +319,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Nemerle](n/nemerle.n)
 * [Newtonscript](n/newtonscript.nwt)
 * [Nice](n/nice.nice)
-* [Nimrod](n/nimrod.nim)
+* [Nim](n/nim.nim)
 * [Nit](n/nit.nit)
 * [Node](n/node.js)
 * [Nodejs](n/nodejs.js)
