@@ -432,6 +432,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Soupscript](s/soupscript.script)
 * [Sparql](s/sparql.sparql)
 * [Spoon](s/spoon.spoon)
+* [Spss](s/spss.spss)
 * [Sql](s/sql.sql)
 * [Squirrel](s/squirrel.nut)
 * [Standard Ml](s/standard-ml.sml)
