@@ -269,7 +269,6 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Kiml](k/KimL.kiml)
 * [Kipple](k/kipple.kipple)
 * [Kitten](k/kitten.ktn)
-* [Kotlin](k/kotlin)
 * [Kotlin](k/kotlin.kt)
 * [Ksh](k/ksh.ksh)
 * [Labyrinth](l/labyrinth.labyrinth)
