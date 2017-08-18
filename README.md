@@ -67,6 +67,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Assembler 6502C64](a/assembler_6502c64.asm)
 * [Assembler 6809Vectrex](a/assembler_6809vectrex.asm)
 * [Assembler 8048 Videopac](a/assembler_8048_videopac.asm)
+* [Assembler Arm](a/assembler_arm.s)
 * [Assembler Atari2600](a/assembler_atari2600.asm)
 * [Assembler Dcpu16](a/assembler_DCPU16.asm)
 * [Assembler Fasm Dos](a/assembler_fasm_dos.asm)
