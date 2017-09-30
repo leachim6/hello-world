@@ -440,7 +440,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Stanza](s/stanza.stanza)
 * [Streem](s/streem.strm)
 * [Stuck](s/stuck.stuck)
-* [Stuck 0Byte](s/stuck_0byte.stuck)
+* [Stuck (0 byte version)](s/stuck_0byte.stuck)
 * [Subleq](s/subleq.sq)
 * [Supercollider](s/supercollider.sc)
 * [Svg](s/svg.svg)
