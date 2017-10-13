@@ -71,6 +71,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Assembler Atari2600](a/assembler_atari2600.asm)
 * [Assembler Dcpu16](a/assembler_DCPU16.asm)
 * [Assembler Fasm Dos](a/assembler_fasm_dos.asm)
+* [Assembler Hla](a/assembler_hla.hla)
 * [Assembler Ibm360](a/assembler_ibm360.asm)
 * [Assembler Intel](a/assembler_intel.asm)
 * [Assembler Lc 3](a/assembler_lc-3.asm)
