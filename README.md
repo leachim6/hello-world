@@ -388,6 +388,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Q](q/q.q)
 * [Qbasic](q/Qbasic.bas)
 * [Qore](q/qore.q)
+* [Qsharp](q/qsharp)
 * [Qu](q/qu.qu)
 * [Quakec](q/QuakeC.qc)
 * [Quartzcomposer](q/QuartzComposer.qtz)
