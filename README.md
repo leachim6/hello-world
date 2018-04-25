@@ -522,6 +522,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Y](y/Y.y)
 * [Yaml](y/yaml.yaml)
 * [Yolang](y/yolang.yo)
+* [YoptaScript](y/yoptascript.js)
 * [Zbd](z/zbd)
 * [Zepto](z/zepto.zp)
 * [Zetaplex](z/zetaplex.zeta)
