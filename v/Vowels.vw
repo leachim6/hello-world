@@ -1,0 +1,17 @@
+ue
+yeouo
+euea
+euai
+euai
+euoa
+eaiu
+eaao
+eioo
+euoa
+euou
+euai
+euee
+eaai
+eeoe
+eeee
+y
