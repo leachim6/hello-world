@@ -10,7 +10,7 @@ Thanks to everyone who continues to contribute, new languages are created every 
 
 Make sure to see CONTRIBUTING.md for instructions on contributing to the project!
 
-Spin-Off project smartly suggested and implemented by [@zenware](https://github.com/zenware):
+Spin-Off project smartly suggested and implemented by [@zenware](https://github.com/zenware):  
 Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-world](https://github.com/leachim6/hello-world).
 
 * [Hello Html](e/elm.elm)
@@ -22,7 +22,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [4Gl](%23/4gl.4gl)
 * [4Test](%23/4test)
 * [4Thdimension](%23/4thdimension.4dd)
-* [~English](%23/%7EEnglish.ext)
+* [~English](%23/~English.ext)
 * [Abap](a/abap.abap)
 * [Abc](a/abc.abc)
 * [Acidic](a/ACIDIC.acidic)
@@ -71,6 +71,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Assembler 8048 Videopac](a/assembler_8048_videopac.asm)
 * [Assembler Arm](a/assembler_arm.s)
 * [Assembler Atari2600](a/assembler_atari2600.asm)
+* [Assembler Bootsect](a/assembler_bootsect.asm)
 * [Assembler Dcpu16](a/assembler_DCPU16.asm)
 * [Assembler Fasm Dos](a/assembler_fasm_dos.asm)
 * [Assembler Hla](a/assembler_hla.hla)
@@ -93,7 +94,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Assembler Z80 Knightos](a/assembler_z80_knightos.asm)
 * [Assembler Z80 Ti83Calculator](a/assembler_z80_ti83calculator.asm)
 * [Assembler Z80 Zxspectrum](a/assembler_z80_zxspectrum.asm)
-* [Attache](a/Attache.@)
+* [Attache](a/Attache.%40)
 * [Autohotkey](a/autohotkey.ahk)
 * [Autoit](a/autoit.au3)
 * [Awful](a/awful.yuk)
@@ -109,12 +110,14 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Befunge](b/befunge.be)
 * [Bennugd](b/BennuGD)
 * [Beta](b/beta.bet)
+* [Birl](b/BIRL.c)
 * [Bit](b/BIT.bit)
 * [Bitbitjump](b/BitBitJump.bbj)
 * [Blackrum](b/BlackRum.br)
 * [Blc](b/BLC.Blc)
 * [Blitz3D](b/blitz3d.bb)
 * [Blub](b/blub.blub)
+* [Bolgefuck](b/bolgefuck.bf)
 * [Boo](b/boo.boo)
 * [Brainfuck 2D](b/brainfuck-2d.bf2d)
 * [Brainfuck](b/brainfuck.bf)
@@ -190,7 +193,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Emojicode](e/emojicode.emojic)
 * [Emoticon](e/emoticon.emoticon)
 * [Eoool](e/EOOOL.eoool)
-* [Erlang Hw](e/erlang_hw.erl)
+* [Erlang](e/erlang.erl)
 * [Factor](f/factor.factor)
 * [Falcon](f/falcon.fal)
 * [False](f/false.f)
@@ -291,7 +294,6 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Livescript](l/livescript.ls)
 * [Llvm](l/llvm.ll)
 * [Lnusp](l/LNUSP.lnusp)
-* [Logical](l/logical.logical)
 * [Logo](l/logo.lg)
 * [Lola](l/LOLA.lola)
 * [Lolcode](l/lolcode.lol)
@@ -522,7 +524,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Y](y/Y.y)
 * [Yaml](y/yaml.yaml)
 * [Yolang](y/yolang.yo)
-* [YoptaScript](y/yoptascript.js)
+* [Yoptascript](y/yoptascript.js)
 * [Zbd](z/zbd)
 * [Zepto](z/zepto.zp)
 * [Zetaplex](z/zetaplex.zeta)
