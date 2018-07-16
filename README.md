@@ -423,6 +423,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Sacred](s/sacred.sacred)
 * [Sal](s/sal.s)
 * [Sas](s/sas.sas)
+* [Sass](s/sass.sass)
 * [Sather](s/sather.sa)
 * [Scala](s/scala.scala)
 * [Scheme](s/scheme.scm)
