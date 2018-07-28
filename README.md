@@ -414,6 +414,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Rexx](r/rexx.rexx)
 * [Richtea](r/richtea.tea)
 * [Ring](r/ring.ring)
+* [Rockstar](r/rockstar.rock)
 * [Roco](r/roco.roco)
 * [Roy](r/roy.roy)
 * [Ruby](r/ruby.rb)
