@@ -1,0 +1,3 @@
+# https://github.com/codefionn/feder
+include "stdio.fd"
+io.println("Hello World")
