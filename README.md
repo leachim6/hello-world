@@ -14,7 +14,7 @@ Spin-Off project smartly suggested and implemented by [@zenware](https://github.
 Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-world](https://github.com/leachim6/hello-world).
 
 * [Hello Html](e/elm.elm)
-Rockstar
+
 ### This repository currently contains "Hello World" programs in the following languages:
 * [0815](%23%5C0815.0815)
 * [1C Enterprise](%23%5C1c-enterprise)
