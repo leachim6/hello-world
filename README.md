@@ -56,6 +56,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Ante](a/ante.ante)
 * [Antlang](a/AntLang.ant)
 * [Apc](a/apc.apc)
+* [Apex](a/Apex.cls)
 * [Apl](a/apl.apl)
 * [Applescript](a/applescript.scpt)
 * [Arduino](a/arduino.ino)
