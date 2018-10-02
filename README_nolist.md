@@ -14,3 +14,5 @@ Spin-Off project smartly suggested and implemented by [@zenware](https://github.
 Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-world](https://github.com/leachim6/hello-world).
 
 * [Hello Html](e/elm.elm)
+
+* [Sidekiq](s/sidekiq.sidekiq)
