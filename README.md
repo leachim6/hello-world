@@ -178,6 +178,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Dogescript](d/dogescript.djs)
 * [Dogo](d/DOGO.dogo)
 * [Dos](d/dos.bat)
+* [Dream Maker](d/DreamMaker.dm)
 * [Drive In Window](d/Drive-In%20Window.diw)
 * [Dtrace](d/dtrace.d)
 * [Dup](d/DUP.dup)
