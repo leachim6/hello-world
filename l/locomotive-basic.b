@@ -1,2 +1,2 @@
-10 print "Goodbye, World!"
+10 print "Hello, World!"
 run
