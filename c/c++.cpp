@@ -1,9 +1,6 @@
-#include <iostream> // include API
+#include<iostream.h>
 
-using namespace std;
-
-int main() // the main code portion of a C++ program
+void main()
 {
-   cout << "Hello World" << endl;  //print Hello World on the screen 
-   return 0; // conventional
+   cout<<"\n Hello World";
 }
