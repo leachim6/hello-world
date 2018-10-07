@@ -3,10 +3,10 @@ Hello, World!
 
 > Inspired by [The Hello World Collection](https://helloworldcollection.github.io/).
 
-#### Hello world in every programming language.
+#### **Hello world** in every programming language!
 
 As I watch the collection expand, this project has blown up more than I ever thought possible.
-Thanks to everyone who continues to contribute, new languages are created every day!
+Thanks to everyone who contributes, new languages are created every day!
 
 Make sure to see CONTRIBUTING.md for instructions on contributing to the project!
 
@@ -535,3 +535,6 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Zombie](z/zombie.zombie)
 * [Zonnon](z/zonnon.znn)
 * [Zsh](z/zsh.zsh)
+
+
+**Thank You!**
