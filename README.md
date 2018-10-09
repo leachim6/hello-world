@@ -460,7 +460,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Sml](s/sml.sml)
 * [Snowman](s/snowman.sm)
 * [Soupscript](s/soupscript.script)
-* [Solidity](s/solidty.sol)
+* [Solidity](s/solidity.sol)
 * [Sparql](s/sparql.sparql)
 * [Spoon](s/spoon.spoon)
 * [Spss](s/spss.spss)
