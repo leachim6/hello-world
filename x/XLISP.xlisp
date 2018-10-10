@@ -1,0 +1,2 @@
+(DISPLAY "Hello world!")
+(NEWLINE)

@@ -533,6 +533,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Xbase++](x/xbase%2B%2B.prg)
 * [Xbase](x/xbase.dbf)
 * [Xl](x/xl.xl)
+* [Xlisp](x/XLISP.xlisp)
 * [Xlogo](x/xlogo.lgo)
 * [Xml](x/xml.xml)
 * [Xpl0](x/xpl0.xpl)
