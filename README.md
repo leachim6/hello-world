@@ -421,6 +421,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Reason](r/reason.re)
 * [Rebol](r/rebol.r)
 * [Recurse](r/recurse.recurse)
+* [Red](r/RED.red)
 * [Restructuredtext](r/reStructuredText.rst)
 * [Retro](r/Retro.retro)
 * [Rexx](r/rexx.rexx)
