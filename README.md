@@ -420,6 +420,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Realbasic](r/REALbasic.realbasic)
 * [Reason](r/reason.re)
 * [Rebol](r/rebol.r)
+* [Rebol](r/REBOL.reb)
 * [Recurse](r/recurse.recurse)
 * [Red](r/RED.red)
 * [Restructuredtext](r/reStructuredText.rst)
