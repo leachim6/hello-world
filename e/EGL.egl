@@ -1,0 +1,5 @@
+program HelloWorld
+    function main()
+        SysLib.writeStdout("Hello world!");
+    end
+end
