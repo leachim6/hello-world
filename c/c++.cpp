@@ -1,6 +1,4 @@
-#include <iostream> // include API
-
-using namespace std;
+#include <iostream.h> // include API
 
 int main() // the main code portion of a C++ program
 {
