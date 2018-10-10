@@ -189,6 +189,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Dylan](d/dylan.dl)
 * [Dyvil](d/Dyvil.dyv)
 * [Ebuild](e/ebuild.ebuild)
+* [Ec](e/Ec.ec)
 * [Eiffel](e/Eiffel.eiff)
 * [Elixir](e/elixir.ex)
 * [Elixir](e/elixir.exs)
