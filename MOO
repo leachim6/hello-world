@@ -1,0 +1,2 @@
+player:tell("Hello World");
+.
