@@ -88,6 +88,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Assembler Nasm Linux](a/assembler_nasm_linux.asm)
 * [Assembler Nasm Linux64](a/assembler_nasm_linux64.asm)
 * [Assembler Nasm Win32](a/assembler_nasm_win32.asm)
+* [Assembler PDP-10 MIDAS](a/assembler_pdp10_midas.mid)
 * [Assembler Tasm Dos](a/assembler_tasm_dos.asm)
 * [Assembler Tms9900 Ti99 4A](a/assembler_tms9900_ti99_4a.asm)
 * [Assembler Vax Ultrix](a/assembler_vax_ultrix.asm)
