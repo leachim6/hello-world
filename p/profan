@@ -1,0 +1,5 @@
+' Hello World in Profan (http://www.profan.de/)
+
+cls
+print "Hello World!"
+waitkey
