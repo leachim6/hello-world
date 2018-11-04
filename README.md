@@ -195,6 +195,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Eoool](e/EOOOL.eoool)
 * [Erlang Escript](e/erlang_escript.erl)
 * [Erlang Hw](e/erlang_hw.erl)
+* [易语言](e/易语言.e)
 * [Factor](f/factor.factor)
 * [Falcon](f/falcon.fal)
 * [False](f/false.f)
