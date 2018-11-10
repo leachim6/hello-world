@@ -1,9 +1,10 @@
 #include <iostream> // Include the I/O library
 
-using namespace std;
+// We're going to use cout from the standard (std) library
+using std::cout;
 
-int main(void) // The main function of a C++ program
+int main()                          // The main function of a C++ program
 {
-   cout << "Hello World" << endl;  // Print Hello World on the screen 
-   return 0;                       // Return 0 from the program (success)
+   cout << "Hello World\n";         // Print Hello World and a newline on the screen
+   return 0;                        // (optional) Return 0 from the program (success)
 }
