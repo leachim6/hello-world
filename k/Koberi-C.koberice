@@ -1,0 +1,6 @@
+# https://github.com/fpeterek/Koberi-C
+
+(int main()
+    (print "Hello, World!")
+    (return 0))
+
