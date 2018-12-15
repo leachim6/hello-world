@@ -1,0 +1,12 @@
+"""
+This is the infamous "Hello, world." example.
+
+And this text you are reading right now is the "doc string" for the whole
+program. You can also put doc strings underneath classes, class variables,
+methods and properties.
+"""
+
+class Hello
+
+    def main
+        print 'Hello, world.'
