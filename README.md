@@ -355,7 +355,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Oraclesql](o/oraclesql.sql)
 * [Orc](o/Orc.orc)
 * [Oz](o/oz.oz)
-* [Hello World](p/hello_world.pl1)
+* [PL1](p/hello_world.pl1)
 * [Parenthetic](p/parenthetic.p)
 * [Pascal](p/pascal.p)
 * [Pawn](p/pawn.p)
