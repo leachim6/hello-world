@@ -97,6 +97,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Attache](a/Attache.%40)
 * [Autohotkey](a/autohotkey.ahk)
 * [Autoit](a/autoit.au3)
+* [AviSynth](a/avisynth.avs)
 * [Awful](a/awful.yuk)
 * [Awk](a/awk.awk)
 * [B](b/B.b)
