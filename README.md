@@ -387,6 +387,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Powershell](p/powershell.ps1)
 * [Processing](p/processing.pde)
 * [Prolog](p/prolog.pro)
+* [Promela](p/promela.pml)
 * [Pure Data](p/pure_data.pd)
 * [Purebasic](p/purebasic.pb)
 * [Purescript](p/purescript.purs)
