@@ -112,6 +112,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Beta](b/beta.bet)
 * [Birl](b/BIRL.c)
 * [Bit](b/BIT.bit)
+* [Bitsbox](b/Bitsbox.b)
 * [Bitbitjump](b/BitBitJump.bbj)
 * [Blackrum](b/BlackRum.br)
 * [Blc](b/BLC.Blc)
