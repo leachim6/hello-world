@@ -1,0 +1,3 @@
+match (tx) {
+	throw("Hello, world!")
+}
