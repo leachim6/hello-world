@@ -406,6 +406,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Radixal](r/radixal.radixal)
 * [Ratfor](r/ratfor.ratfor)
 * [React](r/react.js)
+* [Red](r/Red.red)
 * [Readlink](r/readlink.readlink)
 * [Reason](r/reason.re)
 * [Rebol](r/rebol.r)
