@@ -301,7 +301,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Lolpython](l/lolpython.lol)
 * [Lsl](l/lsl.lsl)
 * [Lua](l/lua.lua)
-* [Lua Object Generation JNGP](l/lua_jngp.j)
+* [Lua Grimex](l/lua_grimex.j)
 * [M4](m/m4.m4)
 * [Macsyma](m/macsyma.mac)
 * [Magic](m/magic)
