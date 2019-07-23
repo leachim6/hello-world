@@ -3,5 +3,5 @@ import std.stdio;
 
 void main()
 {
-	   writefln("Hello World!");
+	   writeln("Hello World!");
 }
