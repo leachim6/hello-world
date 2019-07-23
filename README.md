@@ -87,6 +87,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Assembler Nasm Freebsd](a/assembler_nasm_freebsd.asm)
 * [Assembler Nasm Linux](a/assembler_nasm_linux.asm)
 * [Assembler Nasm Linux64](a/assembler_nasm_linux64.asm)
+* [Assembler Nasm Macho64](a/assembler_nasm_macho64.asm)
 * [Assembler Nasm Win32](a/assembler_nasm_win32.asm)
 * [Assembler Tasm Dos](a/assembler_tasm_dos.asm)
 * [Assembler Tms9900 Ti99 4A](a/assembler_tms9900_ti99_4a.asm)
