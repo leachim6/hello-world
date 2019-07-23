@@ -448,6 +448,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Smil](s/smil.smil)
 * [Sml](s/sml.sml)
 * [Snowman](s/snowman.sm)
+* [Solidity](s/Solidity.sol)
 * [Soupscript](s/soupscript.script)
 * [Sparql](s/sparql.sparql)
 * [Spoon](s/spoon.spoon)
