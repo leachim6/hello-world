@@ -490,6 +490,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [V](v/V)
 * [Vala](v/vala.vala)
 * [Vbnet](v/vbnet.vb)
+* [Velato](v/velato.ly)
 * [Verbose](v/verbose.verbose)
 * [Verbosefuck](v/verbosefuck.vbfk)
 * [Verilog](v/verilog.v)
