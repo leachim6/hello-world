@@ -302,6 +302,7 @@ AspectJ
 * [Llvm](l%5Cllvm.ll)
 * [Lnusp](l%5CLNUSP.lnusp)
 * [Logo](l%5Clogo.lg)
+* [Logtalk](l%5Clogtalk.lgt)
 * [Lola](l%5CLOLA.lola)
 * [Lolcode](l%5Clolcode.lol)
 * [Lolpython](l%5Clolpython.lol)
