@@ -1,9 +1,9 @@
-#include <iostream> // include API
+#include <iostream> //Header file for I/O functions {include API}
 
-using namespace std;
+using namespace std; 
 
-int main() // the main code portion of a C++ program
+int main() //Driver code {Main function - where the execution of program begins}
 {
-   cout << "Hello World" << endl;  //print Hello World on the screen 
-   return 0; // conventional
+   cout << "Hello World" << endl;  //Prints Hello World on the screen 
+   return 0; //Finishing of a function
 }
