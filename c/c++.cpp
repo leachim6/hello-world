@@ -4,6 +4,6 @@ using namespace std;
 
 int main() // the main code portion of a C++ program
 {
-   cout << "Hello World" << endl;  //print Hello World on the screen 
+   cout << "Hello World" << endl;  /*print Hello World on the screen and endl means endline*/ 
    return 0; // conventional
 }
