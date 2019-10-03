@@ -1,0 +1,3 @@
+// Hello World in Frink
+
+println["Hello World!"]
