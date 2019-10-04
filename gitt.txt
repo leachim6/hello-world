@@ -1,0 +1,1 @@
+By that definition, no, HTML is not a programming language, even a declarative one. It is, as others have explained, a markup language. It is, as others have explained, a markup language. But the people reviewing your resume may very well not care about such a formal distinction.
