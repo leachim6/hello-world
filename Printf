@@ -1,0 +1,8 @@
+printf is used to output on the output device  
+
+int printf(const char *format, ...);
+
+It prints strings, other elements maybe incorporated through % symbol
+
+printf("Its a %d", num);
+%d represents integer and num is an integer variable.
