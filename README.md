@@ -298,6 +298,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Lazyk](l/LazyK.lazy)
 * [Leszek](l/leszek.leszek)
 * [Limbo](l/limbo.b)
+* [Lingo](l/lingo.exe)
 * [Lisaac](l/lisaac.li)
 * [Lisp](l/lisp.lsp)
 * [Livescript](l/livescript.ls)
