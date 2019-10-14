@@ -273,6 +273,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Jason](j/jason.mas2j)
 * [Java](j/Java.java)
 * [Javascript](j/javascript.js)
+* [Jsfuck](j/jsfuck.js)
 * [Jess](j/jess.cpl)
 * [Json](j/json.json)
 * [Jsoniq](j/JSONiq)
