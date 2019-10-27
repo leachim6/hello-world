@@ -1,6 +1,6 @@
 #include <iostream> // include API
 
-using namespace std;
+using namespace std; //using standard namespace
 
 int main() // the main code portion of a C++ program
 {
