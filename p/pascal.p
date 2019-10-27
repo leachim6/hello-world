@@ -1,5 +1,6 @@
 program HelloWorld(output);
 begin
         writeln('Hello World');
-        readln;
+        write('Hello World');
+        readkey;
 end.
