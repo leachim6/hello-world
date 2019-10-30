@@ -352,7 +352,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Oberon](o/oberon.o)
 * [Obix](o/obix.osc)
 * [Obj](o/obj.st)
-* [Objc](o/objc.m)
+* [Objc](o/objc.m) (Objective C)
 * [Objective J](o/objective-j.j)
 * [Objectstar](o/ObjectStar)
 * [Ocaml](o/ocaml.ml)
