@@ -222,6 +222,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Fourier](f/fourier.fourier)
 * [Fsharp](f/fsharp.fs)
 * [Fstar](f/fstar.fst)
+* [GAML](g/GAML.gaml)
 * [Gammaplex](g/gammaplex.gammaplex)
 * [Gasoil](g/GASOIL.gasoil)
 * [Gecho](g/gecho.gecho)
