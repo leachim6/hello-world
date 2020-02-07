@@ -13,12 +13,15 @@ with open('README_nolist.md', 'r') as temp:
 # Write title
 readme.write('\n### This repository currently contains "Hello World" programs in the following languages:\n')
 
+# set the variable count to one (1) before the loop starts
+count = 1
+
 # List the available languages
 for dirname in sorted(os.listdir('.')):
   if not (dirname == '.' or dirname == '..' or dirname[0] == '.' or os.path.isfile(dirname)):
     for filename in sorted(os.listdir(dirname), key=lambda s: s.lower()):
       if os.path.isfile(os.path.join(dirname, filename)):
         lang = os.path.splitext(filename)[0].replace('-', ' ').replace('_', ' ').title()
-        readme.write('* [{}]({})\n'.format(lang, quote(os.path.join(dirname, filename))))
-
+        readme.write(str(count) + ' [{}]({})\n'.format(lang, quote(os.path.join(dirname, filename))))
+        count += 1
 readme.close()
