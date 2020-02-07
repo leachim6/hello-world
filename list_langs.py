@@ -22,6 +22,6 @@ for dirname in sorted(os.listdir('.')):
     for filename in sorted(os.listdir(dirname), key=lambda s: s.lower()):
       if os.path.isfile(os.path.join(dirname, filename)):
         lang = os.path.splitext(filename)[0].replace('-', ' ').replace('_', ' ').title()
-        readme.write(str(count) + ' [{}]({})\n'.format(lang, quote(os.path.join(dirname, filename))))
+        readme.write('{}. [{}]({})\n'.format(str(count), lang, quote(os.path.join(dirname, filename))))
         count += 1
 readme.close()
