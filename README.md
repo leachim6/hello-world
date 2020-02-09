@@ -546,6 +546,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Zbd](z/zbd)
 * [Zepto](z/zepto.zp)
 * [Zetaplex](z/zetaplex.zeta)
+* [Zig](z/zig.zig)
 * [Zim](z/zim.zim)
 * [Zimbu](z/zimbu.zu)
 * [Zombie](z/zombie.zombie)
