@@ -218,6 +218,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Fim++](f%5Cfim%2B%2B.fimpp)
 * [Fish](f%5Cfish.fish)
 * [Fjoelnir](f%5Cfjoelnir.fjo)
+* [Flask](f%5Cflask.py)
 * [Fob](f%5Cfob.fob)
 * [Focal](f%5Cfocal.fc)
 * [Fog.Fog](f%5Cfog.fog.md)
