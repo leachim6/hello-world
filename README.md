@@ -526,6 +526,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Vowels](v%5CVowels.vw)
 * [Vrml](v%5Cvrml.wrl)
 * [Vue](v%5Cvue.js)
+* [Wenyan](w%5Cwenyan.wy)
 * [Wheat](w%5Cwheat.wheat)
 * [Whenever](w%5Cwhenever.whenever)
 * [Whirl](w%5Cwhirl.wr)
