@@ -148,6 +148,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Chicken](c%5Cchicken.chicken)
 * [Cil](c%5Ccil.il)
 * [Clean](c%5Cclean.icl)
+* [Clipper](c%5Cclipper.cli)
 * [Clipper](c%5Cclipper.clipper)
 * [Clipper](c%5Cclipper.prg)
 * [Clips](c%5Cclips.clips)
