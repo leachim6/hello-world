@@ -237,6 +237,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Frink](f%5Cfrink.frink)
 * [Fsharp](f%5Cfsharp.fs)
 * [Fstar](f%5Cfstar.fst)
+* [Gaml](g%5CGAML.gaml)
 * [Gammaplex](g%5Cgammaplex.gammaplex)
 * [Gasoil](g%5CGASOIL.gasoil)
 * [Gecho](g%5Cgecho.gecho)
