@@ -2,4 +2,4 @@
      %put &string; 
      %mend; 
 
-%putit(string=Hello World!)
+%putit(string=Hello World)

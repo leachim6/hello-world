@@ -1,1 +1,1 @@
-echo -a Hello World!
+echo -a Hello World

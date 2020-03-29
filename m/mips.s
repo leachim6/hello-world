@@ -1,5 +1,5 @@
 .data
-hello_world: .asciiz "Hello World!"
+hello_world: .asciiz "Hello World"
 
 .text
 main:

@@ -1,5 +1,5 @@
 proc main()
     loop
-        WriteLine("Hello, World!")
+        WriteLine("Hello World")
     endloop
 end

@@ -6,11 +6,11 @@ main ()
    printf ("\n");
    printf ("<html>\n");
    printf ("<head>\n");
-   printf ("<title>Hello, world</title>\n");
+   printf ("<title>Hello World</title>\n");
    printf ("</head>\n");
    printf ("\n");
    printf ("<body>\n");
-   printf ("<h1>Hello, world</h1>\n");
+   printf ("<h1>Hello World</h1>\n");
    printf ("</body>\n");
    printf ("</html>\n");
 }

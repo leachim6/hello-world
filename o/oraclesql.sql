@@ -1,1 +1,1 @@
-SELECT 'Hello World!' FROM DUAL;
+SELECT 'Hello World' FROM DUAL;

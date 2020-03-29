@@ -1,3 +1,3 @@
-fun hello() = print("Hello world!\n");
+fun hello() = print("Hello World\n");
 
 hello()

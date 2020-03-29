@@ -1,4 +1,4 @@
-Hello, World!
+Hello World!
 =============
 
 > Inspired by [The Hello World Collection](https://helloworldcollection.github.io/).
@@ -12,5 +12,3 @@ Make sure to see CONTRIBUTING.md for instructions on contributing to the project
 
 Spin-Off project smartly suggested and implemented by [@zenware](https://github.com/zenware):  
 Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-world](https://github.com/leachim6/hello-world).
-
-* [Hello Html](e/elm.elm)

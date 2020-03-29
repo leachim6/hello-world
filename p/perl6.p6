@@ -2,5 +2,5 @@
 
 v6;
 
-say "Hello, World!";
+say "Hello World";
 

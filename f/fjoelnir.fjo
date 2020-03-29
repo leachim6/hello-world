@@ -3,7 +3,7 @@
     main ->
     stef(;)
     stofn
-        skrifastreng(;"Hello World!"),
+        skrifastreng(;"Hello World"),
     stofnlok
 }
 *

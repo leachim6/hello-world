@@ -3,7 +3,7 @@ void setup() {
   // initialize serial communication at 9600 bits per second:
   Serial.begin(9600);
   //print message serial monitor
-  Serial.println("Hello world!");
+  Serial.println("Hello World");
 }
 
 void loop() {

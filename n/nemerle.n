@@ -2,6 +2,6 @@ class Hello
 {
     static Main () : void
     {
-        System.Console.WriteLine ("Hello world!");
+        System.Console.WriteLine ("Hello World");
     }
 }
