@@ -159,6 +159,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Clisp](c%5Cclisp.lisp)
 * [Clojure](c%5Cclojure.clj)
 * [Cobol](c%5Ccobol.cbl)
+* [Cobra](c%5Ccobra.cobra)
 * [Coconut](c%5Ccoconut.coc)
 * [Coffeescript](c%5Ccoffeescript.coffee)
 * [Coldfusion](c%5Ccoldfusion.cfm)
