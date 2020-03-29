@@ -13,8 +13,6 @@ Make sure to see CONTRIBUTING.md for instructions on contributing to the project
 Spin-Off project smartly suggested and implemented by [@zenware](https://github.com/zenware):  
 Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-world](https://github.com/leachim6/hello-world).
 
-* [Hello Html](e/elm.elm)
-
 ### This repository currently contains "Hello World" programs in the following languages:
 * [0815](%23/0815.0815)
 * [1C Enterprise](%23/1c-enterprise)
