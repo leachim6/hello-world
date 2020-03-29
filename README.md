@@ -119,6 +119,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Blackrum](b%5CBlackRum.br)
 * [Blc](b%5CBLC.Blc)
 * [Blitz3D](b%5Cblitz3d.bb)
+* [Bloop](b%5Cbloop.bloop)
 * [Blub](b%5Cblub.blub)
 * [Bolgefuck](b%5Cbolgefuck.bf)
 * [Boo](b%5Cboo.boo)
