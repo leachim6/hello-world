@@ -1,13 +1,15 @@
-Contributing
-============
+## Contributing
 
-When adding new "Hello World" programs, please name the file according to the language it was written in, don't abbreviate the language name too much (so use "JavaScript", not "JS") but don't make it TOO long (so use "CSS" not "Cascading Style Sheets". Use hyphens ("-") as word seperators, and only use a single dot (for seperating the filename from the extension). For example, a "Hello World" program in Objective C should be named "Objective-C.m, and the one in HTML should be named HTML.html.
+### Adding a language
 
-**INPORTANT: IF YOU WANT TO CHANGE THE README (`README.md`), EDIT `README_nolist.md` (!) THEN RUN THE `list_langs.py` SCRIPT AS NOTED BELOW.**
+#### Naming
 
-Use
-```bash
-./list_langs.py
-```
-for updating the list of languages in `README.md` (make sure you are in the repository's root directory when running the script). This script will completely re-write `README.md`, copying the contents of `README_nolist.md` before the listing.  
-**NOTE THAT THIS SCRIPT MUST BE EXECUTED ON PYTHON 3.6+!** If your default isn't 3.6+, use `python3 list_langs.py`.
+The file should be name according to the language it was written. The name shouldn't be abbreviated too far (`Javascript.js` instead of `JS.js`) and it shouldn't be abbreviated to little (`CSS.css` instead of `Cascading Style Sheets.css`). Additionally, hyphens should be used instead of spaces (`Objective-C.m` instead of `Objective C.m`).
+
+#### Contents
+
+The code in the file should be simplest or most straightforward way to print/display/show `Hello World` exactly once in the language used.
+
+### Updating README
+
+All changes to the README should be done in `README_nolist.md` instead and `list_langs.py` (Python 3.6+) should be run to automatically update the main one.
