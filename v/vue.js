@@ -5,7 +5,7 @@
 new Vue({
   el: '#app',
   data: {
-    message: 'Hello World!'
+    message: 'Hello World'
   }
 })
 </script>

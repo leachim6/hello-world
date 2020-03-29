@@ -8,7 +8,7 @@ package
 		private var hello:TextField = new TextField();
 		
 		public function actionscript(){
-			hello.text = "Hello, World!";
+			hello.text = "Hello World";
 			addChild(hello);
 		}
 	}

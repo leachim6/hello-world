@@ -8,5 +8,5 @@ myformat.color = 0xff0000;
 myformat.bullet = false;
 myformat.underline = true;
 
-mytext.text = "Hello World!";
+mytext.text = "Hello World";
 mytext.setTextFormat(myformat);

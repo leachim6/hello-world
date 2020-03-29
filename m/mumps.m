@@ -1,1 +1,1 @@
- w "Hello World!",!
+ w "Hello World",!

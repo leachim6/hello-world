@@ -1,1 +1,1 @@
-stdout println:'Hello World!'.
+stdout println:'Hello World'.

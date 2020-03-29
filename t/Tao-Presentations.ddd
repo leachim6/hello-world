@@ -60,7 +60,7 @@ hello_world R ->
             // with Tao presentations).
             font "Arial Unicode MS", "unifont", 72
             move_to -800, -9, 0
-            text "Hello World! or Καλημέρα κόσμε; or こんにちは 世界"
+            text "Hello World or Καλημέρα κόσμε; or こんにちは 世界"
         rotatey -11 * page_time + 180
         color 20% , 20% , 20% , 70%
         sphere 0, 0, 0, R - 30

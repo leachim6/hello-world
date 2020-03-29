@@ -5,4 +5,4 @@ checkEnd:   Z hello (-1)
             Z Z loop
 				
 . minusOne: -1
-. hello: "hello, world\n" Z: 0
+. hello: "Hello World\n" Z: 0

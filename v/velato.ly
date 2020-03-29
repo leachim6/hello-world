@@ -1,7 +1,7 @@
 on "2.19.64"
 
 \header{
-  title = "Hello, World!"
+  title = "Hello World"
 }
 
 \language "english"

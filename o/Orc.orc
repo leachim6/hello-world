@@ -6,5 +6,5 @@
  - Licensed under public domain.
  -}
 
-Println("Hello World!") >>
+Println("Hello World") >>
 stop

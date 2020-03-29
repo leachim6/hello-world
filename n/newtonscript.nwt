@@ -7,7 +7,7 @@ baseview :=
    };
 
 textview := * child of baseview *
-   {text: "Hello World!",
+   {text: "Hello World",
     viewBounds: {left: 33, top: 24, right: 113, bottom: 46},
     viewFlags: 579,
     _proto: protoStaticText,

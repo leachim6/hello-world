@@ -1,1 +1,1 @@
-MsgBox "Hello world!"
+MsgBox "Hello World"

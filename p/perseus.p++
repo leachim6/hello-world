@@ -6,5 +6,5 @@ include "Console.inc"
 func main()
 {
 	Console.Init("Console")
-	Console.Write("Hello World!")
+	Console.Write("Hello World")
 }
