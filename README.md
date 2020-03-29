@@ -239,6 +239,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Googleappscript](g%5Cgoogleappscript.gs)
 * [Gosu](g%5Cgosu.gosu)
 * [Gosu](g%5Cgosu.gs)
+* [Graphql](g/graphql.graphql)
 * [Gravity](g%5Cgravity.gravity)
 * [Green Marl](g%5CGreen-Marl.gm)
 * [Gri](g%5Cgri.gri)
