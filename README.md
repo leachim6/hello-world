@@ -101,7 +101,6 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Autoit](a%5Cautoit.au3)
 * [Awful](a%5Cawful.yuk)
 * [Awk](a%5Cawk.awk)
-* [Readme](a%5CREADME.md)
 * [B](b%5CB.b)
 * [Bash](b%5Cbash.bash)
 * [Basic](b%5Cbasic.bas)
