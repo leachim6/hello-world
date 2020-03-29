@@ -410,6 +410,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Postscript](p%5Cpostscript.ps)
 * [Postscript Page](p%5Cpostscript_page.ps)
 * [Posxml](p%5Cposxml.posxml)
+* [Potaka](p%5Cpotaka.ptk)
 * [Potigol](p%5Cpotigol.poti)
 * [Powershell](p%5Cpowershell.ps1)
 * [Processing](p%5Cprocessing.pde)
