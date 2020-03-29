@@ -109,6 +109,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Bash](b%5Cbash.bash)
 * [Basic](b%5Cbasic.bas)
 * [Batch](b%5Cbatch.bat)
+* [Batch](b%5Cbatch.cmd)
 * [Batsh](b%5Cbatsh.batsh)
 * [Battlestar](b%5Cbattlestar.bts)
 * [Bcpl](b%5CBCPL.bcl)
