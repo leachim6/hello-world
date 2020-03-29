@@ -370,6 +370,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Obix](o%5Cobix.osc)
 * [Obj](o%5Cobj.st)
 * [Objc](o%5Cobjc.m)
+* [Object Pascal](o%5Cobject-pascal.pp)
 * [Objective J](o%5Cobjective-j.j)
 * [Objectstar](o%5CObjectStar)
 * [Ocaml](o%5Cocaml.ml)
