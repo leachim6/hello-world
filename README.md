@@ -110,6 +110,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Battlestar](b%5Cbattlestar.bts)
 * [Bcpl](b%5CBCPL.bcl)
 * [Beatnik](b%5Cbeatnik.beatnik)
+* [Beef](b%5Cbeef.bf)
 * [Befunge](b%5Cbefunge.be)
 * [Bennugd](b%5CBennuGD)
 * [Beta](b%5Cbeta.bet)
