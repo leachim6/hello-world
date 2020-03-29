@@ -391,6 +391,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Picat](p%5Cpicat.pi)
 * [Piet](p%5Cpiet.png)
 * [Pig](p%5Cpig.pig)
+* [Pikalang](p%5Cpikalang.pokeball)
 * [Pike](p%5Cpike.pike)
 * [Pit](p%5Cpit.pit)
 * [Pizza](p%5Cpizza.pizza)
