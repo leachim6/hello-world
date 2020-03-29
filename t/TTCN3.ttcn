@@ -2,6 +2,6 @@ module HelloWorld
 {
     control
     {
-        log("Hello, world!");
+        log("Hello World");
     }
  }

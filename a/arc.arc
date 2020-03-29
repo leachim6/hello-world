@@ -1,1 +1,1 @@
-(prn "Hello, World!")
+(prn "Hello World")

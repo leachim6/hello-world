@@ -1,2 +1,2 @@
 main
-("Hello World!"; WRITE)
+("Hello World"; WRITE)

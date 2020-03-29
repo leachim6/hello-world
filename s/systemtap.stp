@@ -1,1 +1,1 @@
-probe oneshot { println("Hello, world") }
+probe oneshot { println("Hello World") }

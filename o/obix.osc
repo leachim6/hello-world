@@ -1,1 +1,1 @@
-system.console.write_line ( "Hello, world!" )
+system.console.write_line ( "Hello World" )

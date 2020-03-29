@@ -1,1 +1,1 @@
-(format (standard-output) "Hello, world!")
+(format (standard-output) "Hello World")

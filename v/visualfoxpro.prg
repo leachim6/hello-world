@@ -10,8 +10,8 @@ loForm.Show(1)
 
 DEFINE CLASS HiForm AS Form
 	AutoCenter	= .T.
-	Caption		= "Hello, World"
+	Caption		= "Hello World"
 	
 	ADD OBJECT lblHi as Label ;
-		WITH Caption = "Hello, World!"
+		WITH Caption = "Hello World"
 ENDDEFINE

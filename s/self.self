@@ -1,1 +1,1 @@
-'Hello World!' printLine
+'Hello World' printLine

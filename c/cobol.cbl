@@ -2,5 +2,5 @@
        program-id. cobol.
        procedure division.
        main.
-           display 'Hello, world.' end-display.
+           display 'Hello World.' end-display.
            stop run.

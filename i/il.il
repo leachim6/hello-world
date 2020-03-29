@@ -43,7 +43,7 @@
     .entrypoint // this method is the entry point of the program
     .maxstack 1 // the maximum amount of objects on the stack is 1.
 
-    ldstr "Hello, world!" // loads a string on the stack (it actually allocates it and puts the GC handle on the stack)
+    ldstr "Hello World" // loads a string on the stack (it actually allocates it and puts the GC handle on the stack)
     call void [mscorlib]System.Console::WriteLine(string) // this should be straightforward enough
 
     ret // even void methods need a return statement

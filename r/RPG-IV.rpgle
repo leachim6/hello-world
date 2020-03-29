@@ -1,4 +1,4 @@
 /free
-    dsply 'Hello World!';
+    dsply 'Hello World';
     return;
 /end-free

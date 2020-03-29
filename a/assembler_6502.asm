@@ -19,4 +19,4 @@ done:
 	.rodata
  
 text:
-	.byte	"Hello world!", a_cr, 0
+	.byte	"Hello World", a_cr, 0
