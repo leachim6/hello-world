@@ -341,6 +341,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Myrddin](m%5Cmyrddin.myr)
 * [Mysql](m%5Cmysql.sql)
 * [Mathematica](n%5Cmathematica.nb)
+* [Nadeshiko](n%5Cnadeshiko.fjo)
 * [Neko](n%5Cneko.neko)
 * [Nemerle](n%5Cnemerle.n)
 * [Newtonscript](n%5Cnewtonscript.nwt)
