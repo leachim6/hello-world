@@ -371,6 +371,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Parenthetic](p%5Cparenthetic.p)
 * [Parser](p%5Cparser.p)
 * [Pascal](p%5Cpascal.p)
+* [Pauscal](p%5Cpauscal.pdp)
 * [Pawn](p%5Cpawn.p)
 * [Pb](p%5Cpb.pwr)
 * [Pbwin](p%5Cpbwin.bas)
