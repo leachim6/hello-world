@@ -17,6 +17,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [05Ab1E](%23%5C05AB1E)
 * [0815](%23%5C0815.0815)
 * [1C Enterprise](%23%5C1c-enterprise)
+* [256](%23%5C256.256)
 * [2B](%23%5C2B.2b)
 * [4Gl](%23%5C4gl.4gl)
 * [4Test](%23%5C4test)
