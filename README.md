@@ -440,6 +440,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Powershell](p%5Cpowershell.ps1)
 * [Processing](p%5Cprocessing.pde)
 * [Prolog](p%5Cprolog.pro)
+* [Promela](p%5Cpromela.pml)
 * [Pug](p%5Cpug.pug)
 * [Pure Data](p%5Cpure_data.pd)
 * [Purebasic](p%5Cpurebasic.pb)
