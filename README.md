@@ -381,6 +381,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Nodejs](n%5Cnodejs.js)
 * [Novice](n%5Cnovice.novice)
 * [Nu](n%5Cnu.nu)
+* [Nwscript](n%5Cnwscript.nss)
 * [Nxc](n%5Cnxc.nxc)
 * [Oberon 2](o%5Coberon-2.obn)
 * [Oberon](o%5Coberon.o)
