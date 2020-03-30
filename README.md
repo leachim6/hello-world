@@ -222,6 +222,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [False](f%5Cfalse.f)
 * [Fancy](f%5Cfancy.fy)
 * [Fantom](f%5Cfantom.fan)
+* [Fennel](f%5Cfennel.fnl)
 * [Ferite](f%5Cferite.fe)
 * [Fetlang](f%5Cfetlang.fet)
 * [Fim++](f%5Cfim%2B%2B.fimpp)
