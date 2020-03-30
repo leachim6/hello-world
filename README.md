@@ -354,6 +354,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Modula 2](m%5Cmodula-2.mod)
 * [Modula 3](m%5Cmodula-3.m3)
 * [Mongo](m%5Cmongo.shell)
+* [Monte](m%5Cmonte.mt)
 * [Moo](m%5Cmoo.moo)
 * [Moonscript](m%5Cmoonscript.moon)
 * [Morsecode](m%5Cmorsecode)
