@@ -166,6 +166,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Coldfusion](c%5Ccoldfusion.cfm)
 * [Common Lisp](c%5Ccommon-lisp.lisp)
 * [Continuesequation](c%5CContinuesEquation.ce)
+* [Control Language](c%5Ccontrol-language.cllc)
 * [Cool](c%5Ccool.cl)
 * [Cor](c%5Ccor.cor)
 * [Cow](c%5Ccow.cow)
