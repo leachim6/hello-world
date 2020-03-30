@@ -1,4 +1,0 @@
-World: Procedure options(main);
-          Put List( 'Hello world' );
-
-          End World;
