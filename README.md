@@ -554,6 +554,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Vi](v%5Cvi)
 * [Vimscript](v%5Cvimscript.vim)
 * [Virgil](v%5Cvirgil.v3)
+* [Visual Basic For Applications](v%5Cvisual-basic-for-applications.vba)
 * [Visual Basic Script](v%5Cvisual-basic-script.vbs)
 * [Visual Basic](v%5Cvisual-basic.vb)
 * [Visualfoxpro](v%5Cvisualfoxpro.prg)
