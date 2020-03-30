@@ -530,6 +530,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Tcl](t%5Ctcl.tcl)
 * [Tcsh](t%5Ctcsh.tcsh)
 * [Telephone](t%5Ctelephone)
+* [Terra](t%5Cterra.t)
 * [Tex](t%5CTeX.tex)
 * [Thp](t%5Cthp.hrp)
 * [Thue](t%5Cthue.th)
