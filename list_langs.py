@@ -3,7 +3,7 @@
 import os
 from urllib.parse import quote
 
-readme = open('README.md', 'w')
+readme = open('README.md', 'w', encoding="utf-8")
 
 # Copy template to README
 with open('README_nolist.md', 'r') as file:
@@ -18,7 +18,7 @@ for directory in sorted(os.listdir('.')):
   if not (directory == '.' or directory == '..' or directory[0] == '.' or os.path.isfile(directory)):
     for filename in sorted(os.listdir(directory), key=lambda s: s.lower()):
       if os.path.isfile(os.path.join(directory, filename)):
-        lang = os.path.splitext(filename)[0].replace('-', ' ').replace('_', ' ').title()
-        readme.write('* [{}]({})\n'.format(lang, quote(os.path.join(directory, filename))))
+        language = os.path.splitext(filename)[0].replace('-', ' ').replace('_', ' ').title()
+        readme.write(f'* [{language}]({quote(os.path.join(directory, filename))})\n')
 
 readme.close()
