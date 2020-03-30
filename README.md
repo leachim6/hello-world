@@ -265,6 +265,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Haml](h%5Chaml.haml)
 * [Haskell](h%5Chaskell.hs)
 * [Haxe](h%5Chaxe.hx)
+* [Hello](h%5Chello)
 * [Hex](h%5CHEX.hex)
 * [Hexish](h%5Chexish.hexish)
 * [Higher Subleq](h%5CHigher%20Subleq.higher_subleq)
