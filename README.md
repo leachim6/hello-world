@@ -458,6 +458,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Recurse](r%5Crecurse.recurse)
 * [Red](r%5CRed.red)
 * [Redis](r%5Credis)
+* [Refal](r%5Crefal.ref)
 * [Restructuredtext](r%5CreStructuredText.rst)
 * [Rexx](r%5Crexx.rexx)
 * [Richtea](r%5Crichtea.tea)
