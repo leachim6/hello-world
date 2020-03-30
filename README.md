@@ -492,6 +492,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Sil](s%5CSIL.SIL)
 * [Simpl+](s%5Csimpl%2B.usp)
 * [Simula](s%5Csimula.sim)
+* [Skip](s%5Cskip.sk)
 * [Slashes](s%5Cslashes.slashes)
 * [Slim](s%5Cslim.slim)
 * [Smali](s%5Csmali.smali)
