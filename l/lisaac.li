@@ -2,7 +2,7 @@
 
 Section Header
 	+ name		:= HELLO_WORLD;
-	
+
 Section Inherit
 
 	- parent_object:OBJECT := OBJECT;
@@ -11,5 +11,5 @@ Section Public
 
 	- main <-
 	(
-		"Hello world !\n".print;
+		"Hello World !\n".print;
 	);

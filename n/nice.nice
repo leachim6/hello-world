@@ -1,3 +1,3 @@
-void main(String[] args){ 
-   println("hello world"); 
+void main(String[] args){
+   println("Hello World");
 }

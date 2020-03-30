@@ -1,5 +1,5 @@
 module hello.world
 
-function main = |args| { 
-  println("Hello world")
+function main = |args| {
+  println("Hello World")
 }

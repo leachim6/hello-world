@@ -1,2 +1,2 @@
 
-PRINT "hello world"
+PRINT "Hello World"

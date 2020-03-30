@@ -1,1 +1,1 @@
-jlog("Hello world")
+jlog("Hello World")

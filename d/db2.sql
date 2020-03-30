@@ -1,1 +1,1 @@
-VALUES('hello world')
+VALUES('Hello World')
