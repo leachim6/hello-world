@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import os
+import posixpath
 from urllib.parse import quote
 
 readme = open('README.md', 'w', encoding="utf-8")
@@ -19,6 +20,6 @@ for directory in sorted(os.listdir('.')):
     for filename in sorted(os.listdir(directory), key=lambda s: s.lower()):
       if os.path.isfile(os.path.join(directory, filename)):
         language = os.path.splitext(filename)[0].replace('-', ' ').replace('_', ' ').title()
-        readme.write(f'* [{language}]({quote(os.path.join(directory, filename))})\n')
+        readme.write(f'* [{language}]({posixpath.join(quote(directory), quote(filename))})\n')
 
 readme.close()
