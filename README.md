@@ -504,6 +504,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Roco](r/roco.roco)
 * [Roy](r/roy.roy)
 * [Rpg Iv](r/RPG-IV.rpgle)
+* [Rpg](r/rpg.rpgle)
 * [Rtl2](r/rtl2.rtl2)
 * [Ruby](r/ruby.rb)
 * [Ruota](r/ruota.ruo)
