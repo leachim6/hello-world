@@ -339,6 +339,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Kotlin](k/kotlin.kt)
 * [Ksh](k/ksh.ksh)
 * [Labyrinth](l/labyrinth.labyrinth)
+* [Lassoscript](l/lassoscript.lasso)
 * [Latex](l/LaTeX.tex)
 * [Lazyk](l/LazyK.lazy)
 * [Lcoffee](l/lcoffee.lcoff)
