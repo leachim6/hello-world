@@ -455,6 +455,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Potigol](p/potigol.poti)
 * [Powershell](p/powershell.ps1)
 * [Processing](p/processing.pde)
+* [Profan](p/profan)
 * [Prolog](p/prolog.pro)
 * [Promela](p/promela.pml)
 * [Pug](p/pug.pug)
