@@ -154,6 +154,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Cardinal](c/cardinal.cardinal)
 * [Casio Basic](c/Casio%20BASIC)
 * [Cat](c/cat.cat)
+* [Cduce](c/cduce.cduce)
 * [Centura](c/centura.centura)
 * [Ceylon](c/ceylon.ceylon)
 * [Cgi](c/cgi.c)
