@@ -213,6 +213,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Echolisp](e/echolisp.echolisp)
 * [Egl](e/egl.egl)
 * [Eiffel](e/Eiffel.eiff)
+* [Elena](e/elena.elena)
 * [Elixir](e/elixir.ex)
 * [Elixir](e/elixir.exs)
 * [Elm](e/elm.elm)
