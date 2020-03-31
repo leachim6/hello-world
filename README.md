@@ -303,6 +303,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Hubot](h/hubot.coffee)
 * [Hy](h/hy.hy)
 * [Hypertalk](h/hypertalk.ht)
+* [I5](i/i5.i5)
 * [Ibm1401](i/ibm1401)
 * [Icedcoffeescript](i/IcedCoffeeScript.ics)
 * [Ici](i/ici.ici)
