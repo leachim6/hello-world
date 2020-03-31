@@ -142,6 +142,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Brzrk](b/BRZRK.brzrk)
 * [Burlesque](b/burlesque.burlesque)
 * [Byter](b/byter.byter)
+* [Locomotive Basic](b/locomotive-basic.b)
 * [C++](c/c%2B%2B.cpp)
 * [C](c/c.c)
 * [Caml](c/caml.ml)
