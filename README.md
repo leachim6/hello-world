@@ -231,6 +231,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Eoool](e/EOOOL.eoool)
 * [Erlang](e/erlang.erl)
 * [Erlang Escript](e/erlang_escript.erl)
+* [Euphoria](e/euphoria.ex)
 * [Express](e/express.js)
 * [Factor](f/factor.factor)
 * [Falcon](f/falcon.fal)
