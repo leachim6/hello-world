@@ -3,7 +3,7 @@ Hello World!
 
 > Inspired by [The Hello World Collection](https://helloworldcollection.github.io/).
 
-#### Hello world in every programming language.
+#### Hello world in every computer language.
 
 As I watch the collection expand, this project has blown up more than I ever thought possible.
 Thanks to everyone who continues to contribute, new languages are created every day!
