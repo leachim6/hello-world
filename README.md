@@ -76,6 +76,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Asm2Bf](a/asm2bf.asm)
 * [Asp](a/asp.asp)
 * [Aspectj](a/aspectj.aj)
+* [Assember Hp 85](a/assember-hp-85.asm)
 * [Assembler 6502](a/assembler_6502.asm)
 * [Assembler 6502Appleii](a/assembler_6502appleII.asm)
 * [Assembler 6502C64](a/assembler_6502c64.asm)
