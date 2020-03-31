@@ -260,6 +260,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Gaml](g/GAML.gaml)
 * [Gammaplex](g/gammaplex.gammaplex)
 * [Gasoil](g/GASOIL.gasoil)
+* [Gdscript](g/gdscript.gd)
 * [Gecho](g/gecho.gecho)
 * [Gentzen](g/gentzen.gentzen)
 * [Geojson](g/geojson.geojson)
