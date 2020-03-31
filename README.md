@@ -126,6 +126,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Befunge](b/befunge.be)
 * [Bennugd](b/BennuGD)
 * [Beta](b/beta.bet)
+* [Binaryfuck](b/binaryfuck.bf)
 * [Birl](b/BIRL.c)
 * [Bit](b/BIT.bit)
 * [Bitbitjump](b/BitBitJump.bbj)
