@@ -462,6 +462,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Python3](p/python3.py)
 * [Q](q/q.q)
 * [Qbasic](q/Qbasic.bas)
+* [Qcl](q/qcl.qcl)
 * [Qore](q/qore.q)
 * [Qu](q/qu.qu)
 * [Quakec](q/QuakeC.qc)
