@@ -180,6 +180,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Csharp](c/csharp.cs)
 * [Cson](c/cson.cson)
 * [Css](c/css.css)
+* [Cuda](c/cuda.cu)
 * [Cuneiform](c/cuneiform.cfl)
 * [Curry](c/curry.curry)
 * [Cypherneo4J](c/cypherNeo4j.cypher)
