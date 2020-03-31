@@ -524,6 +524,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Shakespeare](s/shakespeare.spl)
 * [Shell](s/shell.sh)
 * [Shen](s/shen.shen)
+* [Sidekiq](s/sidekiq.sidekiq)
 * [Sil](s/SIL.SIL)
 * [Simpl+](s/simpl%2B.usp)
 * [Simula](s/simula.sim)
