@@ -336,6 +336,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Kiml](k/KimL.kiml)
 * [Kipple](k/kipple.kipple)
 * [Kitten](k/kitten.ktn)
+* [Koberi C](k/koberi-c.koberice)
 * [Kotlin](k/kotlin.kt)
 * [Ksh](k/ksh.ksh)
 * [Labyrinth](l/labyrinth.labyrinth)
