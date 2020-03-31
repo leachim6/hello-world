@@ -201,6 +201,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Dongbei](d/dongbei.dongbei)
 * [Dos](d/dos.bat)
 * [Draco](d/draco.d)
+* [Dreammaker](d/dreammaker.dm)
 * [Drive In Window](d/Drive-In%20Window.diw)
 * [Dtrace](d/dtrace.d)
 * [Dup](d/DUP.dup)
