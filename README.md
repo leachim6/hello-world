@@ -211,6 +211,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Ebuild](e/ebuild.ebuild)
 * [Ec](e/ec.ec)
 * [Echolisp](e/echolisp.echolisp)
+* [Egl](e/egl.egl)
 * [Eiffel](e/Eiffel.eiff)
 * [Elixir](e/elixir.ex)
 * [Elixir](e/elixir.exs)
