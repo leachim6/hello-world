@@ -440,7 +440,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Pike](p/pike.pike)
 * [Pit](p/pit.pit)
 * [Pizza](p/pizza.pizza)
-* [Please Porige Hot](p/please_porige_hot.pph)
+* [Please Porige Hot](p/please-porige-hot.pph)
 * [Pli](p/PLI.pl1)
 * [Plsql](p/plsql.sql)
 * [Pluvo](p/pluvo.pvo)
