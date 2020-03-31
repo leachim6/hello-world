@@ -355,6 +355,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Lsl](l/lsl.lsl)
 * [Lua](l/lua.lua)
 * [M4](m/m4.m4)
+* [Maclisp](m/maclisp.lisp)
 * [Macsyma](m/macsyma.mac)
 * [Magic](m/magic)
 * [Make](m/make.makefile)
