@@ -594,6 +594,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Unicomal](u/unicomal.lst)
 * [Unlambda](u/unlambda.unl)
 * [V](v/V)
+* [V](v/v.v)
 * [Vala](v/vala.vala)
 * [Vbnet](v/vbnet.vb)
 * [Velato](v/velato.ly)
