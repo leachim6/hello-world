@@ -8,7 +8,7 @@ The file should be name according to the language it was written. The name shoul
 
 #### Contents
 
-The code in the file should be simplest or most straightforward way to print/display/show `Hello World` exactly once in the language used.
+The code in the file should be simplest or most straightforward way to print/display/show `Hello World` exactly once in the language used. Input from the user shouldn't be asked for where possible and a newline should only be printed when nessesary.
 
 ### Updating README
 
