@@ -1,0 +1,17 @@
+	TITLE Hello World
+
+A==1
+B==2
+TYO==1
+
+START:	.OPEN TYO,[.UAO,,'TTY]
+	 .LOSE
+	MOVE A,[440700,,HELLO]
+LOOP:	ILDB B,A
+	JUMPE B,[.LOGOUT 1,]
+	.IOT TYO,B
+	JRST LOOP
+
+HELLO:	ASCIZ /Hello World/
+
+	END START
