@@ -553,6 +553,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Squirrel](s/squirrel.nut)
 * [Standard Ml](s/standard-ml.sml)
 * [Stanza](s/stanza.stanza)
+* [Starlark](s/starlark.star)
 * [Streem](s/streem.strm)
 * [Stuck](s/stuck.stuck)
 * [Stuck 0Byte](s/stuck_0byte.stuck)
