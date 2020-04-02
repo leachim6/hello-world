@@ -361,6 +361,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Livescript](l/livescript.ls)
 * [Llvm](l/llvm.ll)
 * [Lnusp](l/LNUSP.lnusp)
+* [Logicode](l/logicode.lgc)
 * [Logo](l/logo.lg)
 * [Logtalk](l/logtalk.lgt)
 * [Lola](l/LOLA.lola)
