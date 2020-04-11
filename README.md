@@ -319,6 +319,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Indec](i/InDec.indec)
 * [Inform](i/inform.inform)
 * [Ink](i/ink.ink)
+* [Inkling](i/inkling.ink)
 * [Intercal](i/intercal.i)
 * [Io](i/Io.Io)
 * [Ioke](i/ioke.ik)
