@@ -574,6 +574,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Stylus](s/stylus.styl)
 * [Subleq](s/subleq.sq)
 * [Supercollider](s/supercollider.sc)
+* [Svelte](s/svelte.svelte)
 * [Svg](s/svg.svg)
 * [Swift](s/swift.swift)
 * [Systemtap](s/systemtap.stp)
