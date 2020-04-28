@@ -144,6 +144,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Bolgefuck](b/bolgefuck.bf)
 * [Boo](b/boo.boo)
 * [Boolfuck](b/boolfuck)
+* [Bosque](b/bosque.bsq)
 * [Brainfuck 2D](b/brainfuck-2d.bf2d)
 * [Brainfuck](b/brainfuck.bf)
 * [Brainloller](b/Brainloller.png)
