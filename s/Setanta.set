@@ -1,0 +1,1 @@
+scríobh("Hello World")

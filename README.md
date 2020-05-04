@@ -547,6 +547,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Self](s/self.self)
 * [Semicolon](s/semicolon)
 * [Sendstuff](s/SendStuff.ss)
+* [Setanta](s/Setanta.set)
 * [Shakespeare](s/shakespeare.spl)
 * [Shell](s/shell.sh)
 * [Shen](s/shen.shen)
