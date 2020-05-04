@@ -544,6 +544,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Scss](s/Scss.scss)
 * [Sed](s/sed.sed)
 * [Seed](s/seed)
+* [Seed7](s/seed7.s7)
 * [Self](s/self.self)
 * [Semicolon](s/semicolon)
 * [Sendstuff](s/SendStuff.ss)
