@@ -209,6 +209,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Decimal](d/Decimal.dec)
 * [Delphi](d/delphi.delphi)
 * [Delphi](d/delphi.pas)
+* [Deno](d/deno.ts)
 * [Dis](d/dis.dis)
 * [Divzeros](d/divzeros.dz)
 * [Dna#](d/DNA%23.dna)
