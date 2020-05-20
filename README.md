@@ -311,7 +311,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Hop](h/HOP)
 * [Hq9+](h/hq9%2B.h)
 * [Html](h/html.html)
-* [huf](h/huf.huf)
+* [Huf](h/huf.huf)
 * [Hubot](h/hubot.coffee)
 * [Hy](h/hy.hy)
 * [Hypertalk](h/hypertalk.ht)
