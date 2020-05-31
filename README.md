@@ -559,6 +559,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Simpl+](s/simpl%2B.usp)
 * [Simula](s/simula.sim)
 * [Skip](s/skip.sk)
+* [Skript](s/Skript.sk)
 * [Slashes](s/slashes.slashes)
 * [Slim](s/slim.slim)
 * [Smali](s/smali.smali)
