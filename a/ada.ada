@@ -1,5 +1,7 @@
-with Text_IO;
+with Ada.Text_IO;
+
 procedure Hello_World is
-	begin
-		Text_IO.Put_line("Hello World");
-	end Hello_World;
+   use Ada.Text_IO;
+begin
+   Put_line ("Hello World");
+end Hello_World;
