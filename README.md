@@ -185,6 +185,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Coffeescript](c/coffeescript.coffee)
 * [Coldfusion](c/coldfusion.cfm)
 * [Common Lisp](c/common-lisp.lisp)
+* [Concurnas](c/concurnas.conc)
 * [Continuesequation](c/ContinuesEquation.ce)
 * [Control Language](c/control-language.cllc)
 * [Cool](c/cool.cl)
