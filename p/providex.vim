@@ -1,5 +1,4 @@
-begin
-   print 'CS', ! Clear Screen
+begin 
    ! Plain Text
    print "Hello World!" 
 end
