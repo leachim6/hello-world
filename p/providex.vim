@@ -1,4 +1,3 @@
-begin 
-   ! Plain Text
+begin  
    print "Hello World!" 
 end
