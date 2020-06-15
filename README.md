@@ -484,6 +484,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Profan](p/profan)
 * [Prolog](p/prolog.pro)
 * [Promela](p/promela.pml)
+* [ProvideX](p/providex.vim)
 * [Pug](p/pug.pug)
 * [Pure Data](p/pure_data.pd)
 * [Purebasic](p/purebasic.pb)
