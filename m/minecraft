@@ -1,1 +1,1 @@
-/tellraw @p ["",{"text":"Hello World"}]
+tellraw @a ["",{"text":"Hello World"}]
