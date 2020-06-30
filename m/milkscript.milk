@@ -1,0 +1,2 @@
+#import "basic"
+print("Hello, world!")
