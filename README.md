@@ -1,19 +1,15 @@
-Hello World!
-=============
+# Hello World
 
-> Inspired by [The Hello World Collection](https://helloworldcollection.github.io/).
-
-#### Hello world in every computer language.
+Hello world in every computer language.
 
 As I watch the collection expand, this project has blown up more than I ever thought possible.
-Thanks to everyone who continues to contribute, new languages are created every day!
+Thanks to everyone who continues to contribute; new languages are created every day!
 
 Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contributing to the project!
 
-Spin-Off project smartly suggested and implemented by [@zenware](https://github.com/zenware):  
-Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-world](https://github.com/leachim6/hello-world).
+<!--Languages start-->
+## Languages (661 total)
 
-### This repository currently contains "Hello World" programs in the following languages:
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
 * [1C Enterprise](%23/1c-enterprise)
@@ -484,7 +480,7 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Profan](p/profan)
 * [Prolog](p/prolog.pro)
 * [Promela](p/promela.pml)
-* [ProvideX](p/providex.vim)
+* [Providex](p/providex.vim)
 * [Pug](p/pug.pug)
 * [Pure Data](p/pure_data.pd)
 * [Purebasic](p/purebasic.pb)
@@ -675,3 +671,9 @@ Meet [FizzBuzz](https://github.com/zenware/FizzBuzz), the evolution of [hello-wo
 * [Zombie](z/zombie.zombie)
 * [Zonnon](z/zonnon.znn)
 * [Zsh](z/zsh.zsh)
+<!--Languages end-->
+
+## Related
+
+- [FizBuzz](https://github.com/zenware/FizzBuzz)
+- [The Hello World Collection](https://helloworldcollection.github.io/).
