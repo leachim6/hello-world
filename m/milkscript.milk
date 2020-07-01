@@ -1,2 +1,2 @@
 #import "basic"
-print("Hello, world!")
+print("Hello World")
