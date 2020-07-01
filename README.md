@@ -389,6 +389,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Mel](m/mel.mel)
 * [Meq](m/meq.meq)
 * [Mercury](m/mercury.m)
+* [Milkscript](m/milkscript.milk)
 * [Minecraft](m/minecraft)
 * [Mips](m/mips.s)
 * [Mirc](m/mirc.mrc)
