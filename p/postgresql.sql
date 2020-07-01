@@ -1,1 +1,1 @@
-SELECT 'Hello World' as hello_message;
+SELECT 'Hello World' AS hello_message;
