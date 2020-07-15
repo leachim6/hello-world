@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (663 total)
+## Languages (664 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -108,7 +108,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Assembler Z80 Knightos](a/assembler_z80_knightos.asm)
 * [Assembler Z80 Ti83Calculator](a/assembler_z80_ti83calculator.asm)
 * [Assembler Z80 Zxspectrum](a/assembler_z80_zxspectrum.asm)
-* [ATS2](a/ATS2.dats)
+* [Ats2](a/ATS2.dats)
 * [Attache](a/Attache.%40)
 * [Autohotkey](a/autohotkey.ahk)
 * [Autoit](a/autoit.au3)
@@ -237,6 +237,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Emmental](e/emmental.emmental)
 * [Emojicode](e/emojicode.emojic)
 * [Emoticon](e/emoticon.emoticon)
+* [Enkelt](e/enkelt.e)
 * [Eoool](e/EOOOL.eoool)
 * [Erlang](e/erlang.erl)
 * [Erlang Escript](e/erlang_escript.erl)
