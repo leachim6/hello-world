@@ -243,7 +243,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Euphoria](e/euphoria.ex)
 * [Express](e/express.js)
 * [Factor](f/factor.factor)
-* [Factor (2020)](f/factor.fact)
+* [Factor Zero](f/factor.fact)
 * [Falcon](f/falcon.fal)
 * [False](f/false.f)
 * [Fancy](f/fancy.fy)
