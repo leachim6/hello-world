@@ -244,6 +244,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Euphoria](e/euphoria.ex)
 * [Express](e/express.js)
 * [Factor](f/factor.factor)
+* [Factors](f/factors.fact)
 * [Falcon](f/falcon.fal)
 * [False](f/false.f)
 * [Fancy](f/fancy.fy)
