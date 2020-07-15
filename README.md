@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (663 total)
+## Languages (664 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -243,6 +243,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Euphoria](e/euphoria.ex)
 * [Express](e/express.js)
 * [Factor](f/factor.factor)
+* [Factor (2020)](f/factor.fact)
 * [Falcon](f/falcon.fal)
 * [False](f/false.f)
 * [Fancy](f/fancy.fy)
