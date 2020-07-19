@@ -500,6 +500,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Quakec](q/QuakeC.qc)
 * [Quartzcomposer](q/QuartzComposer.qtz)
 * [Qugord](q/qugord.qugord)
+* [Quorum](q/quorum.quorum)
 * [Qwerty](q/qwerty.qwerty)
 * [R](r/R.R)
 * [Racket](r/racket.rkt)
