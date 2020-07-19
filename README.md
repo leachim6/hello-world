@@ -496,6 +496,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Qbasic](q/Qbasic.bas)
 * [Qcl](q/qcl.qcl)
 * [Qore](q/qore.q)
+* [QSharp](q/qsharp.qs)
 * [Qu](q/qu.qu)
 * [Quakec](q/QuakeC.qc)
 * [Quartzcomposer](q/QuartzComposer.qtz)
