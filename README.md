@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (666 total)
+## Languages (668 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -253,6 +253,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Fim++](f/fim%2B%2B.fimpp)
 * [Fish](f/fish.fish)
 * [Fjoelnir](f/fjoelnir.fjo)
+* [FlaScript](f/flascript.fls)
 * [Flask](f/flask.py)
 * [Fob](f/fob.fob)
 * [Focal](f/focal.fc)
@@ -265,6 +266,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Fortran77](f/fortran77.f77)
 * [Fourier](f/fourier.fourier)
 * [Fractran++](f/fractran%2B%2B.fpp)
+* [FreeBrain](f/freebrain.frbr)
 * [Frink](f/frink.frink)
 * [Fsharp](f/fsharp.fs)
 * [Fstar](f/fstar.fst)
