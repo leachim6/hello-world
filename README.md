@@ -39,7 +39,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Actionscript2](a/actionscript2.as)
 * [Actionscript3](a/actionscript3.as)
 * [Actionscript Flashmx](a/actionscript_flashmx.as)
-* [Ada](a/ada.ada)
+* [Ada](a/ada.adb)
 * [Advpl](a/advpl)
 * [Aeolbonn](a/Aeolbonn.aeo)
 * [Aeolbonn](a/aeolbonn.aeolbonn)
