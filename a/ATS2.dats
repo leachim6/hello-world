@@ -1,4 +1,1 @@
-val _ =
-	print ("Hello world\n")
-
-implement main0 () = ()
+implement main0 () = println! "Hello World"
