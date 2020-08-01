@@ -1,6 +1,6 @@
 extern void object::New()
 {
 
-message("Hello world");
+message("Hello World");
 
 }
