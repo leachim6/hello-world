@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (669 total)
+## Languages (670 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -25,7 +25,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Μλ](%23/%CE%BC%CE%BB)
 * [قلب](%23/%D9%82%D9%84%D8%A8)
 * [なでしこ](%23/%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93.nako)
-* [ひまわり](%23%2F%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A.hmw)
+* [ひまわり](%23/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A.hmw)
 * [文言](%23/%E6%96%87%E8%A8%80.wy)
 * [易语言](%23/%E6%98%93%E8%AF%AD%E8%A8%80.e)
 * [A++](a/a%2B%2B)
@@ -159,6 +159,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Cardinal](c/cardinal.cardinal)
 * [Casio Basic](c/Casio%20BASIC)
 * [Cat](c/cat.cat)
+* [Cbot](c/cbot.txt)
 * [Cduce](c/cduce.cduce)
 * [Centura](c/centura.centura)
 * [Ceylon](c/ceylon.ceylon)
@@ -254,7 +255,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Fim++](f/fim%2B%2B.fimpp)
 * [Fish](f/fish.fish)
 * [Fjoelnir](f/fjoelnir.fjo)
-* [FlaScript](f/flascript.fls)
+* [Flascript](f/flascript.fls)
 * [Flask](f/flask.py)
 * [Fob](f/fob.fob)
 * [Focal](f/focal.fc)
@@ -267,7 +268,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Fortran77](f/fortran77.f77)
 * [Fourier](f/fourier.fourier)
 * [Fractran++](f/fractran%2B%2B.fpp)
-* [FreeBrain](f/freebrain.frbr)
+* [Freebrain](f/freebrain.frbr)
 * [Frink](f/frink.frink)
 * [Fsharp](f/fsharp.fs)
 * [Fstar](f/fstar.fst)
