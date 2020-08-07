@@ -161,6 +161,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Cardinal](c/cardinal.cardinal)
 * [Casio Basic](c/Casio%20BASIC)
 * [Cat](c/cat.cat)
+* [Cbot](c/cbot.txt)
 * [Cduce](c/cduce.cduce)
 * [Centura](c/centura.centura)
 * [Ceylon](c/ceylon.ceylon)
