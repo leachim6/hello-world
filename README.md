@@ -117,6 +117,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Awful](a/awful.yuk)
 * [Awk](a/awk.awk)
 * [B](b/B.b)
+* [BAIK](b/baik.ina)
 * [Ballerina](b/ballerina.bal)
 * [Bash](b/bash.bash)
 * [Basic](b/basic.bas)
