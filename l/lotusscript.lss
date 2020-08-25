@@ -1,0 +1,3 @@
+ Sub Click(Source As Button)
+	Print "Hello World"
+ End Sub
