@@ -687,4 +687,4 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 ## Related
 
 - [FizBuzz](https://github.com/zenware/FizzBuzz)
-- [The Hello World Collection](https://helloworldcollection.github.io/).
+- [The Hello World Collection](https://helloworldcollection.github.io/)
