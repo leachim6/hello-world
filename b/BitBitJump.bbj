@@ -2,7 +2,7 @@
 start: .deref p X
        .testH X print -1
 print: .out X
-       .add p (w+1) p
+       .add p BASE p
        0 0 start
        p:H X:0
        H:72 101 108
@@ -10,4 +10,4 @@ print: .out X
        32 87 111
        114 108 100
        33 10 -1
-       .include lib
+       .include lib.bbj
