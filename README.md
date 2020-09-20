@@ -212,6 +212,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Delphi](d/delphi.delphi)
 * [Delphi](d/delphi.pas)
 * [Deno](d/deno.ts)
+* [Desmos](d/desmos.desmos)
 * [Dis](d/dis.dis)
 * [Divzeros](d/divzeros.dz)
 * [Dna#](d/DNA%23.dna)
