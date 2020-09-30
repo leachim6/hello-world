@@ -1,0 +1,2 @@
+a="ওহে বিশ্ব"
+print("Hello World in Bengali=",a)
