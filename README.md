@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (675 total)
+## Languages (677 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -21,9 +21,12 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [4Thdimension](%23/4thdimension.4dd)
 * [8Th](%23/8th)
 * [~English](%23/~English.ext)
+* [~Hindi](%23/~Hindi.ext)
 * [~Indonesia](%23/~Indonesia.ext)
 * [~Malay](%23/~Malay.ext)
+* [~Marathi](%23/~Marathi.ext)
 * [~Sanskrit](%23/~Sanskrit.ext)
+* [~Tamil](%23/~Tamil.ext)
 * [Μλ](%23/%CE%BC%CE%BB)
 * [قلب](%23/%D9%82%D9%84%D8%A8)
 * [なでしこ](%23/%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93.nako)
@@ -442,7 +445,6 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Objectstar](o/ObjectStar)
 * [Ocaml](o/ocaml.ml)
 * [Octave](o/Octave.m)
-* [Octave](o/octave.octave)
 * [Omgrofl](o/omgrofl.omgrofl)
 * [Ooc](o/ooc.ooc)
 * [Ook](o/ook.ok)
