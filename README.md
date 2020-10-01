@@ -630,6 +630,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Umajin](u/umajin.u)
 * [Unicomal](u/unicomal.lst)
 * [Unlambda](u/unlambda.unl)
+* [Uniface] (u/uniface.uniface)
 * [V](v/V)
 * [V](v/v.v)
 * [Vala](v/vala.vala)
