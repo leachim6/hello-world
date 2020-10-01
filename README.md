@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (676 total)
+## Languages (677 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -444,6 +444,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Objective J](o/objective-j.j)
 * [Objectstar](o/ObjectStar)
 * [Ocaml](o/ocaml.ml)
+* [Octave](o/Octave.m)
 * [Omgrofl](o/omgrofl.omgrofl)
 * [Ooc](o/ooc.ooc)
 * [Ook](o/ook.ok)
