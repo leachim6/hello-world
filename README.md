@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (680 total)
+## Languages (681 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -215,6 +215,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Delphi](d/delphi.delphi)
 * [Delphi](d/delphi.pas)
 * [Deno](d/deno.ts)
+* [Desmos](d/desmos.desmos)
 * [Dis](d/dis.dis)
 * [Divzeros](d/divzeros.dz)
 * [Dna#](d/DNA%23.dna)
