@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (681 total)
+## Languages (682 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -633,8 +633,8 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Ubiquity](u/ubiquity.ubiquity)
 * [Umajin](u/umajin.u)
 * [Unicomal](u/unicomal.lst)
+* [Uniface](u/Uniface.uniface)
 * [Unlambda](u/unlambda.unl)
-* [Uniface] (u/Uniface.uniface)
 * [V](v/V)
 * [V](v/v.v)
 * [Vala](v/vala.vala)
