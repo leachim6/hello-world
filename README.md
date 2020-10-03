@@ -24,6 +24,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [~Hindi](%23/~Hindi.ext)
 * [~Indonesia](%23/~Indonesia.ext)
 * [~Italian](%23/~Italian.ext)
+* [~Javanese](%23/~Javanese.ext)
 * [~Malay](%23/~Malay.ext)
 * [~Marathi](%23/~Marathi.ext)
 * [~Sanskrit](%23/~Sanskrit.ext)
