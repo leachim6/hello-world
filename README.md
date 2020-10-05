@@ -392,6 +392,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 -   [Lolcode](l/lolcode.lol)
 -   [Lolpython](l/lolpython.lol)
 -   [Lotusscript](l/lotusscript.lss)
+-   [LÖVE](l/LÖVE.lua)
 -   [Lsl](l/lsl.lsl)
 -   [Lua](l/lua.lua)
 -   [Lua Grimex](l/lua_grimex.j)
