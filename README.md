@@ -373,6 +373,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Latex](l/LaTeX.tex)
 * [Lazyk](l/LazyK.lazy)
 * [Lcoffee](l/lcoffee.lcoff)
+* [Lex](l/lex.lex)
 * [Less](l/less.less)
 * [Leszek](l/leszek.leszek)
 * [Limbo](l/limbo.b)
