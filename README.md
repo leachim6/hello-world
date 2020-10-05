@@ -29,7 +29,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [~Marathi](%23/~Marathi.ext)
 * [~Sanskrit](%23/~Sanskrit.ext)
 * [~Tamil](%23/~Tamil.ext)
-* [~Telugu](%23/~Telugu.ext)
+* [~Telugu](~Telugu.ext)
 * [Μλ](%23/%CE%BC%CE%BB)
 * [قلب](%23/%D9%82%D9%84%D8%A8)
 * [なでしこ](%23/%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93.nako)
