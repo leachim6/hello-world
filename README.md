@@ -394,7 +394,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Lsl](l/lsl.lsl)
 * [Lua](l/lua.lua)
 * [Lua Grimex](l/lua_grimex.j)
-* [Löve](l/Löve.lua)
+* [Löve](l/L%C3%B6ve.lua)
 * [M4](m/m4.m4)
 * [Maclisp](m/maclisp.lisp)
 * [Macsyma](m/macsyma.mac)
