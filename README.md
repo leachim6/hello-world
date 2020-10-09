@@ -361,6 +361,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Julia](j/julia.jl)
 * [Jython](j/jython.py)
 * [K](k/k.k)
+* [Korean](k/Korean.ext)
 * [Karel](k/karel.kl)
 * [Kiml](k/KimL.kiml)
 * [Kipple](k/kipple.kipple)
