@@ -435,6 +435,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Nemerle](n/nemerle.n)
 * [Newtonscript](n/newtonscript.nwt)
 * [Nice](n/nice.nice)
+* [Night](n/Night.night)
 * [Nim](n/nim.nim)
 * [Nit](n/nit.nit)
 * [Nodejs](n/nodejs.js)
