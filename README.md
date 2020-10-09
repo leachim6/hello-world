@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (686 total)
+## Languages (687 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -20,6 +20,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [4Test](%23/4test)
 * [4Thdimension](%23/4thdimension.4dd)
 * [8Th](%23/8th)
+* [~Bengali](%23/~Bengali.ext)
 * [~English](%23/~English.ext)
 * [~Hindi](%23/~Hindi.ext)
 * [~Indonesia](%23/~Indonesia.ext)
