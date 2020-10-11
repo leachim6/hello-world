@@ -139,6 +139,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Battlestar](b/battlestar.bts)
 * [BC](b/BC.txt)
 * [Bcpl](b/BCPL.bcl)
+* [BeanShell](b/Beanshell.bsh)
 * [Beatnik](b/beatnik.beatnik)
 * [Beef](b/beef.bf)
 * [Befunge](b/befunge.be)
