@@ -1,3 +1,3 @@
 program hello
-   print *, "Hello world!"
+   print *, "Hello world"
 end program hello
