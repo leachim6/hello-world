@@ -1,0 +1,105 @@
+    1  ls
+    2  git
+    3  git config --global user.name "Atin Gupta"
+    4  clear
+    5  git config --global user.email "atingupta2005@gmail.com"
+    6  git config --global
+    7  git config --global user.name
+    8  git config --global user.email 
+    9  clear
+   10  adduser atin
+   11  sudo adduser atin
+   12  git config --global
+   13  git config --global user.name
+   14  mkdir gitPractice
+   15  cd gitPractice
+   16  mkdir myGitRepo1
+   17  cd myGitRepo1/
+   18  cd ..
+   19  clear
+   20  ls
+   21  cd myGitRepo1/
+   22  git init
+   23  git status
+   24  git add hello.txt 
+   25  git status
+   26  git commit -m "My First COmmit"
+   27  git status
+   28  cp hello.txt hello1.txt
+   29  cp hello.txt hello2.txt
+   30  git status
+   31  git add hello1.txt 
+   32  git status
+   33  git commit -m "-"
+   34  goit status
+   35  git status
+   36  git add *
+   37  git status
+   38  git commit -m "-"
+   39  git status
+   40  cd ..
+   41  git clone https://github.com/atingupta2005/hello-world
+   42  ls
+   43  cd hello-world/
+   44  clear
+   45  git status
+   46  git diff
+   47  git status
+   48  git log
+   49  git reset --hard
+   50  git status
+   51  git reset --help
+   52  git revert --help
+   53  git status
+   54  git add *
+   55  git status
+   56  git reset
+   57  git status
+   58  git status --hard
+   59  git reset --hard
+   60  git diff
+   61  git add *
+   62  git diff
+   63  git status
+   64  git diff --staged
+   65  git log
+   66  git diff d3e 751
+   67  git diff d3e..751
+   68  git diff d3e-751
+   69  git diff d3e..751
+   70  git diff d3e...751
+   71  git diff -help
+   72  git diff --help
+   73  git diff d3e 751
+   74  git log
+   75  git diff d3e20 751a9
+   76  git log
+   77  pwd
+   78  cd gitPractice/
+   79  cd hello-world
+   80  clear
+   81  git remote -v
+   82  git branch
+   83  git branch new_feature_1
+   84  git branch
+   85  git checkout new_feature_1 
+   86  git status
+   87  git checkout master
+   88  git status
+   89  git checkout master
+   90* git statu
+   91  git checkout new_feature_1 
+   92  git add *
+   93  git status
+   94  git checkout master
+   95  git status
+   96  git checkout new_feature_1 
+   97  git commit -m "-"
+   98  git checkout master 
+   99  git status
+  100  git checkout new_feature_1 
+  101  git checkout master
+  102  git merge new_feature_1 
+  103  git branch -d new_feature_1 
+  104  history 
+  105  history  > historyday1_1.txt
