@@ -257,7 +257,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Erlang Escript](e/erlang_escript.erl)
 * [Euphoria](e/euphoria.ex)
 * [Express](e/express.js)
-* [F] (f/F.f95)
+* [F](f/F.f95)
 * [Factor](f/factor.factor)
 * [Factors](f/factors.fact)
 * [Falcon](f/falcon.fal)
