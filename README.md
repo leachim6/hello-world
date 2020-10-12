@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (688 total)
+## Languages (691 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -138,7 +138,9 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Batch](b/batch.cmd)
 * [Batsh](b/batsh.batsh)
 * [Battlestar](b/battlestar.bts)
+* [BC](b/BC.txt)
 * [Bcpl](b/BCPL.bcl)
+* [BeanShell](b/Beanshell.bsh)
 * [Beatnik](b/beatnik.beatnik)
 * [Beef](b/beef.bf)
 * [Befunge](b/befunge.be)
@@ -256,6 +258,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Erlang Escript](e/erlang_escript.erl)
 * [Euphoria](e/euphoria.ex)
 * [Express](e/express.js)
+* [F](f/F.f95)
 * [Factor](f/factor.factor)
 * [Factors](f/factors.fact)
 * [Falcon](f/falcon.fal)
