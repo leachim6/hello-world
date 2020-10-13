@@ -241,6 +241,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Ebuild](e/ebuild.ebuild)
 * [Ec](e/ec.ec)
 * [Echolisp](e/echolisp.echolisp)
+* [Ecstasy] (e/Ecstasy.ecstasy)
 * [Efene](e/efene.efene)
 * [Egl](e/egl.egl)
 * [Eiffel](e/Eiffel.eiff)
