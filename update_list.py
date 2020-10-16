@@ -25,7 +25,7 @@ for directory in sorted(os.listdir('.')):
 
 result = f"""<!--Languages start-->
 ## Languages ({languageCount} total)
-
+## List of Languages
 {languagesText}<!--Languages end-->"""
 
 readmeContents = open('README.md', 'r', encoding="utf-8").read()
