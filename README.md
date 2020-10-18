@@ -33,6 +33,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [~Sanskrit](%23/~Sanskrit.ext)
 * [~Tamil](%23/~Tamil.ext)
 * [~Telugu](%23/~Telugu.ext)
+* [~Thai](%23/~Thai.ext)
 * [~Urdu](%23/~Urdu.ext)
 * [Μλ](%23/%CE%BC%CE%BB)
 * [قلب](%23/%D9%82%D9%84%D8%A8)
