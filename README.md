@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (692 total)
+## Languages (694 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -22,6 +22,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [8Th](%23/8th)
 * [~Bengali](%23/~Bengali.ext)
 * [~English](%23/~English.ext)
+* [~Hebrew](%23/~Hebrew.ext)
 * [~Hindi](%23/~Hindi.ext)
 * [~Indonesia](%23/~Indonesia.ext)
 * [~Italian](%23/~Italian.ext)
@@ -138,9 +139,9 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Batch](b/batch.cmd)
 * [Batsh](b/batsh.batsh)
 * [Battlestar](b/battlestar.bts)
-* [BC](b/BC.txt)
+* [Bc](b/BC.txt)
 * [Bcpl](b/BCPL.bcl)
-* [BeanShell](b/Beanshell.bsh)
+* [Beanshell](b/Beanshell.bsh)
 * [Beatnik](b/beatnik.beatnik)
 * [Beef](b/beef.bf)
 * [Befunge](b/befunge.be)
@@ -440,6 +441,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Neko](n/neko.neko)
 * [Nemerle](n/nemerle.n)
 * [Newtonscript](n/newtonscript.nwt)
+* [Nial](n/nial.ndf)
 * [Nice](n/nice.nice)
 * [Night](n/Night.night)
 * [Nim](n/nim.nim)
