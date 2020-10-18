@@ -214,7 +214,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [D](d/d.d)
 * [Dark](d/dark.txt)
 * [Dart](d/Dart.dart)
-* [Darwin](d/Darwin)
+* [Darwin](d/Darwin.drw)
 * [Db2](d/db2.sql)
 * [Dc](d/dc.dc)
 * [Dcl](d/DCL)
