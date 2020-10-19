@@ -1,4 +1,4 @@
-## Contributing
+## Contributing Guidelines 
 
 ### Adding a language
 
