@@ -410,6 +410,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Make](m/make.makefile)
 * [Malbolge](m/malbolge.mbg)
 * [Markdown](m/markdown.md)
+* [MarioLANG](m/mariolang)
 * [Mathematica Online](m/mathematica-online.nb)
 * [Matlab](m/matlab.m)
 * [Maxscript](m/maxscript.ms)
