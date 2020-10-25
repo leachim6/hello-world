@@ -61,6 +61,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Aheui](a/aheui.aheui)
 * [Aime](a/aime.aime)
 * [Aiml](a/aiml.aiml)
+* [AlPhAbEt](a/AlPhAbEt.abc)
 * [Alaguf](a/ALAGUF.alaguf)
 * [Alda](a/alda.alda)
 * [Algae](a/algae.algae)
