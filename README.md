@@ -294,6 +294,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Frink](f/frink.frink)
 * [Fsharp](f/fsharp.fs)
 * [Fstar](f/fstar.fst)
+* [FoxPro](f/FoxPro.prg)
 * [Gaml](g/GAML.gaml)
 * [Gammaplex](g/gammaplex.gammaplex)
 * [Gasoil](g/GASOIL.gasoil)
