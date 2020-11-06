@@ -1,5 +1,5 @@
 section .rodata
-    msg db "Hello, world!", 0xA     ; String to print
+    msg db "Hello World", 0xA       ; String to print
     len equ $- msg                  ; Length of string
 
 section	.text
