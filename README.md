@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (700 total)
+## Languages (701 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -62,7 +62,6 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Aheui](a/aheui.aheui)
 * [Aime](a/aime.aime)
 * [Aiml](a/aiml.aiml)
-* [AlPhAbEt](a/AlPhAbEt.abc)
 * [Alaguf](a/ALAGUF.alaguf)
 * [Alda](a/alda.alda)
 * [Algae](a/algae.algae)
@@ -70,6 +69,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Algol60](a/algol60.algol60)
 * [Algol68](a/algol68.algol68)
 * [Alore](a/alore.alore)
+* [Alphabet](a/AlPhAbEt.abc)
 * [Amiga E](a/Amiga-E.amiga-e)
 * [Amos](a/amos)
 * [Android](a/android.java)
@@ -86,6 +86,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Arduino](a/arduino.ino)
 * [Arena](a/arena.are)
 * [Argh](a/argh.agh)
+* [Arkscript](a/ArkScript.ark)
 * [Arnoldc](a/arnoldc.arnoldc)
 * [Asciidots](a/asciidots.ascii)
 * [Ash](a/ash.ash)
@@ -290,12 +291,12 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Fortran](f/fortran.f90)
 * [Fortran77](f/fortran77.f77)
 * [Fourier](f/fourier.fourier)
+* [Foxpro](f/FoxPro.prg)
 * [Fractran++](f/fractran%2B%2B.fpp)
 * [Freebrain](f/freebrain.frbr)
 * [Frink](f/frink.frink)
 * [Fsharp](f/fsharp.fs)
 * [Fstar](f/fstar.fst)
-* [FoxPro](f/FoxPro.prg)
 * [Gaml](g/GAML.gaml)
 * [Gammaplex](g/gammaplex.gammaplex)
 * [Gasoil](g/GASOIL.gasoil)
