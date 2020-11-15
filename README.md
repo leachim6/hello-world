@@ -144,6 +144,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Batch](b/batch.cmd)
 * [Batsh](b/batsh.batsh)
 * [Battlestar](b/battlestar.bts)
+* [Bc](b/bc.bc)
 * [Bc Gnu](b/bc-gnu.bc)
 * [Bcpl](b/BCPL.bcl)
 * [Beanshell](b/Beanshell.bsh)
