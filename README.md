@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (691 total)
+## Languages (695 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -22,13 +22,17 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [8Th](%23/8th)
 * [~Bengali](%23/~Bengali.ext)
 * [~English](%23/~English.ext)
+* [~Gujarati](%23/~Gujarati.ext)
+* [~Hausa](%23/~Hausa.ext)
 * [~Hindi](%23/~Hindi.ext)
 * [~Indonesia](%23/~Indonesia.ext)
 * [~Italian](%23/~Italian.ext)
 * [~Javanese](%23/~Javanese.ext)
+* [~Kannada](%23/~Kannada.ext)
 * [~Malay](%23/~Malay.ext)
 * [~Malayalam](%23/~Malayalam.ext)
 * [~Marathi](%23/~Marathi.ext)
+* [~Odia](%23/~Odia.ext)
 * [~Sanskrit](%23/~Sanskrit.ext)
 * [~Tamil](%23/~Tamil.ext)
 * [~Telugu](%23/~Telugu.ext)
@@ -138,9 +142,9 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Batch](b/batch.cmd)
 * [Batsh](b/batsh.batsh)
 * [Battlestar](b/battlestar.bts)
-* [BC](b/BC.txt)
+* [Bc](b/BC.txt)
 * [Bcpl](b/BCPL.bcl)
-* [BeanShell](b/Beanshell.bsh)
+* [Beanshell](b/Beanshell.bsh)
 * [Beatnik](b/beatnik.beatnik)
 * [Beef](b/beef.bf)
 * [Befunge](b/befunge.be)
