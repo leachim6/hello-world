@@ -374,6 +374,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Lassoscript](l/lassoscript.lasso)
 * [Latex](l/LaTeX.tex)
 * [Lazyk](l/LazyK.lazy)
+* [LBL](l/LBL.lbl)
 * [Lcoffee](l/lcoffee.lcoff)
 * [Less](l/less.less)
 * [Leszek](l/leszek.leszek)
