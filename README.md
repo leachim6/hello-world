@@ -397,6 +397,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Leszek](l/leszek.leszek)
 * [Limbo](l/limbo.b)
 * [Lingo](l/lingo.lg4)
+* [Lightning Web Component](l/lwc.html)
 * [Lisaac](l/lisaac.li)
 * [Lisp](l/lisp.lsp)
 * [Livescript](l/livescript.ls)
