@@ -5,7 +5,7 @@ Hello world in every computer language.
 As I watch the collection expand, this project has blown up more than I ever thought possible.
 Thanks to everyone who continues to contribute; new languages are created every day!
 
-Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contributing to the project!
+Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
 ## Languages (713 total)
@@ -35,6 +35,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [~Marathi](%23/~Marathi.ext)
 * [~Odia](%23/~Odia.ext)
 * [~Sanskrit](%23/~Sanskrit.ext)
+* [~Serbian](%23/~Serbian.ext)
 * [~Tamil](%23/~Tamil.ext)
 * [~Telugu](%23/~Telugu.ext)
 * [~Thai](%23/~Thai.ext)
@@ -227,6 +228,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Dart](d/Dart.dart)
 * [Darwin](d/Darwin.drw)
 * [Db2](d/db2.sql)
+* [Dbase](d/dBase.dbf)
 * [Dc](d/dc.dc)
 * [Dcl](d/DCL)
 * [Dd Dd](d/dd_dd.dd)
@@ -250,6 +252,8 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Dup](d/DUP.dup)
 * [Dylan](d/dylan.dl)
 * [Dyvil](d/Dyvil.dyv)
+* [E](e/E.e)
+* [E62Qpodb593](e/e62qpodb593)
 * [Ebuild](e/ebuild.ebuild)
 * [Ec](e/ec.ec)
 * [Echolisp](e/echolisp.echolisp)
@@ -392,6 +396,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Lassoscript](l/lassoscript.lasso)
 * [Latex](l/LaTeX.tex)
 * [Lazyk](l/LazyK.lazy)
+* [Lbl](l/LBL.lbl)
 * [Lcoffee](l/lcoffee.lcoff)
 * [Less](l/less.less)
 * [Leszek](l/leszek.leszek)
@@ -421,9 +426,11 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Magic](m/magic)
 * [Make](m/make.makefile)
 * [Malbolge](m/malbolge.mbg)
+* [Mariolang](m/mariolang)
 * [Markdown](m/markdown.md)
 * [Mathematica Online](m/mathematica-online.nb)
 * [Matlab](m/matlab.m)
+* [Matlab1.0](m/matlab1.0.m)
 * [Maxscript](m/maxscript.ms)
 * [Mel](m/mel.mel)
 * [Meq](m/meq.meq)
