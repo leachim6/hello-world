@@ -429,6 +429,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Markdown](m/markdown.md)
 * [Mathematica Online](m/mathematica-online.nb)
 * [Matlab](m/matlab.m)
+* [Matlab1.0](m/matlab1.0.m)
 * [Maxscript](m/maxscript.ms)
 * [Mel](m/mel.mel)
 * [Meq](m/meq.meq)
