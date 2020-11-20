@@ -1,2 +1,1 @@
-# Prints Hello World in E
-println("Hello, world")
+println("Hello World")
