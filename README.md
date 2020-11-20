@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (692 total)
+## Languages (693 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -238,6 +238,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Dup](d/DUP.dup)
 * [Dylan](d/dylan.dl)
 * [Dyvil](d/Dyvil.dyv)
+* [E](e/E.e)
 * [Ebuild](e/ebuild.ebuild)
 * [Ec](e/ec.ec)
 * [Echolisp](e/echolisp.echolisp)
