@@ -1,2 +1,2 @@
-hello:
-    echo Hello World
+$(info "Hello World")
+all:

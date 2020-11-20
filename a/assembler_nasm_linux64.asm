@@ -1,20 +1,17 @@
+section .rodata
+    msg db "Hello World", 0xA       ; String to print
+    len equ $- msg                  ; Length of string
+
 section	.text
-    global _start			;must be declared for linker (ld)
+    global _start                   ; Specify entry point to linker
 
-_start:					;tell linker entry point
+_start:
+	mov	eax, 1                      ; System call ID (sys_write)
+	mov	edi, eax                    ; File descriptor (stdout)
+	mov	esi, msg                    ; Text to print
+    mov edx, len                    ; Length of text to print
+	syscall                         ; Call kernel
 
-	xor	eax,eax		;eax:=0
-	lea	edx,[rax+len]	;message length
-	mov	al,1		;system call number (sys_write)
-	mov	esi,msg		;message to write
-	mov	edi,eax		;file descriptor (stdout)
-	syscall			;call kernel
-	
-	xor	edi, edi	;return 0 (EXIT_SUCCESS)
-	lea	eax,[rdi+60]	;system call number (sys_exit)
-	syscall			;call kernel
-
-section	.rodata
-
-msg	db	'Hello, world!',0xa	;our string
-len	equ	$ - msg			;length of our string
+    mov eax, 60                     ; System call ID (sys_exit)
+	xor	edi, edi                    ; Error code (EXIT_SUCCESS)
+	syscall                         ; Call kernel
