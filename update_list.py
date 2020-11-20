@@ -28,7 +28,7 @@ result = f"""<!--Languages start-->
 
 {languagesText}<!--Languages end-->"""
 
-readmeContents = open('README.md', 'r', encoding="utf-8").read()
+readmeContents = open('readme.md', 'r', encoding="utf-8").read()
 
-open('README.md', 'w', encoding="utf-8").write(regexReplace(
+open('readme.md', 'w', encoding="utf-8").write(regexReplace(
     readmeContents, r"<!--Languages start-->(.|\n)*<!--Languages end-->", result))

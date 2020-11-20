@@ -1,4 +1,4 @@
 main() -> main {
-print(string) -> "Hello World"
-print(newline)
-}
+	print(string) -> "Hello World"
+	print(newline)
+} main;
