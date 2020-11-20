@@ -253,6 +253,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Dylan](d/dylan.dl)
 * [Dyvil](d/Dyvil.dyv)
 * [E](e/E.e)
+* [E62Qpodb593](e/e62qpodb593)
 * [Ebuild](e/ebuild.ebuild)
 * [Ec](e/ec.ec)
 * [Echolisp](e/echolisp.echolisp)
