@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (713 total)
+## Languages (714 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -418,6 +418,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Lsl](l/lsl.lsl)
 * [Lua](l/lua.lua)
 * [Lua Grimex](l/lua_grimex.j)
+* [Lwc](l/lwc.html)
 * [Löve](l/L%C3%B6ve.lua)
 * [M4](m/m4.m4)
 * [Maclisp](m/maclisp.lisp)
