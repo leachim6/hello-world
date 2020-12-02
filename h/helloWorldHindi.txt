@@ -1,0 +1,5 @@
+नमस्ते दुनिया
+ 
+This is how you write hello world in Hindi language.
+Hello = नमस्त
+World = दुनिया
