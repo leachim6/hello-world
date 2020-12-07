@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (716 total)
+## Languages (717 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -698,6 +698,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Wikitext](w/wikitext)
 * [Wml](w/wml.wml)
 * [Wolframlanguage](w/wolframlanguage.wl)
+* [wowLang](w/wowLang.wow)
 * [Wren](w/wren.wren)
 * [Wsh](w/wsh.vbs)
 * [X D](x/x-D.xd)
