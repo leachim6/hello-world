@@ -698,6 +698,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Wikitext](w/wikitext)
 * [Wml](w/wml.wml)
 * [Wolframlanguage](w/wolframlanguage.wl)
+* [wowLang](w/wowLang.wow)
 * [Wren](w/wren.wren)
 * [Wsh](w/wsh.vbs)
 * [X D](x/x-D.xd)
