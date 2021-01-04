@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (719 total)
+## Languages (720 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -20,6 +20,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [4Test](%23/4test)
 * [4Thdimension](%23/4thdimension.4dd)
 * [8Th](%23/8th)
+* [~Afrikaans](%23/~Afrikaans.ext)
 * [~Bengali](%23/~Bengali.ext)
 * [~English](%23/~English.ext)
 * [~Finnish](%23/~Finnish.ext)
@@ -182,7 +183,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Byter](b/byter.byter)
 * [C++](c/c%2B%2B.cpp)
 * [C](c/c.c)
-* [Caché ObjectScript](c/cache-objectscript.mac)
+* [Cache Objectscript](c/cache-objectscript.mac)
 * [Caml](c/caml.ml)
 * [Cardinal](c/cardinal.cardinal)
 * [Casio Basic](c/Casio%20BASIC)
