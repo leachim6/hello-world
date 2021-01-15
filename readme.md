@@ -195,6 +195,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Cgi](c/cgi.c)
 * [Chapel](c/chapel.chpl)
 * [Cheddar](c/cheddar.cheddar)
+* [Cheese++](c/cheese++.cheese)
 * [Chef](c/chef.ch)
 * [Chicken](c/chicken.chicken)
 * [Cil](c/cil.il)
