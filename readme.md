@@ -735,5 +735,5 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 
 ## Related
 
-- [FizBuzz](https://github.com/zenware/FizzBuzz)
+- [FizzBuzz](https://github.com/zenware/FizzBuzz)
 - [The Hello World Collection](https://helloworldcollection.github.io/)
