@@ -1,7 +1,7 @@
 The following tab indented lines will cause a true vi with modelines
-activated to infinitely loop puting "Hello World" in the buffer. Hit
+activated to infinitely loop putting "Hello World" in the buffer. Hit
  to abort the loop and see the output. None of the vi clones
-support modelines this powerful, and modelines are diabled by default.
+support modelines this powerful, and modelines are disabled by default.
 Set the environment variable EXINIT to "set ml" to activate modelines.
 
 	vi: $  y a :
