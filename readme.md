@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (723 total)
+## Languages (724 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -236,6 +236,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Dbase](d/dBase.dbf)
 * [Dc](d/dc.dc)
 * [Dcl](d/DCL)
+* [Dcpu](d/dcpu.dasm)
 * [Dd Dd](d/dd_dd.dd)
 * [Decimal](d/Decimal.dec)
 * [Delphi](d/delphi.delphi)
