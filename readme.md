@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (725 total)
+## Languages (726 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -318,6 +318,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Gasoil](g/GASOIL.gasoil)
 * [Gdscript](g/gdscript.gd)
 * [Gecho](g/gecho.gecho)
+* [Genie](g/genie.gs)
 * [Gentzen](g/gentzen.gentzen)
 * [Geojson](g/geojson.geojson)
 * [Gibberish](g/gibberish.gibberish)
