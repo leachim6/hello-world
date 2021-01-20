@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (724 total)
+## Languages (725 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -374,6 +374,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Io](i/Io.Io)
 * [Ioke](i/ioke.ik)
 * [Irc](i/irc)
+* [Ironscheme](i/ironscheme.ss)
 * [Iscom](i/iscom.iscom)
 * [Islisp](i/ISLISP.lisp)
 * [J](j/j.ijs)
