@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (726 total)
+## Languages (727 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -477,6 +477,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Nim](n/nim.nim)
 * [Nit](n/nit.nit)
 * [Nodejs](n/nodejs.js)
+* [Noflo](n/noflo.fbp)
 * [Novice](n/novice.novice)
 * [Nu](n/nu.nu)
 * [Nwscript](n/nwscript.nss)
