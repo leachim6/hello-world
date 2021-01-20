@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (722 total)
+## Languages (723 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -270,6 +270,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Elixir](e/elixir.exs)
 * [Elm](e/elm.elm)
 * [Emacslisp](e/EmacsLisp.el)
+* [Emerald](e/Emerald.m)
 * [Emmental](e/emmental.emmental)
 * [Emojicode](e/emojicode.emojic)
 * [Emoticon](e/emoticon.emoticon)
