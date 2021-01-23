@@ -352,6 +352,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Holyc](h/holyc.HC)
 * [Homespring](h/homespring.homespring)
 * [Hop](h/HOP)
+* [HP-41C](h/HP_41C)
 * [Hq9+](h/hq9%2B.h)
 * [Html](h/html.html)
 * [Hubot](h/hubot.coffee)
