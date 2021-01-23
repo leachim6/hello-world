@@ -1,5 +1,3 @@
-Hello World for the HP 41C. No comment character exists.
-
 01 LBL "HELLO"
 02 "HELLO WORLD"
 03 AVIEW
