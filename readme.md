@@ -411,6 +411,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Lcoffee](l/lcoffee.lcoff)
 * [Less](l/less.less)
 * [Leszek](l/leszek.leszek)
+* [Lilypond](l/LilyPond.ly)
 * [Limbo](l/limbo.b)
 * [Lingo](l/lingo.lg4)
 * [Lisaac](l/lisaac.li)
