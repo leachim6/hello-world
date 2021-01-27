@@ -1,1 +1,1 @@
-\markup { Hello World! }
+\markup { Hello World }
