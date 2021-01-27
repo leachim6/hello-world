@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (729 total)
+## Languages (730 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -412,6 +412,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Lcoffee](l/lcoffee.lcoff)
 * [Less](l/less.less)
 * [Leszek](l/leszek.leszek)
+* [Lilypond](l/LilyPond.ly)
 * [Limbo](l/limbo.b)
 * [Lingo](l/lingo.lg4)
 * [Lisaac](l/lisaac.li)
