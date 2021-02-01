@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (734 total)
+## Languages (736 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -22,6 +22,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [8Th](%23/8th)
 * [~Afrikaans](%23/%7EAfrikaans.ext)
 * [~Bengali](%23/%7EBengali.ext)
+* [~Chinese](%23/%7EChinese.ext)
 * [~Dutch](%23/%7EDutch.ext)
 * [~English](%23/%7EEnglish.ext)
 * [~Finnish](%23/%7EFinnish.ext)
@@ -43,6 +44,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Tamil](%23/%7ETamil.ext)
 * [~Telugu](%23/%7ETelugu.ext)
 * [~Thai](%23/%7EThai.ext)
+* [~Traditional-Chinese](%23/%7ETraditional-Chinese.ext)
 * [~Turkish](%23/%7ETurkish.ext)
 * [~Ukrainian](%23/%7EUkrainian.ext)
 * [~Urdu](%23/%7EUrdu.ext)
