@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (736 total)
+## Languages (737 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -26,6 +26,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Dutch](%23/%7EDutch.ext)
 * [~English](%23/%7EEnglish.ext)
 * [~Finnish](%23/%7EFinnish.ext)
+* [~German](%23/%7EGerman.ext)
 * [~Gujarati](%23/%7EGujarati.ext)
 * [~Hausa](%23/%7EHausa.ext)
 * [~Hebrew](%23/%7EHebrew.ext)
