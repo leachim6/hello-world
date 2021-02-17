@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (737 total)
+## Languages (738 total)
 
 * [05Ab1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -522,6 +522,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Perl6](p/perl6.p6)
 * [Perseus](p/perseus.p%2B%2B)
 * [Pharo](p/pharo.st)
+* [Phix](p/phix.exw)
 * [Php](p/php.php)
 * [Picat](p/picat.pi)
 * [Piet](p/piet.png)
