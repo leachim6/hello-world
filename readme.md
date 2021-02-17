@@ -522,6 +522,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Perl6](p/perl6.p6)
 * [Perseus](p/perseus.p%2B%2B)
 * [Pharo](p/pharo.st)
+* [Phix](p/phix.exw)
 * [Php](p/php.php)
 * [Picat](p/picat.pi)
 * [Piet](p/piet.png)
