@@ -39,6 +39,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Malayalam](%23/~Malayalam.ext)
 * [~Marathi](%23/~Marathi.ext)
 * [~Odia](%23/~Odia.ext)
+* [~Portuguese](%23/~Portuguese.ext)
 * [~Punjabi](%23/~Punjabi.ext)
 * [~Sanskrit](%23/~Sanskrit.ext)
 * [~Serbian](%23/~Serbian.ext)
