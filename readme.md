@@ -25,6 +25,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Chinese](%23/~Chinese.ext)
 * [~Dutch](%23/~Dutch.ext)
 * [~English](%23/~English.ext)
+* [~Español](%23/~Español.ext)
 * [~Finnish](%23/~Finnish.ext)
 * [~German](%23/~German.ext)
 * [~Gujarati](%23/~Gujarati.ext)
