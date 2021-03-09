@@ -151,7 +151,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [B](b/B.b)
 * [BAIK](b/BAIK.ina)
 * [Ballerina](b/Ballerina.bal)
-* [Bash](b/Bash.bash)
+* [Bash](b/bash.bash)
 * [BASIC 256](b/BASIC%20256.kbs)
 * [BASIC](b/BASIC.bas)
 * [Batch](b/Batch.bat)
