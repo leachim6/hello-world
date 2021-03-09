@@ -558,7 +558,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [PureBasic](p/PureBasic.pb)
 * [PureScript](p/PureScript.purs)
 * [Pyret](p/Pyret.arr)
-* [Python 2](p/Python 2.py)
+* [Python 2](p/Python%202.py)
 * [Python 3](p/Python%203.py)
 * [Q](q/Q.q)
 * [QBasic](q/QBasic.bas)
