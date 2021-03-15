@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (736 total)
+## Languages (737 total)
 
 * [05AB1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -25,7 +25,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Chinese](%23/~Chinese.ext)
 * [~Dutch](%23/~Dutch.ext)
 * [~English](%23/~English.ext)
-* [~Español](%23/~Español.ext)
+* [~Español](%23/~Espa%C3%B1ol.ext)
 * [~Finnish](%23/~Finnish.ext)
 * [~German](%23/~German.ext)
 * [~Gujarati](%23/~Gujarati.ext)
@@ -151,7 +151,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [B](b/B.b)
 * [BAIK](b/BAIK.ina)
 * [Ballerina](b/Ballerina.bal)
-* [Bash](b/bash.bash)
+* [Bash](b/Bash.bash)
 * [BASIC 256](b/BASIC%20256.kbs)
 * [BASIC](b/BASIC.bas)
 * [Batch](b/Batch.bat)
@@ -356,7 +356,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Higher Subleq](h/Higher%20Subleq.higher_subleq)
 * [Hodor](h/Hodor.hd)
 * [Hollow](h/Hollow.hollow)
-* [Holyc](h/Holyc.HC)
+* [Holy C](h/Holy%20C.HC)
 * [Homespring](h/Homespring.homespring)
 * [HOP](h/HOP)
 * [HP_41C](h/HP_41C)
