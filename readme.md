@@ -44,6 +44,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Punjabi](%23/~Punjabi.ext)
 * [~Sanskrit](%23/~Sanskrit.ext)
 * [~Serbian](%23/~Serbian.ext)
+* [~Swedish](%23/~Swedish.ext)
 * [~Tamil](%23/~Tamil.ext)
 * [~Telugu](%23/~Telugu.ext)
 * [~Thai](%23/~Thai.ext)
