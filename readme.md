@@ -482,7 +482,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Neko](n/Neko.neko)
 * [Nemerle](n/Nemerle.n)
 * [NewtonScript](n/NewtonScript.nwt)
-* [Nial](n/Nial.ndf)
 * [Nice](n/Nice.nice)
 * [Night](n/Night.night)
 * [Nim](n/Nim.nim)
