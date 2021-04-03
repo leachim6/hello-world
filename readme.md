@@ -457,7 +457,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Meq](m/Meq.meq)
 * [Mercury](m/Mercury.m)
 * [MilkScript](m/MilkScript.milk)
-* [Minecraft](m/Minecraft)
+* [Minecraft](m/Minecraft.mcfunction)
 * [Mips](m/Mips.s)
 * [Mirc](m/Mirc.mrc)
 * [Mmmm()](m/Mmmm%28%29.mmmm)
