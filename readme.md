@@ -10,6 +10,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 <!--Languages start-->
 ## Languages (737 total)
 
+* [!@#$%^&*()_+](%23/!@#$%^&*()_+)
 * [05AB1E](%23/05AB1E)
 * [0815](%23/0815.0815)
 * [1C Enterprise](%23/1C%20Enterprise)
