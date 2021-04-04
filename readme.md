@@ -574,6 +574,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [R](r/R.R)
 * [Racket](r/Racket.rkt)
 * [Radixal](r/Radixal.radixal)
+* [Raku](r/Raku.raku)
 * [RatFor](r/RatFor.ratfor)
 * [React](r/React.js)
 * [React360](r/React360.js)
