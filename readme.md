@@ -268,6 +268,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [DUP](d/DUP.dup)
 * [Dylan](d/Dylan.dl)
 * [Dyvil](d/Dyvil.dyv)
+* [D♭♭](d/D♭♭)
 * [E](e/E.e)
 * [e62qpodb593](e/e62qpodb593)
 * [EBuild](e/EBuild.ebuild)
