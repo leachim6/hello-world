@@ -216,7 +216,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [CLISP](c/CLISP.lisp)
 * [Clojure](c/Clojure.clj)
 * [COBOL](c/COBOL.cbl)
-* [CobalScript](c/CobalScript)
+* [CobolScript](c/CobolScript)
 * [Cobra](c/Cobra.cobra)
 * [Coconut](c/Coconut.coc)
 * [CoffeeScript](c/CoffeeScript.coffee)
