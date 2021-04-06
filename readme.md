@@ -229,6 +229,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Control Language](c/Control%20Language.cllc)
 * [Cool](c/Cool.cl)
 * [Cor](c/Cor.cor)
+* [Coral 66](C/Coral%2066.cor)
 * [COW](c/COW.cow)
 * [Crystal](c/Crystal.cr)
 * [CSH](c/CSH.csh)
