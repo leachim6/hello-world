@@ -566,6 +566,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Python 3](p/Python%203.py)
 * [Q](q/Q.q)
 * [QBasic](q/QBasic.bas)
+* [QB64](q/QB64.bas)
 * [QCL](q/QCL.qcl)
 * [Qore](q/Qore.q)
 * [QSharp](q/QSharp.qs)
