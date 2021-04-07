@@ -8,10 +8,9 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (737 total)
+## Languages (745 total)
 
-* [!@#$%^&*()_+](%23/!%40%23%24%25%5E%26*()_%2B)
-* [🆒](%23/🆒)
+* [!@#$%^&∗()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [05AB1E](%23/05AB1E)
 * [0815](%23/0815.0815)
 * [1C Enterprise](%23/1C%20Enterprise)
@@ -60,6 +59,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [上海话](%23/%E4%B8%8A%E6%B5%B7%E8%AF%9D.shanghai)
 * [文言](%23/%E6%96%87%E8%A8%80.wy)
 * [易语言](%23/%E6%98%93%E8%AF%AD%E8%A8%80.e)
+* [🆒](%23/%F0%9F%86%92)
 * [A++](a/A%2B%2B)
 * [ABAP](a/ABAP.abap)
 * [ABC](a/ABC.abc)
@@ -229,7 +229,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Control Language](c/Control%20Language.cllc)
 * [Cool](c/Cool.cl)
 * [Cor](c/Cor.cor)
-* [Coral 66](C/Coral%2066.cor)
+* [Coral 66](c/Coral%2066.cor)
 * [COW](c/COW.cow)
 * [Crystal](c/Crystal.cr)
 * [CSH](c/CSH.csh)
@@ -270,7 +270,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [DUP](d/DUP.dup)
 * [Dylan](d/Dylan.dl)
 * [Dyvil](d/Dyvil.dyv)
-* [D♭♭](d/D♭♭)
+* [D♭♭](d/D%E2%99%AD%E2%99%AD)
 * [E](e/E.e)
 * [e62qpodb593](e/e62qpodb593)
 * [EBuild](e/EBuild.ebuild)
@@ -345,8 +345,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Gosu](g/Gosu.gs)
 * [GraphQL](g/GraphQL.graphql)
 * [Gravity](g/Gravity.gravity)
-* [Green Marl](g/Green%20Marl.gm)
 * [GreeeeeeeeenText](g/GreeeeeeeeenText)
+* [Green Marl](g/Green%20Marl.gm)
 * [Gri](g/Gri.gri)
 * [GridScript](g/GridScript.gridscript)
 * [Grin](g/Grin.grin)
