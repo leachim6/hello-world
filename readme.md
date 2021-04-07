@@ -52,6 +52,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Turkish](%23/~Turkish.ext)
 * [~Ukrainian](%23/~Ukrainian.ext)
 * [~Urdu](%23/~Urdu.ext)
+* [Zulu](%23/Zulu)
 * [μλ](%23/%CE%BC%CE%BB)
 * [قلب](%23/%D9%82%D9%84%D8%A8)
 * [なでしこ](%23/%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93.nako)
