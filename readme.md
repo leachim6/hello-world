@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (753 total)
+## Languages (754 total)
 
 * [!@#$%^&∗()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [05AB1E](%23/05AB1E)
@@ -270,6 +270,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [DOGO](d/DOGO.dogo)
 * [dongbei](d/dongbei.dongbei)
 * [dos](d/dos.bat)
+* [Dotlang](d/Dotlang)
 * [Draco](d/Draco.d)
 * [DreamMaker](d/DreamMaker.dm)
 * [Drive-In Window](d/Drive-In%20Window.diw)
