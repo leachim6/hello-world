@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (745 total)
+## Languages (746 total)
 
 * [!@#$%^&∗()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [05AB1E](%23/05AB1E)
@@ -244,6 +244,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [dark](d/dark.txt)
 * [Dart](d/Dart.dart)
 * [Darwin](d/Darwin.drw)
+* [Data Flex](d/Data%20Flex)
 * [db2](d/db2.sql)
 * [dBase](d/dBase.dbf)
 * [Dc](d/Dc.dc)
