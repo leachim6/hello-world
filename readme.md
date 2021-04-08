@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (754 total)
+## Languages (755 total)
 
 * [!@#$%^&∗()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [05AB1E](%23/05AB1E)
@@ -57,6 +57,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Turkish](%23/~Turkish.ext)
 * [~Ukrainian](%23/~Ukrainian.ext)
 * [~Urdu](%23/~Urdu.ext)
+* [~Zulu](%23/~Zulu)
 * [μλ](%23/%CE%BC%CE%BB)
 * [قلب](%23/%D9%82%D9%84%D8%A8)
 * [کوردیی ناوەندی](%23/%DA%A9%D9%88%D8%B1%D8%AF%DB%8C%DB%8C%20%D9%86%D8%A7%D9%88%DB%95%D9%86%D8%AF%DB%8C)
