@@ -4,12 +4,12 @@
 
 #### Naming
 
-The file should be named according to the language it was written. The name shouldn't be abbreviated too far (`Javascript.js` instead of `JS.js`) and it shouldn't be abbreviated to little (`CSS.css` instead of `Cascading Style Sheets.css`). Additionally, hyphens should be used instead of spaces (`Objective-C.m` instead of `Objective C.m`).
+The name of the file will be displayed as-is in the readme. It should be named according to the language it was written in. The name shouldn't be abbreviated too far (use `JavaScript.js` instead of `JS.js`) and it shouldn't be abbreviated too little (use `CSS.css` instead of `Cascading Style Sheets.css`). Additionally, use spaces instead of hyphens or underscores (use `Objective C.m` instead of `Objective-C.m`).
 
 #### Contents
 
-The code in the file should be the simplest or most straightforward way to print/display/show `Hello World` exactly once in the language used. Input from the user shouldn't be asked for where possible and a newline should only be printed when necessary.
+The code in the file should be the simplest and most straightforward way to print/display/show `Hello World` exactly once in the language used. User input should not be request and a newline should only be printed when necessary.
 
 ### Updating README
 
-`update_list.py` (Python 3.6+) should be run to automatically update the language list.
+After adding the language file, `update_list.py` (Python 3.6+) automatically updates the language list.
