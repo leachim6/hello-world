@@ -274,6 +274,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [dos](d/dos.bat)
 * [Dotlang](d/Dotlang)
 * [Draco](d/Draco.d)
+* [Dragon](d/Dragon)
 * [DreamMaker](d/DreamMaker.dm)
 * [Drive-In Window](d/Drive-In%20Window.diw)
 * [DTrace](d/DTrace.d)
