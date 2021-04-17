@@ -342,7 +342,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [GAML](g/GAML.gaml)
 * [Gammaplex](g/Gammaplex.gammaplex)
 * [GASOIL](g/GASOIL.gasoil)
-* [GDSript](g/GDScript.gd)
+* [GDScript](g/GDScript.gd)
 * [Gecho](g/Gecho.gecho)
 * [Genie](g/Genie.gs)
 * [Gentzen](g/Gentzen.gentzen)
