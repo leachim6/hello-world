@@ -10,7 +10,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 <!--Languages start-->
 ## Languages (761 total)
 
-* [!@#$%^&∗()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
+* [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [05AB1E](%23/05AB1E)
 * [0815](%23/0815.0815)
 * [1C Enterprise](%23/1C%20Enterprise)
@@ -198,7 +198,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Brainloller](b/Brainloller.png)
 * [Broccoli](b/Broccoli.brocc)
 * [BRZRK](b/BRZRK.brzrk)
-* [BuddyScript](BuddyScript)
+* [BuddyScript](b/BuddyScript)
 * [Burlesque](b/Burlesque.burlesque)
 * [Byter](b/Byter.byter)
 * [C++](c/C%2B%2B.cpp)
@@ -250,7 +250,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Cuneiform](c/Cuneiform.cfl)
 * [Curry](c/Curry.curry)
 * [CypherNeo4j](c/CypherNeo4j.cypher)
-* [C∗](c/C%E2%88%97)
+* [C*](c/C%E2%88%97)
 * [D](d/D.d)
 * [dark](d/dark.txt)
 * [Dart](d/Dart.dart)
