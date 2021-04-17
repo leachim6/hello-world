@@ -8,7 +8,9 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (761 total)
+
+## Languages Start (761)
+
 
 * [!@#$%^&∗()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [05AB1E](%23/05AB1E)
@@ -185,7 +187,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Bitsbox](b/Bitsbox.b)
 * [BlackRum](b/BlackRum.br)
 * [BLC](b/BLC.Blc)
-* [Blender](b/Blender)
+* [Blender](b/Blender.py)
 * [Blitz3D](b/Blitz3D.bb)
 * [Bloop](b/Bloop.bloop)
 * [Blub](b/Blub.blub)
@@ -203,7 +205,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Byter](b/Byter.byter)
 * [C++](c/C%2B%2B.cpp)
 * [C](c/C.c)
-* [C*](c/C*)
 * [Cache ObjectScript](c/Cache%20ObjectScript.mac)
 * [CAML](c/CAML.ml)
 * [Cardinal](c/Cardinal.cardinal)
@@ -251,6 +252,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Cuneiform](c/Cuneiform.cfl)
 * [Curry](c/Curry.curry)
 * [CypherNeo4j](c/CypherNeo4j.cypher)
+* [C∗](c/C%E2%88%97)
 * [D](d/D.d)
 * [dark](d/dark.txt)
 * [Dart](d/Dart.dart)
@@ -524,7 +526,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Octave](o/Octave.m)
 * [Omgrofl](o/Omgrofl.omgrofl)
 * [Ooc](o/Ooc.ooc)
-* [Ook!](o/Ook!.ok)
+* [Ook!](o/Ook%21.ok)
 * [Opa](o/Opa.opa)
 * [OpenLaszlo](o/OpenLaszlo.lzx)
 * [Oracle SQL](o/Oracle%20SQL.sql)
