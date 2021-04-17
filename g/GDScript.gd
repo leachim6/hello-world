@@ -1,4 +1,4 @@
 extends Node2D
 
-func _init():
+func _ready():
 	print("Hello World")
