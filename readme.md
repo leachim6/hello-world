@@ -184,6 +184,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Bitsbox](b/Bitsbox.b)
 * [BlackRum](b/BlackRum.br)
 * [BLC](b/BLC.Blc)
+* [Blender](b/Blender)
 * [Blitz3D](b/Blitz3D.bb)
 * [Bloop](b/Bloop.bloop)
 * [Blub](b/Blub.blub)
