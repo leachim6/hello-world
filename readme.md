@@ -706,7 +706,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Unicorn](u/Unicorn.icn)
 * [Uniface](u/Uniface.uniface)
 * [Unlambda](u/Unlambda.unl)
-*[Unreal Script](u/Unreal%20Script.uc)
+* [Unreal Script](u/Unreal%20Script.uc)
 * [V](v/V)
 * [V](v/V.v)
 * [Vala](v/Vala.vala)
