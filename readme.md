@@ -20,6 +20,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [4gl](%23/4gl.4gl)
 * [4test](%23/4test)
 * [4th Dimension](%23/4th%20Dimension.4dd)
+* [8051 Assembly](%23/8051%20Assembly)
 * [8th](%23/8th)
 * [~Afrikaans](%23/~Afrikaans.ext)
 * [~Bengali](%23/~Bengali.ext)
