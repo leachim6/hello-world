@@ -1,6 +1,7 @@
 import Blender
 from Blender import Scene, Text3d
-txt = Text3d.New("Text")
-txt.setText("Hello World")
-Scene.GetCurrent().objects.new(txt)
+
+text = Text3d.New("Text")
+text.setText("Hello World")
+Scene.GetCurrent().objects.new(text)
 Blender.Redraw()
