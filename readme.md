@@ -8,6 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
+
 ## Languages (763 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -154,6 +155,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Assembler Z80 zxspectrum](a/Assembler%20Z80%20zxspectrum.asm)
 * [ATS2](a/ATS2.dats)
 * [Attache](a/Attache.%40)
+* [AutoLISP](a/AutoLISP.lsp)
 * [AutoHotKey](a/AutoHotKey.ahk)
 * [AutoIt](a/AutoIt.au3)
 * [Avisynth](a/Avisynth.avs)
@@ -271,6 +273,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Divzeros](d/Divzeros.dz)
 * [DNA#](d/DNA%23.dna)
 * [DNA-Sharp](d/DNA-Sharp.dna)
+* [Dog](d/Dog)
 * [DogeScript](d/DogeScript.djs)
 * [DOGO](d/DOGO.dogo)
 * [dongbei](d/dongbei.dongbei)
