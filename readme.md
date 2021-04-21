@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (762 total)
+## Languages (763 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [05AB1E](%23/05AB1E)
@@ -540,6 +540,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [PB](p/PB.pwr)
 * [PBWin](p/PBWin.bas)
 * [Pebble](p/Pebble.c)
+* [PeopleCode](p/PeopleCode)
 * [Perfume](p/Perfume.prfm)
 * [Perl](p/Perl.cgi)
 * [Perl](p/Perl.pl)
