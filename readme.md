@@ -31,6 +31,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Finnish](%23/~Finnish.ext)
 * [~French](%23/~French.ext)
 * [~German](%23/~German.ext)
+* [~Greek](%23/~Greek.ext)
 * [~Gujarati](%23/~Gujarati.ext)
 * [~Hausa](%23/~Hausa.ext)
 * [~Hebrew](%23/~Hebrew.ext)
