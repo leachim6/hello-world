@@ -44,7 +44,7 @@ nextchar:
 loop:
 	jmp 	loop                            ; just wait and do nothing
 
-; 'HELLO WORLD' (ascii not supported by assembler)
+; 'Hello World' (ascii not supported by assembler)
 hellostr:
 	db 	01dh, 012h, 00eh, 00eh, 017h, 00ch, 011h, 017h, 013h, 00eh, 01ah
 

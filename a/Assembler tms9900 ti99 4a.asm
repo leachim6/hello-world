@@ -38,7 +38,7 @@ LOOPBACK
 
 
 HELLOWORLD
-        TEXT 'HELLO WORLD!'     * string data
+        TEXT 'HELLO WORLD'     * string data
         BYTE 0
 
         END

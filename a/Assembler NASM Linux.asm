@@ -16,5 +16,5 @@ _start:					;tell linker entry point
 
 section	.rodata
 
-msg	db	'Hello, world!',0xa	;our string
+msg	db	'Hello World',0xa	;our string
 len	equ	$ - msg			;length of our string

@@ -17,5 +17,5 @@ EXIT
 SCR equ 16384
 
 STRING
-	defb "Hello World!"
+	defb "Hello World"
 	defb 13, 0

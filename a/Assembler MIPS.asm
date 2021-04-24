@@ -1,5 +1,5 @@
 .data
-    hw:        .asciiz        "Hello, World!"
+    hw:        .asciiz        "Hello World"
 .text
 main:
     la $a0, hw           #load the address of hw into $a0

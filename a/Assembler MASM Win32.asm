@@ -14,7 +14,7 @@ EXTRN GetStdHandle@4 : PROC
 EXTRN WriteConsoleA@20 : PROC
 
 .data
-msg BYTE "Hello World!",0
+msg BYTE "Hello World",0
 bytesWritten DWORD ?
 
 .code

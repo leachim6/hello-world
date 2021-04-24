@@ -29,5 +29,5 @@ loop:
 
 ; Text data ($80 - end of line)
 
-helloworld:     db      'HELLO WORLD!',$80
+helloworld:     db      'Hello World',$80
 

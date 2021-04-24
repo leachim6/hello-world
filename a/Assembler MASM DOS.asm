@@ -2,7 +2,7 @@
 .model small
 .stack
 .data
-    message   db "Hello world!", "$"
+    message   db "Hello World", "$"
 .code
     main    proc
         mov   ax,seg message
