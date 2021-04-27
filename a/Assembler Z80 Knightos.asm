@@ -12,6 +12,5 @@ start:
     ld de, 0
     pcall(drawStr)
 
-
 message:
     .db "Hello World", 0
