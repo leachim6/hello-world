@@ -532,7 +532,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Oracle SQL](o/Oracle%20SQL.sql)
 * [Orc](o/Orc.orc)
 * [OX](o/OX.oz)
-* [O:XML](o/O:XML)
+* [o:XML](o/o:XML)
 * [Parenthetic](p/Parenthetic.p)
 * [Parser](p/Parser.p)
 * [Pascal](p/Pascal.p)
