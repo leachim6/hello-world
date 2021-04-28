@@ -272,7 +272,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Divzeros](d/Divzeros.dz)
 * [DNA#](d/DNA%23.dna)
 * [DNA-Sharp](d/DNA-Sharp.dna)
-*[DOG](d/DOG)
+* [DOG](d/DOG)
 * [Dog](d/Dog)
 * [DogeScript](d/DogeScript.djs)
 * [DOGO](d/DOGO.dogo)
