@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (761 total)
+## Languages (765 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [05AB1E](%23/05AB1E)
@@ -154,6 +154,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Assembler Z80 zxspectrum](a/Assembler%20Z80%20zxspectrum.asm)
 * [ATS2](a/ATS2.dats)
 * [Attache](a/Attache.%40)
+* [AutoLISP](a/AutoLISP.lsp)
 * [AutoHotKey](a/AutoHotKey.ahk)
 * [AutoIt](a/AutoIt.au3)
 * [Avisynth](a/Avisynth.avs)
@@ -271,6 +272,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Divzeros](d/Divzeros.dz)
 * [DNA#](d/DNA%23.dna)
 * [DNA-Sharp](d/DNA-Sharp.dna)
+* [DOG](d/DOG)
+* [Dog](d/Dog)
 * [DogeScript](d/DogeScript.djs)
 * [DOGO](d/DOGO.dogo)
 * [dongbei](d/dongbei.dongbei)
@@ -530,6 +533,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Oracle SQL](o/Oracle%20SQL.sql)
 * [Orc](o/Orc.orc)
 * [OX](o/OX.oz)
+* [o:XML](o/o:XML)
 * [Parenthetic](p/Parenthetic.p)
 * [Parser](p/Parser.p)
 * [Pascal](p/Pascal.p)
@@ -538,6 +542,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [PB](p/PB.pwr)
 * [PBWin](p/PBWin.bas)
 * [Pebble](p/Pebble.c)
+* [PeopleCode](p/PeopleCode)
 * [Perfume](p/Perfume.prfm)
 * [Perl](p/Perl.cgi)
 * [Perl](p/Perl.pl)

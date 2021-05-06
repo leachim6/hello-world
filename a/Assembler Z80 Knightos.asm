@@ -12,7 +12,5 @@ start:
     ld de, 0
     pcall(drawStr)
 
-    jr $ ; Loop forever
-
 message:
     .db "Hello World", 0
