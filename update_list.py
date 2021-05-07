@@ -18,7 +18,17 @@ for directory in sorted(os.listdir('.')):
     if not (directory == '.' or directory == '..' or directory[0] == '.' or os.path.isfile(directory)):
         for filename in sorted(os.listdir(directory), key=lambda s: s.lower()):
             if os.path.isfile(os.path.join(directory, filename)):
-                language = os.path.splitext(filename)[0]
+                language = (os.path.splitext(filename)[0]
+                    .replace("-", "-")
+                    .replace("∕", "/")
+                    .replace("＼", "\\")
+                    .replace("˸", ":")
+                    .replace("∗", "*")
+                    .replace("？", "?")
+                    .replace("＂", "\"")
+                    .replace("﹤", "<")
+                    .replace("﹥", ">")
+                    .replace("❘", "|"))
                 languagesText += f'* [{language}]({posixpath.join(quote(directory), quote(filename))})\n'
                 languageCount += 1
 

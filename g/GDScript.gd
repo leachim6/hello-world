@@ -1,4 +1,4 @@
-extends Label
+extends Node2D
 
 func _ready():
-  self.text = "Hello World"
+	print("Hello World")
