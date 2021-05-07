@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (765 total)
+## Languages (766 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [05AB1E](%23/05AB1E)
@@ -166,6 +166,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Bash](b/Bash.bash)
 * [BASIC 256](b/BASIC%20256.kbs)
 * [BASIC](b/BASIC.bas)
+* [Batch to Memory](b/Batch%20to%20Memory.btm)
 * [Batch](b/Batch.bat)
 * [Batch](b/Batch.cmd)
 * [Batsh](b/Batsh.batsh)
