@@ -36,7 +36,8 @@ LOOPBACK
 
 
 HELLOWORLD
-        TEXT 'HELLO WORLD!'
+        TEXT 'HELLO WORLD'
+
         BYTE 0
 
         END

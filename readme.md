@@ -166,6 +166,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Bash](b/Bash.bash)
 * [BASIC 256](b/BASIC%20256.kbs)
 * [BASIC](b/BASIC.bas)
+* [Batch to Memory](b/Batch%20to%20Memory.btm)
 * [Batch](b/Batch.bat)
 * [Batch](b/Batch.cmd)
 * [Batsh](b/Batsh.batsh)

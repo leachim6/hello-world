@@ -7,5 +7,5 @@ in:
 lda hello,y
 bne loop
 rts
-hello: .tx "Hello World!"
+hello: .tx "Hello World"
        .by 13,10,0

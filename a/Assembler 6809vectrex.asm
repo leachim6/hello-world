@@ -28,5 +28,5 @@ loop:
 
 
 
-helloworld:     db      'HELLO WORLD!',$80
+helloworld:     db      'Hello World',$80
 

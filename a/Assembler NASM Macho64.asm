@@ -13,5 +13,5 @@ start:
     syscall
 
 section .data
-msg:    db      "Hello, World!", 10
+msg:    db      "Hello World", 10
 .len:   equ     $ - msg

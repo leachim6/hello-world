@@ -22,5 +22,5 @@ _start:
 
 section	.data
 
-msg	db	"Hello, world!",0xa	
-len	equ	$ - msg		
+msg	db	"Hello World",0xa
+len	equ	$ - msg
