@@ -27,5 +27,5 @@ _start:				;tell linker entry point
 				;there's no need to clean stack
 section	.data
 
-msg	db	"Hello, world!",0xa	;our string
+msg	db	"Hello World",0xa	;our string
 len	equ	$ - msg			;length of our string

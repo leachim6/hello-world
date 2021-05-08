@@ -3,4 +3,4 @@
 			LEA R0, HELLOWORLD
 			PUTS
 	
-HELLOWORLD	.STRINGZ "Hello world!\n"
+HELLOWORLD	.STRINGZ "Hello World\n"

@@ -3,7 +3,7 @@ MODEL SMALL
 STACK 100h
 
 DATASEG
-msg			db "Hello World!", 0dh, 0ah, "$"
+msg			db "Hello World", 0dh, 0ah, "$"
 
 CODESEG
 start:

@@ -30,4 +30,4 @@ PutStr       = -948
 	rts
 
 lib	dc.b	"dos.library", 0
-msg	dc.b	"Hello World!\n", 0
+msg	dc.b	"Hello World\n", 0
