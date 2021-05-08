@@ -1,4 +1,4 @@
-; 16 bit dos assembly
+
 .model small
 .stack
 .data

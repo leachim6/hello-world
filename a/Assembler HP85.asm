@@ -1,4 +1,4 @@
-010 ! Hello world in Assembler for the HP-85
+010
 020         NAM HELLO
 030         DEF RUNTIM
 040         DEF TOKENS
