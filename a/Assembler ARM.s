@@ -1,5 +1,5 @@
 .data
-message:                .asciz "Hello World!"
+message:                .asciz "Hello World"
 len = .-message
 
 .text
