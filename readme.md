@@ -244,7 +244,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Coral 66](c/Coral%2066.cor)
 * [COW](c/COW.cow)
 * [Crystal](c/Crystal.cr)
-* [CSH](c/CSH.csh)
+* [C Shell](c/C%20Shell.csh)
 * [CSharp](c/CSharp.cs)
 * [CSON](c/CSON.cson)
 * [CSS](c/CSS.css)
