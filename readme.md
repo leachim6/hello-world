@@ -247,6 +247,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [CSH](c/CSH.csh)
 * [CSharp](c/CSharp.cs)
 * [CSON](c/CSON.cson)
+* [C Shell](c/C%20Shell)
 * [CSS](c/CSS.css)
 * [Cuda](c/Cuda.cu)
 * [Cuneiform](c/Cuneiform.cfl)
