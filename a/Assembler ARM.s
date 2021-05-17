@@ -1,14 +1,17 @@
 .data
-message:                .asciz "Hello World\n"
+message:                .asciz "Hello World"
+len = .-message
 
 .text
 .global main
 main:
     mov r0, #1  
-    ldr r1, =message 
+    ldr r1, =message
+    ldr r2, =len
     mov r7, #4    
-    swi #0           
+    swi 0           
 
-    mov r0, #0
+    mov r7, #1
+    swi 0
     bx lr
 
