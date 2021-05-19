@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (767 total)
+## Languages (768 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [05AB1E](%23/05AB1E)
@@ -558,6 +558,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Pig](p/Pig.pig)
 * [PikaLang](p/PikaLang.pokeball)
 * [Pike](p/Pike.pike)
+* [Pinecone](p/Pinecone.pn)
 * [Pit](p/Pit.pit)
 * [Pizza](p/Pizza.pizza)
 * [Please Porige Hot](p/Please%20Porige%20Hot.pph)
