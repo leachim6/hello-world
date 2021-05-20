@@ -161,6 +161,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Awful](a/Awful.yuk)
 * [AWK](a/AWK.awk)
 * [B](b/B.b)
+* [Backshift](b/Backshift)
 * [BAIK](b/BAIK.ina)
 * [Ballerina](b/Ballerina.bal)
 * [Bash](b/Bash.bash)
