@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (768 total)
+## Languages (770 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [05AB1E](%23/05AB1E)
@@ -67,6 +67,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [上海话](%23/%E4%B8%8A%E6%B5%B7%E8%AF%9D.shanghai)
 * [文言](%23/%E6%96%87%E8%A8%80.wy)
 * [易语言](%23/%E6%98%93%E8%AF%AD%E8%A8%80.e)
+* [火星文](%23/%E7%81%AB%E6%98%9F%E6%96%87.martian)
 * [🆒](%23/%F0%9F%86%92)
 * [A++](a/A%2B%2B)
 * [ABAP](a/ABAP.abap)
@@ -204,6 +205,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [BuddyScript](b/BuddyScript)
 * [Burlesque](b/Burlesque.burlesque)
 * [Byter](b/Byter.byter)
+* [C Shell](c/C%20Shell.csh)
 * [C++](c/C%2B%2B.cpp)
 * [C](c/C.c)
 * [Cache ObjectScript](c/Cache%20ObjectScript.mac)
@@ -245,7 +247,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Coral 66](c/Coral%2066.cor)
 * [COW](c/COW.cow)
 * [Crystal](c/Crystal.cr)
-* [C Shell](c/C%20Shell.csh)
 * [CSharp](c/CSharp.cs)
 * [CSON](c/CSON.cson)
 * [CSS](c/CSS.css)
@@ -274,7 +275,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Divzeros](d/Divzeros.dz)
 * [DNA#](d/DNA%23.dna)
 * [DNA-Sharp](d/DNA-Sharp.dna)
-* [DOG](d/DOG)
 * [Dog](d/Dog)
 * [DogeScript](d/DogeScript.djs)
 * [DOGO](d/DOGO.dogo)
@@ -386,8 +386,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Homespring](h/Homespring.homespring)
 * [HOP](h/HOP)
 * [HP_41C](h/HP_41C)
+* [HQ9++](h/HQ9%2B%2B)
 * [HQ9+](h/HQ9%2B.h)
-* [HQ9++](h/HQ9++)
 * [HTML](h/HTML.html)
 * [Hubot](h/Hubot.coffee)
 * [Huf](h/Huf.huf)
