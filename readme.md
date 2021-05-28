@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (772 total)
+## Languages (773 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [05AB1E](%23/05AB1E)
@@ -453,6 +453,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Lisaac](l/Lisaac.li)
 * [Lisp](l/Lisp.lsp)
 * [LiveScript](l/LiveScript.ls)
+* [ListLang](l/ListLang)
 * [LLVM](l/LLVM.ll)
 * [LNUSP](l/LNUSP.lnusp)
 * [Locomotive Basic](l/Locomotive%20Basic.b)
