@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (771 total)
+## Languages (772 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [05AB1E](%23/05AB1E)
@@ -519,7 +519,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Nu](n/Nu.nu)
 * [NWScript](n/NWScript.nss)
 * [NXC](n/NXC.nxc)
-* [o:XML](o/o%3AXML)
 * [Oberon 2](o/Oberon%202.obn)
 * [Oberon](o/Oberon.o)
 * [Obix](o/Obix.osc)
@@ -538,6 +537,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Oracle SQL](o/Oracle%20SQL.sql)
 * [Orc](o/Orc.orc)
 * [OX](o/OX.oz)
+* [o:XML](o/o%CB%B8XML)
 * [Parenthetic](p/Parenthetic.p)
 * [Parser](p/Parser.p)
 * [Pascal](p/Pascal.p)
