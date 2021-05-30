@@ -696,6 +696,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Raffalang](t/Raffalang.bro)
 * [Tao Presentations](t/Tao%20Presentations.ddd)
 * [TapeBagel](t/TapeBagel.tb)
+* [Takeover](t/Takeover)
 * [Tcl](t/Tcl.tcl)
 * [TCSH](t/TCSH.tcsh)
 * [Telephone](t/Telephone)
