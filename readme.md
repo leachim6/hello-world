@@ -1,6 +1,6 @@
 # Hello World
 
-Hello world in every computer language.
+Hello World in every computer language.
 
 As I watch the collection expand, this project has blown up more than I ever thought possible.
 Thanks to everyone who continues to contribute; new languages are created every day!
@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (764 total)
+## Languages (776 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [05AB1E](%23/05AB1E)
@@ -68,8 +68,10 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [上海话](%23/%E4%B8%8A%E6%B5%B7%E8%AF%9D.shanghai)
 * [文言](%23/%E6%96%87%E8%A8%80.wy)
 * [易语言](%23/%E6%98%93%E8%AF%AD%E8%A8%80.e)
+* [火星文](%23/%E7%81%AB%E6%98%9F%E6%96%87.martian)
 * [🆒](%23/%F0%9F%86%92)
 * [A++](a/A%2B%2B)
+* [A:;](a/A:;)
 * [ABAP](a/ABAP.abap)
 * [ABC](a/ABC.abc)
 * [ACIDIC](a/ACIDIC.acidic)
@@ -155,18 +157,21 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Assembler Z80 zxspectrum](a/Assembler%20Z80%20zxspectrum.asm)
 * [ATS2](a/ATS2.dats)
 * [Attache](a/Attache.%40)
-* [AutoLISP](a/AutoLISP.lsp)
 * [AutoHotKey](a/AutoHotKey.ahk)
 * [AutoIt](a/AutoIt.au3)
+* [AutoLISP](a/AutoLISP.lsp)
 * [Avisynth](a/Avisynth.avs)
 * [Awful](a/Awful.yuk)
 * [AWK](a/AWK.awk)
+* [Axe](a/Axe.axe)
 * [B](b/B.b)
+* [Backshift](b/Backshift)
 * [BAIK](b/BAIK.ina)
 * [Ballerina](b/Ballerina.bal)
 * [Bash](b/Bash.bash)
 * [BASIC 256](b/BASIC%20256.kbs)
 * [BASIC](b/BASIC.bas)
+* [Batch to Memory](b/Batch%20to%20Memory.btm)
 * [Batch](b/Batch.bat)
 * [Batch](b/Batch.cmd)
 * [Batsh](b/Batsh.batsh)
@@ -203,6 +208,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [BuddyScript](b/BuddyScript)
 * [Burlesque](b/Burlesque.burlesque)
 * [Byter](b/Byter.byter)
+* [C Shell](c/C%20Shell.csh)
 * [C++](c/C%2B%2B.cpp)
 * [C](c/C.c)
 * [Cache ObjectScript](c/Cache%20ObjectScript.mac)
@@ -244,7 +250,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Coral 66](c/Coral%2066.cor)
 * [COW](c/COW.cow)
 * [Crystal](c/Crystal.cr)
-* [CSH](c/CSH.csh)
 * [CSharp](c/CSharp.cs)
 * [CSON](c/CSON.cson)
 * [CSS](c/CSS.css)
@@ -384,6 +389,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Homespring](h/Homespring.homespring)
 * [HOP](h/HOP)
 * [HP_41C](h/HP_41C)
+* [HQ9++](h/HQ9%2B%2B)
 * [HQ9+](h/HQ9%2B.h)
 * [HTML](h/HTML.html)
 * [Hubot](h/Hubot.coffee)
@@ -449,6 +455,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Lisaac](l/Lisaac.li)
 * [Lisp](l/Lisp.lsp)
 * [LiveScript](l/LiveScript.ls)
+* [ListLang](l/ListLang)
 * [LLVM](l/LLVM.ll)
 * [LNUSP](l/LNUSP.lnusp)
 * [Locomotive Basic](l/Locomotive%20Basic.b)
@@ -533,6 +540,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Oracle SQL](o/Oracle%20SQL.sql)
 * [Orc](o/Orc.orc)
 * [OX](o/OX.oz)
+* [o:XML](o/o%CB%B8XML)
 * [Parenthetic](p/Parenthetic.p)
 * [Parser](p/Parser.p)
 * [Pascal](p/Pascal.p)
@@ -555,6 +563,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Pig](p/Pig.pig)
 * [PikaLang](p/PikaLang.pokeball)
 * [Pike](p/Pike.pike)
+* [Pinecone](p/Pinecone.pn)
 * [Pit](p/Pit.pit)
 * [Pizza](p/Pizza.pizza)
 * [Please Porige Hot](p/Please%20Porige%20Hot.pph)
@@ -617,6 +626,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Ricktea](r/Ricktea.tea)
 * [Ride](r/Ride.ride)
 * [Ring](r/Ring.ring)
+* [RISC V](r/RISC%20V.s)
 * [RiveScript](r/RiveScript.rive)
 * [Rockstar](r/Rockstar.rock)
 * [Roco](r/Roco.roco)
@@ -688,6 +698,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Raffalang](t/Raffalang.bro)
 * [Tao Presentations](t/Tao%20Presentations.ddd)
 * [TapeBagel](t/TapeBagel.tb)
+* [Takeover](t/Takeover)
 * [Tcl](t/Tcl.tcl)
 * [TCSH](t/TCSH.tcsh)
 * [Telephone](t/Telephone)

@@ -7,4 +7,4 @@ section	.text
 	add		esp,4
 	ret
 section	.data
-	msg:	db	"Hello world",0Ah,0
+	msg:	db	"Hello World",0Ah,0
