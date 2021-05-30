@@ -4,9 +4,9 @@ entry .code: start
 
 segment .code
 start:
-	mov ax, .data ; put data segment into ax
-	mov ds, ax    ; there, I setup the DS for you
-	mov dx, msg   ; now I give you the offset in DX. DS:DX now completed.
+	mov ax, .data
+	mov ds, ax
+	mov dx, msg 
 	mov ah, 9h
 	int 21h
 	mov ah, 4ch
