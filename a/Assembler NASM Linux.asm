@@ -1,20 +1,20 @@
 section	.text
-    global _start			;must be declared for linker (ld)
+    global _start		
 
-_start:					;tell linker entry point
+_start:			
 
-	xor	ebx,ebx 	;ebx=0
-	mov	ecx,msg		;address of message to write
-	lea	edx,[ebx+len]	;message length
-	lea	eax,[ebx+4]	;system call number (sys_write)
-	inc	ebx		;file descriptor (stdout)
-	int	0x80		;call kernel
+	xor	ebx,ebx 
+	mov	ecx,msg	
+	lea	edx,[ebx+len]
+	lea	eax,[ebx+4]
+	inc	ebx
+	int	0x80	
 
-	xor	eax, eax	;set eax=0
-	inc	eax		;system call number (sys_exit)
-	int	0x80		;call kernel
+	xor	eax, eax
+	inc	eax	
+	int	0x80	
 
 section	.rodata
 
-msg	db	'Hello, world!',0xa	;our string
-len	equ	$ - msg			;length of our string
+msg	db	'Hello World',0xa
+len	equ	$ - msg
