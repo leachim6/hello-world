@@ -783,7 +783,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [ZScript](z/ZScript)
 * [ZSH](z/ZSH.zsh)
 * [zx](z/zx.js)
-<!--Languages end-->
 
 ## Related
 
