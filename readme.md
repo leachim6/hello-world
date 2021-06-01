@@ -273,6 +273,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Desmos](d/Desmos.desmos)
 * [Dis](d/Dis.dis)
 * [Divzeros](d/Divzeros.dz)
+* [DPATL](https://github.com/GO-Technologies/DPATL)
 * [DNA#](d/DNA%23.dna)
 * [DNA-Sharp](d/DNA-Sharp.dna)
 * [Dog](d/Dog)
