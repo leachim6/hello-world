@@ -1,14 +1,3 @@
-{start html}
-<center><h1>Hello HTML!</h1>
-{end html}
 {start python}
-print ("<br/><h1>Hello Python</h1><br/>")
-import this
-print ("</center");
+print("Hello World!)
 {end python}
-{start scss}
-$color: red;
-h1 {
-color: $color;
-}
-{end scss}
