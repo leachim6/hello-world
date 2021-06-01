@@ -5,7 +5,7 @@
 
 	jmp	$
 	
-	HelloWorld	db	"Hello world!",0xD,0xA,0
+	HelloWorld	db	"Hello World",0xD,0xA,0
 	
 print_string:
 	mov	ah,0xE

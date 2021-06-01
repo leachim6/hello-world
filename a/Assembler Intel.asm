@@ -1,18 +1,17 @@
-; hello_world.asm intel 
 
 .model small
 
 .stack 100h
 
 .data
-msg db "Hello World!",'$'
+msg db "Hello World",'$'
 
 .code
 main proc
         mov ax,@data
         mov ds, ax
 
-; hello-world is there 
+
         mov dx,offset msg
         mov ah,09
         int 21h

@@ -1,6 +1,6 @@
 .data
 hw:
-	.ascii "Hello World!\12"
+	.ascii "Hello World\12"
 .text
 	.align 1
 .globl _main

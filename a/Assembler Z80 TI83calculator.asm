@@ -15,6 +15,6 @@
       B_CALL(_NewLine)
       ret
 text:
-      .db "Hello, World",0
+      .db "Hello World",0
 .end
 end

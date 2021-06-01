@@ -9,14 +9,12 @@
 
 WRKSP   EQU     >8300
 
-VDPWD   EQU     >8C00           * VDP RAM write data
-VDPWA   EQU     >8C02           * VDP RAM read/write address
+VDPWD   EQU     >8C00        
+VDPWA   EQU     >8C02
 
 
-START   LIMI    0               * disable interrupts
-        LWPI    WRKSP           * set default workspace
-
-* set VDP RAM start address (low and high byte)
+START   LIMI    0            
+        LWPI    WRKSP
 
         LI      R0,>0000
         ORI     R0,>4000
@@ -25,20 +23,21 @@ START   LIMI    0               * disable interrupts
         SWPB    R0
         MOVB    R0,@VDPWA
 
-        LI      R1,HELLOWORLD   * ascii string address
-        LI      R2,12           * total chars
+        LI      R1,HELLOWORLD   
+        LI      R2,12          
 
 NEXTCHAR
-        MOVB    *R1+,@VDPWD     * put next char on screen
+        MOVB    *R1+,@VDPWD     
         DEC     R2
         JNE     NEXTCHAR
 
 LOOPBACK
-        JMP LOOPBACK            * stop and do nothing
+        JMP LOOPBACK
 
 
 HELLOWORLD
-        TEXT 'HELLO WORLD!'     * string data
+        TEXT 'HELLO WORLD'
+
         BYTE 0
 
         END
