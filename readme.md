@@ -579,6 +579,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Potaka](p/Potaka.ptk)
 * [Potigol](p/Potigol.poti)
 * [PowerShell](p/PowerShell.ps1)
+* [Printscript](p/Printscript)
 * [Processing](p/Processing.pde)
 * [Profan](p/Profan)
 * [Prolog](p/Prolog.pro)
