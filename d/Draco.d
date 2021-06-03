@@ -1,3 +1,3 @@
 proc main()void:
-    writeln("Hello World!");
+    writeln("Hello World");
 corp;
