@@ -719,7 +719,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Ubiquity](u/Ubiquity.ubiquity)
 * [Umajin](u/Umajin.u)
 * [Unicomal](u/Unicomal.lst)
-* [Unicorn](u/Unicorn.icn)
+* [Unicon](u/Unicon.icn)
 * [Uniface](u/Uniface.uniface)
 * [Unlambda](u/Unlambda.unl)
 * [Unreal Script](u/Unreal%20Script.uc)
