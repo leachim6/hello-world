@@ -1,7 +1,5 @@
-* Message Box:
 MESSAGEBOX("Hello World")
 
-* Print to screen:
 ? "Hello World"
 
 * GUI:
