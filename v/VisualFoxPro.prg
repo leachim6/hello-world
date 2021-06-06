@@ -2,7 +2,6 @@ MESSAGEBOX("Hello World")
 
 ? "Hello World"
 
-* GUI:
 loForm = CREATEOBJECT("HiForm")
 loForm.Show(1)
 
