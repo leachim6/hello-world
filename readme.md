@@ -86,7 +86,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Ada](a/Ada.adb)
 * [Advpl](a/Advpl)
 * [Aeolbonn](a/Aeolbonn.aeo)
-* [Aeolbonn](a/Aeolbonn.aeolbonn)
 * [Agda](a/Agda.agda)
 * [Aheui](a/Aheui.aheui)
 * [Aime](a/Aime.aime)
