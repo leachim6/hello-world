@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (774 total)
+## Languages (775 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [05AB1E](%23/05AB1E)
@@ -502,6 +502,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Muf](m/Muf.muf)
 * [Mumps](m/Mumps.m)
 * [Mushcode](m/Mushcode.mush)
+* [MXML](m/MXML.mxml)
 * [Myrddin](m/Myrddin.myr)
 * [MySQL](m/MySQL.sql)
 * [Mathematica](n/Mathematica.nb)
