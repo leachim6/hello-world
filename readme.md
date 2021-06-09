@@ -793,3 +793,4 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 
 - [FizzBuzz](https://github.com/zenware/FizzBuzz)
 - [The Hello World Collection](https://helloworldcollection.github.io/)
+- [one-two-three...infinity](https://github.com/clarkzjw/one-two-three...infinity)
