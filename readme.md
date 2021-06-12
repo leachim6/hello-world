@@ -61,6 +61,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Ukrainian](%23/~Ukrainian.ext)
 * [~Urdu](%23/~Urdu.ext)
 * [~Vietnamese](%23/~Vietnamese.ext)
+* [~Xhosa](%23/~Xhosa)
 * [~Zulu](%23/~Zulu)
 * [μλ](%23/%CE%BC%CE%BB)
 * [ᚱᚢᚾᛅᛦ](%23/ᚱᚢᚾᛅᛦ)
