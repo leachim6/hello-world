@@ -373,6 +373,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Grin](g/Grin.grin)
 * [Groovy](g/Groovy.groovy)
 * [Gui4Cli](g/Gui4Cli)
+* [H](h/H)
 * [Hack](h/Hack.hh)
 * [Haml](h/Haml.haml)
 * [Haskell](h/Haskell.hs)
