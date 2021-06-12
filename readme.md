@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (783 total)
+## Languages (784 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [05AB1E](%23/05AB1E)
@@ -64,9 +64,9 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Xhosa](%23/~Xhosa)
 * [~Zulu](%23/~Zulu)
 * [μλ](%23/%CE%BC%CE%BB)
-* [ᚱᚢᚾᛅᛦ](%23/ᚱᚢᚾᛅᛦ)
 * [قلب](%23/%D9%82%D9%84%D8%A8)
 * [کوردیی ناوەندی](%23/%DA%A9%D9%88%D8%B1%D8%AF%DB%8C%DB%8C%20%D9%86%D8%A7%D9%88%DB%95%D9%86%D8%AF%DB%8C)
+* [ᚱᚢᚾᛅᛦ](%23/%E1%9A%B1%E1%9A%A2%E1%9A%BE%E1%9B%85%E1%9B%A6)
 * [なでしこ](%23/%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93.nako)
 * [ひまわり](%23/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A.hmw)
 * [上海话](%23/%E4%B8%8A%E6%B5%B7%E8%AF%9D.shanghai)
@@ -375,7 +375,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Grin](g/Grin.grin)
 * [Groovy](g/Groovy.groovy)
 * [Gui4Cli](g/Gui4Cli)
-* [H](h/H)
 * [Hack](h/Hack.hh)
 * [Haml](h/Haml.haml)
 * [Haskell](h/Haskell.hs)
@@ -398,6 +397,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Huf](h/Huf.huf)
 * [Hy](h/Hy.hy)
 * [HyperTalk](h/HyperTalk.ht)
+* [H🌍](h/H%F0%9F%8C%8D)
 * [I5](i/I5.i5)
 * [IBM1401](i/IBM1401)
 * [IcedCoffeeScript](i/IcedCoffeeScript.ics)
@@ -491,6 +491,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [MilkScript](m/MilkScript.milk)
 * [Minecraft](m/Minecraft.mcfunction)
 * [Mips](m/Mips.s)
+* [Miranda](m/Miranda.m)
 * [Mirc](m/Mirc.mrc)
 * [Mmmm()](m/Mmmm%28%29.mmmm)
 * [ModiScript](m/ModiScript.chai)
