@@ -63,6 +63,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Vietnamese](%23/~Vietnamese.ext)
 * [~Zulu](%23/~Zulu)
 * [μλ](%23/%CE%BC%CE%BB)
+* [ᚱᚢᚾᛅᛦ](%23/ᚱᚢᚾᛅᛦ)
 * [قلب](%23/%D9%82%D9%84%D8%A8)
 * [کوردیی ناوەندی](%23/%DA%A9%D9%88%D8%B1%D8%AF%DB%8C%DB%8C%20%D9%86%D8%A7%D9%88%DB%95%D9%86%D8%AF%DB%8C)
 * [なでしこ](%23/%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93.nako)
