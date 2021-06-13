@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (783 total)
+## Languages (784 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [05AB1E](%23/05AB1E)
@@ -708,6 +708,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Telephone](t/Telephone)
 * [Terra](t/Terra.t)
 * [TeX](t/TeX.tex)
+* [Mostawesomeprogramminglanguage](t/Mostawesomeprogramminglanguage)
 * [THP](t/THP.hrp)
 * [THue](t/THue.th)
 * [TI Hexadecimal](t/TI%20Hexadecimal.hex)
