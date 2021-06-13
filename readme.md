@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (783 total)
+## Languages (784 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [05AB1E](%23/05AB1E)
@@ -241,6 +241,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Coconut](c/Coconut.coc)
 * [CoffeeScript](c/CoffeeScript.coffee)
 * [ColdFusion](c/ColdFusion.cfm)
+* [Comefrom0x10](c/Comefrom0x10)
 * [Common Lisp](c/Common%20Lisp.lisp)
 * [Concurnas](c/Concurnas.conc)
 * [ContinuesEquation](c/ContinuesEquation.ce)
