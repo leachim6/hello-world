@@ -235,6 +235,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [CLIPS](c/CLIPS.clips)
 * [CLISP](c/CLISP.lisp)
 * [Clojure](c/Clojure.clj)
+* [CLU](c/CLU.clu)
 * [COBOL](c/COBOL.cbl)
 * [CobolScript](c/CobolScript.cbl)
 * [Cobra](c/Cobra.cobra)
