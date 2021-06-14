@@ -242,6 +242,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Coconut](c/Coconut.coc)
 * [CoffeeScript](c/CoffeeScript.coffee)
 * [ColdFusion](c/ColdFusion.cfm)
+* [Comefrom0x10](c/Comefrom0x10)
 * [Common Lisp](c/Common%20Lisp.lisp)
 * [Concurnas](c/Concurnas.conc)
 * [ContinuesEquation](c/ContinuesEquation.ce)
