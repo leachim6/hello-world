@@ -1,10 +1,7 @@
-* Message Box:
 MESSAGEBOX("Hello World")
 
-* Print to screen:
 ? "Hello World"
 
-* GUI:
 loForm = CREATEOBJECT("HiForm")
 loForm.Show(1)
 
