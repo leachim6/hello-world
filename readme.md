@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (786 total)
+## Languages (788 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [05AB1E](%23/05AB1E)
@@ -23,6 +23,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [4th Dimension](%23/4th%20Dimension.4dd)
 * [8051 Assembly](%23/8051%20Assembly)
 * [8th](%23/8th)
+* [@tention!](%23/%21tention!)
+* [@text](%23/%40text)
 * [~Afrikaans](%23/~Afrikaans.ext)
 * [~Bengali](%23/~Bengali.ext)
 * [~Chinese](%23/~Chinese.ext)
@@ -680,6 +682,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [SmallTalk GNU](s/SmallTalk%20GNU.st)
 * [SmallTalk](s/SmallTalk.sm)
 * [Smil](s/Smil.smil)
+* [SmileBASIC](s/SmileBASIC.bas)
 * [SML](s/SML.sml)
 * [Snowman](s/Snowman.sm)
 * [Solidity](s/Solidity.sol)
