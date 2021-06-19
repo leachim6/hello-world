@@ -680,6 +680,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [SmallTalk GNU](s/SmallTalk%20GNU.st)
 * [SmallTalk](s/SmallTalk.sm)
 * [Smil](s/Smil.smil)
+* [SmileBASIC](s/SmileBASIC.bas)
 * [SML](s/SML.sml)
 * [Snowman](s/Snowman.sm)
 * [Solidity](s/Solidity.sol)
