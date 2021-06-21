@@ -8,9 +8,10 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (793 total)
+## Languages (800 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
+* [*](%23/*)
 * [0(nop^)](%23/0%28nop%5E%29)
 * [05AB1E](%23/05AB1E)
 * [0815](%23/0815.0815)
@@ -216,7 +217,9 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Burlesque](b/Burlesque.burlesque)
 * [Byter](b/Byter.byter)
 * [C Shell](c/C%20Shell.csh)
+* [C+++](c/C%2B%2B%2B)
 * [C++](c/C%2B%2B.cpp)
+* [C+](c/C%2B)
 * [C](c/C.c)
 * [Cache ObjectScript](c/Cache%20ObjectScript.mac)
 * [CAML](c/CAML.ml)
@@ -233,6 +236,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Cheddar](c/Cheddar.cheddar)
 * [Cheese++](c/Cheese%2B%2B.cheese)
 * [Chef](c/Chef.ch)
+* [Chem](c/Chem)
 * [Chicekn](c/Chicekn.chicken)
 * [Cil](c/Cil.il)
 * [Clean](c/Clean.icl)
@@ -354,6 +358,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Fractran++](f/Fractran%2B%2B.fpp)
 * [Freebrain](f/Freebrain.frbr)
 * [Frink](f/Frink.frink)
+* [FROM HERE TO THERE](f/FROM%20HERE%20TO%20THERE)
 * [FSharp](f/FSharp.fs)
 * [FStar](f/FStar.fst)
 * [GAML](g/GAML.gaml)
@@ -382,6 +387,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [GridScript](g/GridScript.gridscript)
 * [Grin](g/Grin.grin)
 * [Groovy](g/Groovy.groovy)
+* [GTA3Script](g/GTA3Script.gs)
 * [Gui4Cli](g/Gui4Cli)
 * [Hack](h/Hack.hh)
 * [Haml](h/Haml.haml)
@@ -778,6 +784,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [XBase++](x/XBase%2B%2B.prg)
 * [XBase](x/XBase.dbf)
 * [XHTML](x/XHTML.xhtml)
+* [Xihcute](x/Xihcute)
 * [XL](x/XL.xl)
 * [XLisp](x/XLisp.xlisp)
 * [Xlogo](x/Xlogo.lgo)
