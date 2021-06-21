@@ -216,6 +216,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Byter](b/Byter.byter)
 * [C Shell](c/C%20Shell.csh)
 * [C++](c/C%2B%2B.cpp)
+* [C+](c/C%2B)
 * [C](c/C.c)
 * [Cache ObjectScript](c/Cache%20ObjectScript.mac)
 * [CAML](c/CAML.ml)
