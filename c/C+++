@@ -1,0 +1,5 @@
+integer new main()
+{
+   println.format("Hello World");
+   return 0;
+}
