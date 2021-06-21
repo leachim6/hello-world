@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (792 total)
+## Languages (793 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [0(nop^)](%23/0%28nop%5E%29)
@@ -216,6 +216,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Byter](b/Byter.byter)
 * [C Shell](c/C%20Shell.csh)
 * [C++](c/C%2B%2B.cpp)
+* [C+](c/C%2B)
 * [C](c/C.c)
 * [Cache ObjectScript](c/Cache%20ObjectScript.mac)
 * [CAML](c/CAML.ml)
