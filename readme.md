@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (794 total)
+## Languages (795 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [0(nop^)](%23/0%28nop%5E%29)
@@ -233,6 +233,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Cheddar](c/Cheddar.cheddar)
 * [Cheese++](c/Cheese%2B%2B.cheese)
 * [Chef](c/Chef.ch)
+* [Chem](c/Chem)
 * [Chicekn](c/Chicekn.chicken)
 * [Cil](c/Cil.il)
 * [Clean](c/Clean.icl)
