@@ -452,6 +452,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [K](k/K.k)
 * [Karel](k/Karel.kl)
 * [KimL](k/KimL.kiml)
+* [Kitanai](k/Kitanai)
 * [Kipple](k/Kipple.kipple)
 * [Kitten](k/Kitten.ktn)
 * [Koberi C](k/Koberi%20C.koberice)
