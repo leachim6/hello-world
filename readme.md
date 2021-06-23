@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (801 total)
+## Languages (802 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [*](%23/*)
@@ -457,6 +457,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Kitten](k/Kitten.ktn)
 * [Koberi C](k/Koberi%20C.koberice)
 * [Kotlin](k/Kotlin.kt)
+* [Kotlin DSL](k/KotlinDSL.kts)
 * [KSH](k/KSH.ksh)
 * [Kumir](k/Kumir.kum)
 * [Labyrinth](l/Labyrinth.labyrinth)
