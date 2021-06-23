@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (801 total)
+## Languages (802 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [*](%23/*)
@@ -731,6 +731,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [TI Hexadecimal](t/TI%20Hexadecimal.hex)
 * [TIBasic](t/TIBasic.ti)
 * [TK](t/TK.tk)
+* [Trans-dimensional](t/Trans-dimensional)
 * [Tri](t/Tri.tri)
 * [TrollScript](t/TrollScript.troll)
 * [TrumpScript](t/TrumpScript.py)
