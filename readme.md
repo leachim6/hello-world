@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (802 total)
+## Languages (804 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [*](%23/*)
@@ -498,6 +498,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Malbolge](m/Malbolge.mbg)
 * [Mariolang](m/Mariolang)
 * [Markdown](m/Markdown.md)
+* [Mathematica](m/Mathematica.nb)
 * [Mathematica Online](m/Mathematica%20Online.nb)
 * [MATLAB 1.0](m/MATLAB%201.0.m)
 * [MATLAB](m/MATLAB.m)
@@ -527,7 +528,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [MXML](m/MXML.mxml)
 * [Myrddin](m/Myrddin.myr)
 * [MySQL](m/MySQL.sql)
-* [Mathematica](n/Mathematica.nb)
 * [Nadeshiko](n/Nadeshiko.fjo)
 * [Neko](n/Neko.neko)
 * [Nemerle](n/Nemerle.n)
@@ -538,6 +538,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Nit](n/Nit.nit)
 * [Node.js](n/Node.js.js)
 * [NoFlo](n/NoFlo.fbp)
+* [Not Python](n/Not%20Python)
 * [Novice](n/Novice.novice)
 * [Nu](n/Nu.nu)
 * [NWScript](n/NWScript.nss)
@@ -553,6 +554,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [OCaml](o/OCaml.ml)
 * [Octave](o/Octave.m)
 * [Omgrofl](o/Omgrofl.omgrofl)
+* [ON THE WAY TO WHO KNOWS WHERE](o/ON%20THE%20WAY%20TO%20WHO%20KNOWS%20WHERE)
 * [Ooc](o/Ooc.ooc)
 * [Ook!](o/Ook%21.ok)
 * [Opa](o/Opa.opa)
