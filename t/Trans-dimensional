@@ -1,0 +1,3 @@
+dimension X;
+put [X:1] -> "Hello World";
+output get [X:1];
