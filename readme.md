@@ -457,7 +457,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Kitten](k/Kitten.ktn)
 * [Koberi C](k/Koberi%20C.koberice)
 * [Kotlin](k/Kotlin.kt)
-* [Kotlin DSL](k/KotlinDSL.kts)
+* [Kotlin Script](k/KotlinDSL.kts)
 * [KSH](k/KSH.ksh)
 * [Kumir](k/Kumir.kum)
 * [Labyrinth](l/Labyrinth.labyrinth)
