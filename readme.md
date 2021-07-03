@@ -386,7 +386,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Gri](g/Gri.gri)
 * [GridScript](g/GridScript.gridscript)
 * [Grin](g/Grin.grin)
-* [Grock](g/Grock)
+* [Grok](g/Grok)
 * [Groovy](g/Groovy.groovy)
 * [GTA3Script](g/GTA3Script.sc)
 * [Gui4Cli](g/Gui4Cli)
