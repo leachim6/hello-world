@@ -24,6 +24,6 @@ If a file name contains a special character that Windows is not able to display,
 
 The code in the file should be the simplest and most straightforward way to print/display/show `Hello World` exactly once in the language used. User input should not be request and a newline should only be printed when necessary.
 
-### Updating README
+### Updating readme
 
 After adding the language file, `update_list.py` (Python 3.6+) automatically updates the language list.
