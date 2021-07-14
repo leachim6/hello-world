@@ -802,6 +802,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [XUL](x/XUL.xul)
 * [Y](y/Y.y)
 * [YAML](y/YAML.yaml)
+* [YASKC](y/YASKC.yaskc)
 * [YoLang](y/YoLang.yo)
 * [YoptaScript](y/YoptaScript)
 * [ZBD](z/ZBD)
