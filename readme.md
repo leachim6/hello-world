@@ -8,10 +8,11 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (809 total)
+## Languages (810 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [?$51=](%23/?%2351=)
+* [():;#?!](%23/%88%97:;%23?)
 * [0(nop^)](%23/0%28nop%5E%29)
 * [0587](%23/0587)
 * [05AB1E](%23/05AB1E)
