@@ -11,6 +11,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 ## Languages (810 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
+* [?$51=](%23/?%2351=)
 * [():;#?!](%23/%88%97:;%23?)
 * [0(nop^)](%23/0%28nop%5E%29)
 * [0587](%23/0587)
