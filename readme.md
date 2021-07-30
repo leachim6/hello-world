@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (811 total)
+## Languages (812 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [?$51=](%23/?%2351=)
@@ -744,6 +744,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [TrumpScript](t/TrumpScript.py)
 * [TSQL](t/TSQL.sql)
 * [TTCN3](t/TTCN3.ttcn)
+* [Tunex](t/Tunex.tx)
 * [Turing](t/Turing.oot)
 * [Turing](t/Turing.t)
 * [TypeScript](t/TypeScript.ts)
