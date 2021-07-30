@@ -1,0 +1,4 @@
+fn main(args) : void
+{
+  display("Hello World")
+}
