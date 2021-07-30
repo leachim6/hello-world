@@ -8,11 +8,10 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (811 total)
+## Languages (813 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
-* [?$51=](%23/?%2351=)
-* [():;#?!](%23/%88%97:;%23?)
+* [():;#?!](%23/%28%29%3A%3B%23%3F%21)
 * [0(nop^)](%23/0%28nop%5E%29)
 * [0587](%23/0587)
 * [05AB1E](%23/05AB1E)
@@ -27,6 +26,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [4th Dimension](%23/4th%20Dimension.4dd)
 * [8051 Assembly](%23/8051%20Assembly)
 * [8th](%23/8th)
+* [?$51=](%23/%3F%2451%3D)
 * [@tention!](%23/%40tention%21)
 * [@text](%23/%40text)
 * [~Afrikaans](%23/~Afrikaans)
@@ -136,6 +136,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Assembler 6502c64](a/Assembler%206502c64.asm)
 * [Assembler 6809vectrex](a/Assembler%206809vectrex.asm)
 * [Assembler 8048 videopac](a/Assembler%208048%20videopac.asm)
+* [Assembler ARM aarch64](a/Assembler%20ARM%20aarch64.s)
 * [Assembler ARM](a/Assembler%20ARM.s)
 * [Assembler Atari 2600](a/Assembler%20Atari%202600.asm)
 * [Assembler Bootsect](a/Assembler%20Bootsect.asm)
@@ -270,8 +271,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Cuneiform](c/Cuneiform.cfl)
 * [Curry](c/Curry.curry)
 * [CypherNeo4j](c/CypherNeo4j.cypher)
+* [Cω](c/C%CF%89.cs)
 * [C*](c/C%E2%88%97)
-* [Cω](c/Cω)
 * [D](d/D.d)
 * [dark](d/dark.txt)
 * [Dart](d/Dart.dart)
@@ -292,6 +293,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Divzeros](d/Divzeros.dz)
 * [DNA#](d/DNA%23.dna)
 * [DNA-Sharp](d/DNA-Sharp.dna)
+* [DOG](d/DOG)
 * [Dog](d/Dog)
 * [DOG](d/DOG.ext)
 * [DogeScript](d/DogeScript.djs)
