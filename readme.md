@@ -739,6 +739,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [TI Hexadecimal](t/TI%20Hexadecimal.hex)
 * [TIBasic](t/TIBasic.ti)
 * [TK](t/TK.tk)
+* [TOML](t/TOML.toml)
 * [Trans-dimensional](t/Trans-dimensional)
 * [Tri](t/Tri.tri)
 * [TrollScript](t/TrollScript.troll)
