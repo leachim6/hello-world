@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (813 total)
+## Languages (814 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [?$51=](%23/?%2351=)
@@ -136,6 +136,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Assembler 6502c64](a/Assembler%206502c64.asm)
 * [Assembler 6809vectrex](a/Assembler%206809vectrex.asm)
 * [Assembler 8048 videopac](a/Assembler%208048%20videopac.asm)
+* [Assembler ARM aarch64](a/Assembler%20ARM%20aarch64.s)
 * [Assembler ARM](a/Assembler%20ARM.s)
 * [Assembler Atari 2600](a/Assembler%20Atari%202600.asm)
 * [Assembler Bootsect](a/Assembler%20Bootsect.asm)
