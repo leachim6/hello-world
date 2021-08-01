@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (814 total)
+## Languages (815 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [?$51=](%23/?%2351=)
@@ -525,6 +525,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Moo](m/Moo.moo)
 * [Moonscript](m/Moonscript.moon)
 * [Morse code](m/Morse%20code)
+* [Mostawesomeprograminglanguage](m/Mostawesomeprograminglanguage)
 * [Mouse](m/Mouse.mse)
 * [Move](m/Move.mv)
 * [Mozart](m/Mozart.oz)
