@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (812 total)
+## Languages (813 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [?$51=](%23/?%2351=)
@@ -558,6 +558,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [ObjectStar](o/ObjectStar)
 * [OCaml](o/OCaml.ml)
 * [Octave](o/Octave.m)
+* [Odin](o/Odin.odin)
 * [Omgrofl](o/Omgrofl.omgrofl)
 * [ON THE WAY TO WHO KNOWS WHERE](o/ON%20THE%20WAY%20TO%20WHO%20KNOWS%20WHERE)
 * [Ooc](o/Ooc.ooc)
