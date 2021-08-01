@@ -272,7 +272,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Curry](c/Curry.curry)
 * [CypherNeo4j](c/CypherNeo4j.cypher)
 * [C*](c/C%E2%88%97)
-* [Cω](c/C%CF%89.cs)
+* [Cω](c/Cω)
 * [D](d/D.d)
 * [dark](d/dark.txt)
 * [Dart](d/Dart.dart)
