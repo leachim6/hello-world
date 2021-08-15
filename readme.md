@@ -44,6 +44,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Hausa](%23/~Hausa)
 * [~Hebrew](%23/~Hebrew)
 * [~Hindi](%23/~Hindi)
+* [~Hungarian](%23/~Hungarian)
 * [~Indonesia](%23/~Indonesia)
 * [~Italian](%23/~Italian)
 * [~Javanese](%23/~Javanese)
