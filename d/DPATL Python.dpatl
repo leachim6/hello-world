@@ -1,0 +1,3 @@
+{start python}
+print("Hello World")
+{end python}
