@@ -1,4 +1,3 @@
-
 MESSAGEBOX("Hello World")
 
 ? "Hello World"
