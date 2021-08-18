@@ -8,11 +8,10 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (817 total)
+## Languages (819 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
-* [?$51=](%23/?%2351=)
-* [():;#?!](%23/%88%97:;%23?)
+* [():;#?!](%23/%28%29%3A%3B%23%3F%21)
 * [0(nop^)](%23/0%28nop%5E%29)
 * [0587](%23/0587)
 * [05AB1E](%23/05AB1E)
@@ -27,6 +26,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [4th Dimension](%23/4th%20Dimension.4dd)
 * [8051 Assembly](%23/8051%20Assembly)
 * [8th](%23/8th)
+* [?$51=](%23/%3F%2451%3D)
 * [@tention!](%23/%40tention%21)
 * [@text](%23/%40text)
 * [~Afrikaans](%23/~Afrikaans)
@@ -273,8 +273,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Cuneiform](c/Cuneiform.cfl)
 * [Curry](c/Curry.curry)
 * [CypherNeo4j](c/CypherNeo4j.cypher)
+* [Cω](c/C%CF%89.cs)
 * [C*](c/C%E2%88%97)
-* [Cω](c/Cω)
 * [D](d/D.d)
 * [dark](d/dark.txt)
 * [Dart](d/Dart.dart)
@@ -296,12 +296,14 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [DNA#](d/DNA%23.dna)
 * [DNA-Sharp](d/DNA-Sharp.dna)
 * [Dog](d/Dog)
+* [DOG](d/DOG)
 * [DOG](d/DOG.ext)
 * [DogeScript](d/DogeScript.djs)
 * [DOGO](d/DOGO.dogo)
 * [dongbei](d/dongbei.dongbei)
 * [dos](d/dos.bat)
 * [Dotlang](d/Dotlang)
+* [DPATL Python](d/DPATL%20Python.dpatl)
 * [Draco](d/Draco.d)
 * [Dragon](d/Dragon)
 * [DreamMaker](d/DreamMaker.dm)
@@ -814,6 +816,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [YASKC](y/YASKC.yaskc)
 * [YoLang](y/YoLang.yo)
 * [YoptaScript](y/YoptaScript)
+* [Z Shell](z/Z%20Shell.zsh)
 * [ZBD](z/ZBD)
 * [Zepto](z/Zepto.zp)
 * [Zetaplex](z/Zetaplex.zeta)
@@ -825,7 +828,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Zonnon](z/Zonnon.znn)
 * [ZPL](z/ZPL)
 * [ZScript](z/ZScript)
-* [Z Shell](z/Z Shell.zsh)
 * [zx](z/zx.js)
 <!--Languages end-->
 
