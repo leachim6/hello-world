@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (819 total)
+## Languages (820 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [():;#?!](%23/%28%29%3A%3B%23%3F%21)
@@ -334,6 +334,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [EOOOL](e/EOOOL.eoool)
 * [Erlang EScript](e/Erlang%20EScript.erl)
 * [Erlang](e/Erlang.erl)
+* [es](e/es)
 * [Euphoria](e/Euphoria.ex)
 * [Express](e/Express.js)
 * [F](f/F.f95)
