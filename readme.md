@@ -824,7 +824,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Zonnon](z/Zonnon.znn)
 * [ZPL](z/ZPL)
 * [ZScript](z/ZScript)
-* [ZSH](z/ZSH.zsh)
+* [Z Shell](z/Z Shell.zsh)
 * [zx](z/zx.js)
 <!--Languages end-->
 
