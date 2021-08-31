@@ -469,7 +469,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Kitten](k/Kitten.ktn)
 * [Koberi C](k/Koberi%20C.koberice)
 * [Kotlin](k/Kotlin.kt)
-* [Kotlin Script](k/KotlinScript.kts)
+* [Kotlin Script](k/Kotlin Script.kts)
 * [KSH](k/KSH.ksh)
 * [Kumir](k/Kumir.kum)
 * [Labyrinth](l/Labyrinth.labyrinth)
