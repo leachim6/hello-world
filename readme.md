@@ -76,6 +76,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [قلب](%23/%D9%82%D9%84%D8%A8)
 * [کوردیی ناوەندی](%23/%DA%A9%D9%88%D8%B1%D8%AF%DB%8C%DB%8C%20%D9%86%D8%A7%D9%88%DB%95%D9%86%D8%AF%DB%8C)
 * [ᚱᚢᚾᛅᛦ](%23/%E1%9A%B1%E1%9A%A2%E1%9A%BE%E1%9B%85%E1%9B%A6)
+* [한국어](%23/%ED%95%9C%EA%B5%AD%EC%96%B4)
 * [*](%23/%E2%88%97)
 * [なでしこ](%23/%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93.nako)
 * [ひまわり](%23/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A.hmw)
