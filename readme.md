@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (824 total)
+## Languages (825 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [():;#?!](%23/%28%29%3A%3B%23%3F%21)
@@ -55,6 +55,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Mongolian](%23/~Mongolian)
 * [~Odia](%23/~Odia)
 * [~Pashto](%23/~Pashto)
+* [~Persian](%23/~Persian)
 * [~Polish](%23/~Polish)
 * [~Portuguese](%23/~Portuguese)
 * [~Punjabi](%23/~Punjabi)
