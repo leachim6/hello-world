@@ -8,10 +8,10 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (827 total)
+## Languages (830 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
-* [():;#?!](%23/%28%29%3A%3B%23%3F%21)
+* [():;#?!](%23/%28%29%CB%B8%3B%23%EF%BC%9F%21)
 * [0(nop^)](%23/0%28nop%5E%29)
 * [0587](%23/0587)
 * [05AB1E](%23/05AB1E)
@@ -26,7 +26,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [4th Dimension](%23/4th%20Dimension.4dd)
 * [8051 Assembly](%23/8051%20Assembly)
 * [8th](%23/8th)
-* [?$51=](%23/%3F%2451%3D)
 * [@tention!](%23/%40tention%21)
 * [@text](%23/%40text)
 * [~Afrikaans](%23/~Afrikaans)
@@ -62,6 +61,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Russian](%23/~Russian)
 * [~Sanskrit](%23/~Sanskrit)
 * [~Serbian](%23/~Serbian)
+* [~Sindhi](%23/~Sindhi)
 * [~Swedish](%23/~Swedish)
 * [~Tamil](%23/~Tamil)
 * [~Telugu](%23/~Telugu)
@@ -85,6 +85,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [易语言](%23/%E6%98%93%E8%AF%AD%E8%A8%80.e)
 * [火星文](%23/%E7%81%AB%E6%98%9F%E6%96%87.martian)
 * [한국어](%23/%ED%95%9C%EA%B5%AD%EC%96%B4)
+* [?$51=](%23/%EF%BC%9F%2451%3D)
 * [🆒](%23/%F0%9F%86%92)
 * [A++](a/A%2B%2B)
 * [ABAP](a/ABAP.abap)
@@ -453,6 +454,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Java](j/Java.java)
 * [JavaScript](j/JavaScript.js)
 * [Jelly](j/Jelly.j)
+* [Jenkinsfile](j/Jenkinsfile)
 * [Jess](j/Jess.cpl)
 * [JScript](j/JScript.js)
 * [JSFuck](j/JSFuck.js)
@@ -518,6 +520,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [MATLAB](m/MATLAB.m)
 * [MaxScript](m/MaxScript.ms)
 * [Mel](m/Mel.mel)
+* [MemeAssembly](m/MemeAssembly.memeasm)
 * [Meq](m/Meq.meq)
 * [Mercury](m/Mercury.m)
 * [MilkScript](m/MilkScript.milk)
