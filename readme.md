@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (829 total)
+## Languages (830 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [():;#?!](%23/%28%29%CB%B8%3B%23%EF%BC%9F%21)
@@ -655,6 +655,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [RatFor](r/RatFor.ratfor)
 * [React](r/React.js)
 * [React360](r/React360.js)
+* [React Native](r/React Native.js)
 * [Readlink](r/Readlink.readlink)
 * [RealBasic](r/RealBasic.realbasic)
 * [Reason](r/Reason.re)
