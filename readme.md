@@ -721,6 +721,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Smil](s/Smil.smil)
 * [SmileBASIC](s/SmileBASIC.bas)
 * [SML](s/SML.sml)
+* [Snekky](s/Snekky.snek)
 * [SNOBOL](s/SNOBOL)
 * [Snowman](s/Snowman.sm)
 * [Solidity](s/Solidity.sol)
