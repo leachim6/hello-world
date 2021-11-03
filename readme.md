@@ -791,7 +791,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Visual Basic Script](v/Visual%20Basic%20Script.vbs)
 * [Visual Basic](v/Visual%20Basic.vb)
 * [VisualFoxPro](v/VisualFoxPro.prg)
-* [VisuALG](v/VisuALG.alg)
+* [VisuAlg](v/VisuAlg.alg)
 * [VJass](v/VJass.j)
 * [VMS](v/VMS.vms)
 * [Vowels](v/Vowels.vw)
