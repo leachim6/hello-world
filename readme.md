@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (831 total)
+## Languages (833 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [():;#?!](%23/%28%29%CB%B8%3B%23%EF%BC%9F%21)
@@ -48,6 +48,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Italian](%23/~Italian)
 * [~Javanese](%23/~Javanese)
 * [~Kannada](%23/~Kannada)
+* [~Latin](%23/~Latin)
 * [~Malay](%23/~Malay)
 * [~Malayalam](%23/~Malayalam)
 * [~Marathi](%23/~Marathi)
@@ -298,8 +299,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Divzeros](d/Divzeros.dz)
 * [DNA#](d/DNA%23.dna)
 * [DNA-Sharp](d/DNA-Sharp.dna)
-* [DOG](d/DOG)
 * [Dog](d/Dog)
+* [DOG](d/DOG)
 * [DOG](d/DOG.ext)
 * [DogeScript](d/DogeScript.djs)
 * [DOGO](d/DOGO.dogo)
@@ -654,9 +655,9 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Rafflalang](r/Rafflalang.bro)
 * [Raku](r/Raku.raku)
 * [RatFor](r/RatFor.ratfor)
+* [React Native](r/React%20Native.js)
 * [React](r/React.js)
 * [React360](r/React360.js)
-* [React Native](r/React Native.js)
 * [Readlink](r/Readlink.readlink)
 * [RealBasic](r/RealBasic.realbasic)
 * [Reason](r/Reason.re)
@@ -721,6 +722,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Smil](s/Smil.smil)
 * [SmileBASIC](s/SmileBASIC.bas)
 * [SML](s/SML.sml)
+* [Snekky](s/Snekky.snek)
 * [SNOBOL](s/SNOBOL)
 * [Snowman](s/Snowman.sm)
 * [Solidity](s/Solidity.sol)
