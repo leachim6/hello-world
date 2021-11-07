@@ -30,4 +30,4 @@ The code in the file should be the simplest and most straightforward way to prin
 
 ### Updating readme
 
-After adding the language file, `update_list.py` (Python 3.6+) automatically updates the language list.
+After you add a language on your local repository run `update_list.py` with Python 3.6+. If you do not have a local repository increment the language count and add your lanuage where it should go alphabetically.
