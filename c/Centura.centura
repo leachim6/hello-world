@@ -7,4 +7,4 @@ Parameters
 Static Variables
 Local variables
 Actions
- Call SalMessageBox( "Hello World",'Message',MB_Ok)
+ Call SalMessageBox( 'Hello World','Message',MB_Ok)
