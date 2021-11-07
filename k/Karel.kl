@@ -1,4 +1,4 @@
 PROGRAM hello_world
 BEGIN
-  WRITE("Hello World", CR)
+  WRITE('Hello World', CR)
 END hello_world
