@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (833 total)
+## Languages (834 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [():;#?!](%23/%28%29%CB%B8%3B%23%EF%BC%9F%21)
@@ -794,6 +794,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Visual Basic Script](v/Visual%20Basic%20Script.vbs)
 * [Visual Basic](v/Visual%20Basic.vb)
 * [VisualFoxPro](v/VisualFoxPro.prg)
+* [VisuAlg](v/VisuAlg.alg)
 * [VJass](v/VJass.j)
 * [VMS](v/VMS.vms)
 * [Vowels](v/Vowels.vw)
