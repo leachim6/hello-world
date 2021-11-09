@@ -63,6 +63,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Sanskrit](%23/~Sanskrit)
 * [~Serbian](%23/~Serbian)
 * [~Sindhi](%23/~Sindhi)
+* [~Spanish](%23/~Spanish)
 * [~Swedish](%23/~Swedish)
 * [~Tamil](%23/~Tamil)
 * [~Telugu](%23/~Telugu)
