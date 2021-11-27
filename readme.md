@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (836 total)
+## Languages (837 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [():;#?!](%23/%28%29%CB%B8%3B%23%EF%BC%9F%21)
@@ -120,6 +120,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Android](a/Android.java)
 * [AngelScript](a/AngelScript)
 * [Angular](a/Angular.js)
+* [Ansible](a/Ansible.yml)
 * [Ante](a/Ante.ante)
 * [AntLang](a/AntLang.ant)
 * [APC](a/APC.apc)
