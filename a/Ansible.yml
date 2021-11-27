@@ -1,6 +1,5 @@
 ---
-# This playbook prints a simple debug message
-- name: Echo 
+- name: Print 
   hosts: 127.0.0.1
   connection: local
 
