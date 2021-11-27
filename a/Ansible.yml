@@ -5,6 +5,6 @@
   connection: local
 
   tasks:
-  - name: Print Hello World!
+  - name: Print Hello World
     debug:
       msg: Hello World
