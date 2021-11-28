@@ -1,0 +1,9 @@
+---
+- name: Print 
+  hosts: 127.0.0.1
+  connection: local
+
+  tasks:
+  - name: Print Hello World
+    debug:
+      msg: Hello World
