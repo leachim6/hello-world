@@ -29,6 +29,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [@tention!](%23/%40tention%21)
 * [@text](%23/%40text)
 * [~Afrikaans](%23/~Afrikaans)
+* [~Arabic](%23/~Arabic)
 * [~Bengali](%23/~Bengali)
 * [~Bosnian](%23/~Bosnian)
 * [~Chinese](%23/~Chinese)
