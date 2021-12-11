@@ -471,7 +471,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Jython](j/Jython.py)
 * [K](k/K.k)
 * [Karel](k/Karel.kl)
-* [Ked](k/Ked)
+* [Ked](k/Ked.ked)
 * [KimL](k/KimL.kiml)
 * [Kipple](k/Kipple.kipple)
 * [Kitanai](k/Kitanai)
