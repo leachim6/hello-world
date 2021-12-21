@@ -51,6 +51,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Javanese](%23/~Javanese)
 * [~Kannada](%23/~Kannada)
 * [~Kinyarwanda](%23/~Kinyarwanda)
+* [~Kurdish](%23/~Kurdish)
 * [~Latin](%23/~Latin)
 * [~Malay](%23/~Malay)
 * [~Malayalam](%23/~Malayalam)
