@@ -354,7 +354,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [False](f/False.f)
 * [Fancy](f/Fancy.fy)
 * [Fantom](f/Fantom.fan)
-* [FastAPI](f/Fastapi.py)
+* [FastAPI](f/FastAPI.py)
 * [Fennel](f/Fennel.fnl)
 * [Ferite](f/Ferite.fe)
 * [Fetlang](f/Fetlang.fet)
