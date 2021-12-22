@@ -500,7 +500,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Lisaac](l/Lisaac.li)
 * [Lisp](l/Lisp.lsp)
 * [ListLang](l/ListLang)
-* [LiveScript](l/Livecode)
+* [LiveCode](l/Livecode)
 * [LiveScript](l/LiveScript.ls)
 * [LLVM](l/LLVM.ll)
 * [LNUSP](l/LNUSP.lnusp)
