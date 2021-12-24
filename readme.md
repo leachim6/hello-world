@@ -624,6 +624,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [PLI](p/PLI.pl1)
 * [PLSQL](p/PLSQL.sql)
 * [Pluvo](p/Pluvo.pvo)
+* [PL/SQL](p/PL%E2%88%95SQL.pls)
 * [Polynomial](p/Polynomial.pol)
 * [Pony](p/Pony.pony)
 * [Portugol](p/Portugol.por)
