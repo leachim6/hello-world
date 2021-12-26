@@ -622,7 +622,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Pizza](p/Pizza.pizza)
 * [Please Porige Hot](p/Please%20Porige%20Hot.pph)
 * [PLI](p/PLI.pl1)
-* [PLSQL](p/PLSQL.sql)
 * [Pluvo](p/Pluvo.pvo)
 * [PL/SQL](p/PL%E2%88%95SQL.pls)
 * [Polynomial](p/Polynomial.pol)
