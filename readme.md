@@ -9,7 +9,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 
 <!--Languages start-->
 
-## Languages (848 total)
+## Languages (849 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [():;#?!](%23/%28%29%CB%B8%3B%23%EF%BC%9F%21)
@@ -409,6 +409,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Gri](g/Gri.gri)
 * [GridScript](g/GridScript.gridscript)
 * [Grin](g/Grin.grin)
+* [GitHub Actions](g/GitHub%20Actions.yaml)
 * [Grok](g/Grok)
 * [Groovy](g/Groovy.groovy)
 * [GTA3Script](g/GTA3Script.sc)
