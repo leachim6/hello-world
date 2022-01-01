@@ -8,8 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-
-## Languages (849 total)
+## Languages (850 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [():;#?!](%23/%28%29%CB%B8%3B%23%EF%BC%9F%21)
@@ -277,6 +276,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Cor](c/Cor.cor)
 * [Coral 66](c/Coral%2066.cor)
 * [COW](c/COW.cow)
+* [Coyote](c/Coyote.cot)
 * [Crystal](c/Crystal.cr)
 * [CSharp](c/CSharp.cs)
 * [CSON](c/CSON.cson)
@@ -394,6 +394,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [GeoJSON](g/GeoJSON.geojson)
 * [GFA Basic](g/GFA%20Basic)
 * [Gibberish](g/Gibberish.gibberish)
+* [GitHub Actions](g/GitHub%20Actions.yaml)
 * [Glass](g/Glass.glass)
 * [GML](g/GML.gml)
 * [Go](g/Go.go)
@@ -409,7 +410,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Gri](g/Gri.gri)
 * [GridScript](g/GridScript.gridscript)
 * [Grin](g/Grin.grin)
-* [GitHub Actions](g/GitHub%20Actions.yaml)
 * [Grok](g/Grok)
 * [Groovy](g/Groovy.groovy)
 * [GTA3Script](g/GTA3Script.sc)
@@ -594,10 +594,10 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [OpenLaszlo](o/OpenLaszlo.lzx)
 * [Oracle SQL](o/Oracle%20SQL.sql)
 * [Orc](o/Orc.orc)
+* [Org-mode](o/Org-mode.org)
 * [Orion](o/Orion.orn)
 * [OX](o/OX.oz)
 * [o:XML](o/o%CB%B8XML)
-* [Org-mode](o/Org-mode.org)
 * [Parenthetic](p/Parenthetic.p)
 * [Parser](p/Parser.p)
 * [Pascal](p/Pascal.p)

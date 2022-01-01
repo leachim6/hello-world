@@ -1,0 +1,7 @@
+EXTERN printf
+
+NEW FUN main
+printf msg
+RET 0
+
+NEW STR msg Hello World", 10, "
