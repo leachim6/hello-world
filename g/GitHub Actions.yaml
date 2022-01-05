@@ -1,7 +1,13 @@
 name: Hello World
 
 on:
+  # Allows you to trigger the action via github.com or the API
   workflow_dispatch
+  # or...
+  # Run after a commit has been pushed to GitHub (one of the core Git features)
+  push:
+    
+  
 
 jobs:
   hello:
