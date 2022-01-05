@@ -1,7 +1,6 @@
 name: Hello World
 
 on:
-  # Allows you to trigger the action via github.com or the API. Also triggers on any push.
   [workflow_dispatch, push]
   
 
