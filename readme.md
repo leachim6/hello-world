@@ -24,7 +24,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [420](%23/420.420)
 * [4gl](%23/4gl.4gl)
 * [4test](%23/4test)
-* [4th Dimensio](%23/4D.4dd)
+* [4th Dimens](%23/4D.4dd)
 * [8051 Assembly](%23/8051%20Assembly)
 * [8th](%23/8th)
 * [@tention!](%23/%40tention%21)
