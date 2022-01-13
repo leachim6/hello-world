@@ -8,7 +8,6 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-
 ## Languages (851 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -546,7 +545,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [ModiScript](m/ModiScript.chai)
 * [Modula 2](m/Modula%202.mod)
 * [Modula 3](m/Modula%203.m3)
-* [Mongo](m/Mongo.shell)
+* [Mongo](m/Mongo.sh)
 * [Monte](m/Monte.mt)
 * [Moo](m/Moo.moo)
 * [Moonscript](m/Moonscript.moon)
@@ -859,8 +858,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Zombie](z/Zombie.zombie)
 * [Zonnon](z/Zonnon.znn)
 * [ZPL](z/ZPL)
-* [Zsq](z/Zsq.zsq)
 * [ZScript](z/ZScript)
+* [Zsq](z/Zsq.zsq)
 * [zx](z/zx.js)
 <!--Languages end-->
 
