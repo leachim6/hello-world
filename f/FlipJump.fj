@@ -1,0 +1,39 @@
+// shorter version using the standart library exists
+
+def startup @ code_start > IO {
+    ;code_start
+  IO:
+    ;0
+  code_start:
+}
+
+
+def output_bit bit < IO {
+    IO + bit;
+}
+def output ascii {
+    rep(8, i) output_bit ((ascii>>i)&1)
+}
+
+def end_loop @ loop_label {
+    loop_label:
+    ;loop_label
+}
+
+    startup
+    
+    output 'H'
+    output 'e'
+    output 'l'
+    output 'l'
+    output 'o'
+    output ','
+    output ' '
+    output 'W'
+    output 'o'
+    output 'r'
+    output 'l'
+    output 'd'
+    output '!'
+    
+    end_loop
