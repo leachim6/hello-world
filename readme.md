@@ -686,7 +686,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Retro](r/Retro.retro)
 * [Rexx](r/Rexx.rexx)
 * [Ricktea](r/Ricktea.tea)
-* [rickroll-lang](r/rickroll-lang.rickroll)
+* [Rick Roll](r/Rick Roll.rickroll)
 * [Ride](r/Ride.ride)
 * [Ring](r/Ring.ring)
 * [RISC V](r/RISC%20V.s)
