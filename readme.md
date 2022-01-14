@@ -8,7 +8,8 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (851 total)
+
+## Languages (852 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [():;#?!](%23/%28%29%CB%B8%3B%23%EF%BC%9F%21)
@@ -685,6 +686,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Retro](r/Retro.retro)
 * [Rexx](r/Rexx.rexx)
 * [Ricktea](r/Ricktea.tea)
+* [Rick Roll](r/Rick Roll.rickroll)
 * [Ride](r/Ride.ride)
 * [Ring](r/Ring.ring)
 * [RISC V](r/RISC%20V.s)
