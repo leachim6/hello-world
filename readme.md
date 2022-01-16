@@ -460,7 +460,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Iscom](i/Iscom.iscom)
 * [ISLISP](i/ISLISP.lisp)
 * [J](j/J.ijs)
-* [J#](j/J#.jsl)
+* [J#](j/J%23.jsl)
 * [Jade](j/Jade.jade)
 * [Jai](j/Jai.jai)
 * [Jasmin](j/Jasmin.j)
