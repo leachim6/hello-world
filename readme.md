@@ -856,6 +856,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [ZBD](z/ZBD)
 * [Zepto](z/Zepto.zp)
 * [Zetaplex](z/Zetaplex.zeta)
+* [Zhpy](z/Zhpy.py)
 * [Zig](z/Zig.zig)
 * [Zim](z/Zim.zim)
 * [Zimbu](z/Zimbu.zu)
