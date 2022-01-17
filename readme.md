@@ -827,7 +827,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Whenever](w/Whenever.whenever)
 * [Whirl](w/Whirl.wr)
 * [Whitespace](w/Whitespace.ws)
-* [WikiText](w/WikiText)
+* [WikiText](w/WikiText.wiki)
 * [WML](w/WML.wml)
 * [WolframLanguage](w/WolframLanguage.wl)
 * [wowLang](w/wowLang.wow)
