@@ -769,6 +769,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [TapeBagel](t/TapeBagel.tb)
 * [Tcl](t/Tcl.tcl)
 * [TCSH](t/TCSH.tcsh)
+* [Tea](t/Tea.tea)
 * [Telephone](t/Telephone)
 * [Terra](t/Terra.t)
 * [TeX](t/TeX.tex)
