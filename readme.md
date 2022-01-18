@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (857 total)
+## Languages (858 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [():;#?!](%23/%28%29%CB%B8%3B%23%EF%BC%9F%21)
@@ -769,6 +769,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [TapeBagel](t/TapeBagel.tb)
 * [Tcl](t/Tcl.tcl)
 * [TCSH](t/TCSH.tcsh)
+* [Tea](t/Tea.tea)
 * [Telephone](t/Telephone)
 * [Terra](t/Terra.t)
 * [TeX](t/TeX.tex)
