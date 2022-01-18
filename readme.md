@@ -342,6 +342,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [EmacsLisp](e/EmacsLisp.el)
 * [Emerald](e/Emerald.m)
 * [Emmental](e/Emmental.emmental)
+* [Emoji](e/Emoji)
 * [Emojicode](e/Emojicode.emojic)
 * [Emoticon](e/Emoticon.emoticon)
 * [Enkelt](e/Enkelt.e)
