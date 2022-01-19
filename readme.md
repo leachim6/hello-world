@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (858 total)
+## Languages (859 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [():;#?!](%23/%28%29%CB%B8%3B%23%EF%BC%9F%21)
@@ -738,6 +738,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Smali](s/Smali.smali)
 * [SmallTalk GNU](s/SmallTalk%20GNU.st)
 * [SmallTalk](s/SmallTalk.sm)
+* [Smallworld MAGIK](s/Smallworld%20MAGIK.magik)
 * [Smil](s/Smil.smil)
 * [SmileBASIC](s/SmileBASIC.bas)
 * [SML](s/SML.sml)
