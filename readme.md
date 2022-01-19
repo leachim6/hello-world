@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (860 total)
+## Languages (861 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [():;#?!](%23/%28%29%CB%B8%3B%23%EF%BC%9F%21)
@@ -344,6 +344,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Emmental](e/Emmental.emmental)
 * [Emoji](e/Emoji)
 * [Emojicode](e/Emojicode.emojic)
+* [EmojiCoder](e/EmojiCoder)
 * [Emoticon](e/Emoticon.emoticon)
 * [Enkelt](e/Enkelt.e)
 * [EOOOL](e/EOOOL.eoool)
