@@ -256,7 +256,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Cheese++](c/Cheese%2B%2B.cheese)
 * [Chef](c/Chef.ch)
 * [Chem](c/Chem)
-* [Cherry](c/Cherry.py)
+* [CherryPy](c/CherryPy.py)
 * [Chicken](c/Chicken.chicken)
 * [Cil](c/Cil.il)
 * [Clean](c/Clean.icl)
