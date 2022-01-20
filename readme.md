@@ -665,6 +665,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Python 2](p/Python%202.py)
 * [Python 3](p/Python%203.py)
 * [Q](q/Q.q)
+* [Qalb](q/Qalb)
 * [QBasic](q/QBasic.bas)
 * [QCL](q/QCL.qcl)
 * [Qore](q/Qore.q)
