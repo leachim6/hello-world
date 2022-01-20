@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (865 total)
+## Languages (870 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [():;#?!](%23/%28%29%CB%B8%3B%23%EF%BC%9F%21)
@@ -105,7 +105,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [ActionScript flashmx](a/ActionScript%20flashmx.as)
 * [ActionScript](a/ActionScript.as)
 * [Ada](a/Ada.adb)
-* [Add++](a/Add++)
+* [Add++](a/Add%2B%2B)
 * [Advpl](a/Advpl)
 * [Aeolbonn](a/Aeolbonn.aeo)
 * [Agda](a/Agda.agda)
@@ -256,7 +256,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Cheese++](c/Cheese%2B%2B.cheese)
 * [Chef](c/Chef.ch)
 * [Chem](c/Chem)
-* [CherryPy](c/Cherry.py)
+* [Cherry](c/Cherry.py)
 * [Chicken](c/Chicken.chicken)
 * [Cil](c/Cil.il)
 * [Clean](c/Clean.icl)
