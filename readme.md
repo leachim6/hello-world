@@ -355,6 +355,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Erlang](e/Erlang.erl)
 * [es](e/es)
 * [Euphoria](e/Euphoria.ex)
+* [Executable](e/Executable.exe)
 * [Express](e/Express.js)
 * [F](f/F.f95)
 * [Factor](f/Factor.factor)
