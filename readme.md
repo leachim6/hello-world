@@ -597,7 +597,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Objective J](o/Objective%20J.j)
 * [ObjectStar](o/ObjectStar)
 * [OCaml](o/OCaml.ml)
-* [Occam](o/Occam.occam)
+* [occam](o/occam.occam)
 * [Octave](o/Octave.m)
 * [Odin](o/Odin.odin)
 * [Omgrofl](o/Omgrofl.omgrofl)
