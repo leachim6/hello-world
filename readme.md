@@ -785,7 +785,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [THue](t/THue.th)
 * [TI Hexadecimal](t/TI%20Hexadecimal.hex)
 * [TIBasic](t/TIBasic.ti)
-* [TK](t/TK.tk)
+* [Tk](t/Tk.tk)
 * [Tkinter](t/Tkinter.py)
 * [TOML](t/TOML.toml)
 * [Trans-dimensional](t/Trans-dimensional)
