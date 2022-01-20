@@ -384,6 +384,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Fortran77](f/Fortran77.f77)
 * [Fourier](f/Fourier.fourier)
 * [FoxPro](f/FoxPro.prg)
+* [FRACTRAN](f/FRACTRAN)
 * [Fractran++](f/Fractran%2B%2B.fpp)
 * [Freebrain](f/Freebrain.frbr)
 * [Frink](f/Frink.frink)
