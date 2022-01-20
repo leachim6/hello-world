@@ -105,7 +105,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [ActionScript flashmx](a/ActionScript%20flashmx.as)
 * [ActionScript](a/ActionScript.as)
 * [Ada](a/Ada.adb)
-* [Add++](a/Add++]
+* [Add++](a/Add++)
 * [Advpl](a/Advpl)
 * [Aeolbonn](a/Aeolbonn.aeo)
 * [Agda](a/Agda.agda)
