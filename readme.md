@@ -787,7 +787,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Terra](t/Terra.t)
 * [TeX](t/TeX.tex)
 * [THP](t/THP.hrp)
-* [THue](t/THue.th)
+* [Thue](t/Thue.th)
 * [TI Hexadecimal](t/TI%20Hexadecimal.hex)
 * [TIBasic](t/TIBasic.ti)
 * [Tk](t/Tk.tk)
