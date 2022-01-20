@@ -350,6 +350,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Emotinomicon](e/Emotinomicon)
 * [Enkelt](e/Enkelt.e)
 * [EOOOL](e/EOOOL.eoool)
+* [EPL](e/EPL.e)
 * [Erlang EScript](e/Erlang%20EScript.erl)
 * [Erlang](e/Erlang.erl)
 * [es](e/es)
