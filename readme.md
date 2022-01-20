@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (865 total)
+## Languages (871 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [():;#?!](%23/%28%29%CB%B8%3B%23%EF%BC%9F%21)
@@ -105,6 +105,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [ActionScript flashmx](a/ActionScript%20flashmx.as)
 * [ActionScript](a/ActionScript.as)
 * [Ada](a/Ada.adb)
+* [Add++](a/Add%2B%2B)
 * [Advpl](a/Advpl)
 * [Aeolbonn](a/Aeolbonn.aeo)
 * [Agda](a/Agda.agda)
@@ -255,6 +256,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Cheese++](c/Cheese%2B%2B.cheese)
 * [Chef](c/Chef.ch)
 * [Chem](c/Chem)
+* [Cherry](c/Cherry.py)
 * [Chicken](c/Chicken.chicken)
 * [Cil](c/Cil.il)
 * [Clean](c/Clean.icl)
@@ -355,6 +357,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Erlang](e/Erlang.erl)
 * [es](e/es)
 * [Euphoria](e/Euphoria.ex)
+* [Executable](e/Executable.exe)
 * [Express](e/Express.js)
 * [F](f/F.f95)
 * [Factor](f/Factor.factor)
@@ -510,6 +513,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Lisaac](l/Lisaac.li)
 * [Lisp](l/Lisp.lsp)
 * [ListLang](l/ListLang)
+* [LiveCode](l/LiveCode)
 * [LiveScript](l/LiveScript.ls)
 * [LLVM](l/LLVM.ll)
 * [LNUSP](l/LNUSP.lnusp)
@@ -664,6 +668,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Python 2](p/Python%202.py)
 * [Python 3](p/Python%203.py)
 * [Q](q/Q.q)
+* [Qalb](q/Qalb)
 * [QBasic](q/QBasic.bas)
 * [QCL](q/QCL.qcl)
 * [Qore](q/Qore.q)
