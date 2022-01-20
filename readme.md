@@ -552,6 +552,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Modula 2](m/Modula%202.mod)
 * [Modula 3](m/Modula%203.m3)
 * [Mongo](m/Mongo.sh)
+* [Monkey](m/Monkey)
 * [Monte](m/Monte.mt)
 * [Moo](m/Moo.moo)
 * [Moonscript](m/Moonscript.moon)
