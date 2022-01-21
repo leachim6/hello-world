@@ -509,7 +509,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [LCoffee](l/LCoffee.lcoff)
 * [Less](l/Less.less)
 * [Leszek](l/Leszek.leszek)
-* [Libavg](l/Libavg.py)
+* [libavg](l/libavg.py)
 * [Like, Python](l/Like%2C%20Python.lp)
 * [LilyPond](l/LilyPond.ly)
 * [Limbo](l/Limbo.b)
