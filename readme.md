@@ -671,6 +671,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [PyQt5](p/PyQt5.py)
 * [Pyret](p/Pyret.arr)
 * [PySimpleGUI](p/PySimpleGUI.py)
+* [PySide2](p/PySide2.py)
 * [Python 2](p/Python%202.py)
 * [Python 3](p/Python%203.py)
 * [Q](q/Q.q)
