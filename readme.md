@@ -312,7 +312,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Divzeros](d/Divzeros.dz)
 * [Django](d/Django.py)
 * [DNA#](d/DNA%23.dna)
-* [DNA-Sharp](d/DNA-Sharp.dna)
 * [Dog](d/Dog)
 * [DOG](d/DOG)
 * [DOG](d/DOG.ext)
