@@ -654,6 +654,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [PosXML](p/PosXML.posxml)
 * [Potaka](p/Potaka.ptk)
 * [Potigol](p/Potigol.poti)
+* [PowerBuilder](p/PowerBuilder.psr)
 * [PowerShell](p/PowerShell.ps1)
 * [Printscript](p/Printscript)
 * [Processing](p/Processing.pde)
