@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (880 total)
+## Languages (883 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [():;#?!](%23/%28%29%CB%B8%3B%23%EF%BC%9F%21)
@@ -273,8 +273,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Coconut](c/Coconut.coc)
 * [CoffeeScript](c/CoffeeScript.coffee)
 * [ColdFusion](c/ColdFusion.cfm)
+* [Come Here](c/Come%20Here)
 * [Comefrom0x10](c/Comefrom0x10)
-* [Come Here](c/Come Here)
 * [Common Lisp](c/Common%20Lisp.lisp)
 * [Concurnas](c/Concurnas.conc)
 * [ContinuesEquation](c/ContinuesEquation.ce)
@@ -469,7 +469,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [IronScheme](i/IronScheme.ss)
 * [Iscom](i/Iscom.iscom)
 * [ISLISP](i/ISLISP.lisp)
-* [IsThatAMotherFrickingSpecificAnimeReferenceLanguage](i/ITAMFSARL.itamfsarl)
+* [ITAMFSARL](i/ITAMFSARL.itamfsarl)
 * [J#](j/J%23.jsl)
 * [J](j/J.ijs)
 * [Jade](j/Jade.jade)
@@ -674,8 +674,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [PyQt4](p/PyQt4.py)
 * [PyQt5](p/PyQt5.py)
 * [Pyret](p/Pyret.arr)
-* [PySimpleGUI](p/PySimpleGUI.py)
 * [PySide2](p/PySide2.py)
+* [PySimpleGUI](p/PySimpleGUI.py)
 * [Python 2](p/Python%202.py)
 * [Python 3](p/Python%203.py)
 * [Q](q/Q.q)
