@@ -36,7 +36,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Chinese](%23/~Chinese)
 * [~Czech](%23/~Czech)
 * [~Dutch](%23/~Dutch)
-* [~English](%23/~English.ext)
+* [~English](%23/~English)
 * [~Español](%23/~Espa%C3%B1ol)
 * [~Finnish](%23/~Finnish)
 * [~French](%23/~French)
