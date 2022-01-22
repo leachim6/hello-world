@@ -669,6 +669,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Pure Data](p/Pure%20Data.pd)
 * [PureBasic](p/PureBasic.pb)
 * [PureScript](p/PureScript.purs)
+* [Pygame](p/Pygame.py)
 * [PyQt4](p/PyQt4.py)
 * [PyQt5](p/PyQt5.py)
 * [Pyret](p/Pyret.arr)
