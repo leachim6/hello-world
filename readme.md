@@ -496,7 +496,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Kipple](k/Kipple.kipple)
 * [Kitanai](k/Kitanai)
 * [Kitten](k/Kitten.ktn)
-* [Koajs](k/Koa.js)
+* [Koa](k/Koa.js)
 * [Kivy](k/Kivy.py)
 * [Koberi C](k/Koberi%20C.koberice)
 * [Kotlin Script](k/Kotlin%20Script.kts)
