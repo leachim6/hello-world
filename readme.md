@@ -727,7 +727,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [RPG](r/RPG.rpgle)
 * [RTL2](r/RTL2.rtl2)
 * [Ruby](r/Ruby.rb)
-* [Rails](r/Rails.rb)
+* [Rails](r/Rails.rb)<br /><sup>Attrib: guide https://guides.rubyonrails.org/getting_started.html under <a href="https://creativecommons.org/licenses/by-sa/4.0">Creative Commons Attribution-ShareAlike 4.0</a>,only modification is changing the task from article list to hello world.</sup>
 * [Ruota](r/Ruota.ruo)
 * [Rust](r/Rust.rs)
 * [S Algol](s/S%20Algol)
