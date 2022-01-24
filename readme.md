@@ -727,7 +727,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [RPG](r/RPG.rpgle)
 * [RTL2](r/RTL2.rtl2)
 * [Ruby](r/Ruby.rb)
-* [Rails](r/Rails.rb)
+* [Ruby on Rails](r/Ruby%20on%20Rails.rb)
 * [Ruota](r/Ruota.ruo)
 * [Rust](r/Rust.rs)
 * [S Algol](s/S%20Algol)
