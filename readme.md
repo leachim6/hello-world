@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (885 total)
+## Languages (886 total)
 
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [():;#?!](%23/%28%29%CB%B8%3B%23%EF%BC%9F%21)
@@ -727,6 +727,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [RPG](r/RPG.rpgle)
 * [RTL2](r/RTL2.rtl2)
 * [Ruby](r/Ruby.rb)
+* [Ruby on Rails](r/Ruby%20on%20Rails.rb)
 * [Ruota](r/Ruota.ruo)
 * [Rust](r/Rust.rs)
 * [S Algol](s/S%20Algol)
