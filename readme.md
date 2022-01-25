@@ -33,7 +33,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Belarusian](%23/~Belarusian)
 * [~Bengali](%23/~Bengali)
 * [~Bosnian](%23/~Bosnian)
-* [~Central Kurdish](%23/~Central Kurdish)
+* [~Central Kurdish](%23/~Central%20Kurdish)
 * [~Chinese](%23/~Chinese)
 * [~Czech](%23/~Czech)
 * [~Dutch](%23/~Dutch)
