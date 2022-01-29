@@ -26,7 +26,7 @@ If a file name contains a special character that Windows is not able to display,
 
 #### Contents
 
-The code in the file should be the simplest and most straightforward way to print/display/show `Hello World` exactly once in the language used. User input should not be request and a newline should only be printed when necessary.
+The code in the file should be the simplest and most straightforward way to print/display/show `Hello World` exactly once in the language used. User input should not be requested and a newline should only be printed when necessary.
 
 ### Updating readme
 
