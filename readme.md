@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (890 total)
+## Languages (891 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -25,6 +25,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [4gl](%23/4gl.4gl)
 * [4test](%23/4test)
 * [4th Dimension](%23/4th%20Dimension.4dd)
+* [6969 Assmebler](%23/6969%20Assembler)
 * [8051 Assembly](%23/8051%20Assembly)
 * [8th](%23/8th)
 * [@tention!](%23/%40tention%21)
