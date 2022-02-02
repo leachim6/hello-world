@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (893 total)
+## Languages (894 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -135,6 +135,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [APC](a/APC.apc)
 * [Apex](a/Apex.cls)
 * [APL](a/APL.apl)
+* [App Inventor](a/App%20Inventor.aia)
 * [AppleScript](a/AppleScript.scpt)
 * [Applesoft BASIC](a/Applesoft%20BASIC)
 * [ARC](a/ARC.arc)
@@ -424,7 +425,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [GridScript](g/GridScript.gridscript)
 * [Grin](g/Grin.grin)
 * [Grok](g/Grok)
-* [Groot](g/groot.groot)
+* [groot](g/groot.groot)
 * [Groovy](g/Groovy.groovy)
 * [GTA3Script](g/GTA3Script.sc)
 * [Gui4Cli](g/Gui4Cli)
