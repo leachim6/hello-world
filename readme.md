@@ -627,6 +627,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [OX](o/OX.oz)
 * [Oxygene](o/Oxygene.pas)
 * [o:XML](o/o%CB%B8XML)
+* [Org-mode](o/Org-mode.org)
 * [Parenthetic](p/Parenthetic.p)
 * [Parser](p/Parser.p)
 * [Pascal](p/Pascal.p)
