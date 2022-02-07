@@ -1,0 +1,13 @@
+0 * H r q
+q * e r w
+w * l r e
+e * l r r
+r * o r t
+t * , r y
+y * _ r u
+u * W r i
+i * o r o
+o * r r p
+p * l r a
+a * d r s
+s * ! r halt
