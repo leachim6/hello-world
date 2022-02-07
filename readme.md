@@ -594,6 +594,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Nadeshiko](n/Nadeshiko.fjo)
 * [Neko](n/Neko.neko)
 * [Nemerle](n/Nemerle.n)
+* [NewLISP](n/NewLISP.lsp)
 * [NewtonScript](n/NewtonScript.nwt)
 * [Ni](n/Ni.nic)
 * [Nial](n/Nial.ndf)
