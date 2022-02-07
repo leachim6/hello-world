@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (897 total)
+## Languages (900 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -88,6 +88,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [*](%23/%E2%88%97)
 * [なでしこ](%23/%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93.nako)
 * [ひまわり](%23/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A.hmw)
+* [ドリトル](%23/%E3%83%89%E3%83%AA%E3%83%88%E3%83%AB.dtl)
+* [プロデル](%23/%E3%83%97%E3%83%AD%E3%83%87%E3%83%AB.rdr)
 * [上海话](%23/%E4%B8%8A%E6%B5%B7%E8%AF%9D.shanghai)
 * [文言](%23/%E6%96%87%E8%A8%80.wy)
 * [易语言](%23/%E6%98%93%E8%AF%AD%E8%A8%80.e)
@@ -430,6 +432,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Groovy](g/Groovy.groovy)
 * [GTA3Script](g/GTA3Script.sc)
 * [Gui4Cli](g/Gui4Cli)
+* [Guile](g/Guile.scm)
 * [Hack](h/Hack.hh)
 * [Haml](h/Haml.haml)
 * [Haskell](h/Haskell.hs)
