@@ -1,2 +1,2 @@
-(display "hello world!")
+(display "Hello World")
 (newline)
