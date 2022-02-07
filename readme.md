@@ -88,6 +88,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [*](%23/%E2%88%97)
 * [なでしこ](%23/%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93.nako)
 * [ひまわり](%23/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A.hmw)
+* [プロデル](%23/%E3%83%97%E3%83%AD%E3%83%87%E3%83%AB.rdr)
 * [上海话](%23/%E4%B8%8A%E6%B5%B7%E8%AF%9D.shanghai)
 * [文言](%23/%E6%96%87%E8%A8%80.wy)
 * [易语言](%23/%E6%98%93%E8%AF%AD%E8%A8%80.e)
