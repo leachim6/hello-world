@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (897 total)
+## Languages (903 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -897,6 +897,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [YASKC](y/YASKC.yaskc)
 * [YoLang](y/YoLang.yo)
 * [YoptaScript](y/YoptaScript)
+* [Yorick](y/Yorick.i)
 * [Z Shell](z/Z%20Shell.zsh)
 * [ZBD](z/ZBD)
 * [Zepto](z/Zepto.zp)
