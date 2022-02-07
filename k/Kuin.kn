@@ -1,0 +1,3 @@
+func main()
+  do cui@print("Hello World\n")
+end func
