@@ -761,7 +761,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Scratch 1](s/Scratch%201.sb)
 * [Scratch 2](s/Scratch%202.sb2)
 * [Scratch 3](s/Scratch%203.sb3)
-* [Scss](s/Scss.scss)
+* [SCSS](s/SCSS.scss)
 * [Sed](s/Sed.sed)
 * [Seed](s/Seed)
 * [Seed7](s/Seed7.s7)
