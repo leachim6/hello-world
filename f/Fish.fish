@@ -1,2 +1,2 @@
-#!/usr/bin/env fish
-echo "Hello World"
+"hello, world"r\
+          o;!?l<
