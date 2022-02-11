@@ -1,2 +1,2 @@
-"hello, world"r\
-          o;!?l<
+#!/usr/bin/env fish
+echo "Hello World"
