@@ -1,4 +1,3 @@
-
 ; Hello World for Philips Videopac (Magnavox Odyssey 2)
 ; by Frog ( https://github.com/petersobolev )
 ; 25 July 2016
@@ -46,4 +45,3 @@ loop:
 
 hellostr:
 	db 	01dh, 012h, 00eh, 00eh, 017h, 00ch, 011h, 017h, 013h, 00eh, 01ah
-
