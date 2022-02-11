@@ -18,7 +18,6 @@ Now to print the entire document press comma (,) and p.
 - lines in the file to work properly. Unless it is in "vi: ... :" or
 - "ex: ... :" format, any preceeding text will be ignored.
 
-
 The full documentation for ed is maintained as a Texinfo manual. If the
 info and ed programs are properly installed at your site, the command
 	      info ed
