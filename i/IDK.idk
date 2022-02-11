@@ -3,6 +3,6 @@ movLoc
 2
 extract
 movVar
-Hello, World!
+Hello World
 execute
 closeC
