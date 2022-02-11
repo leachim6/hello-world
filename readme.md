@@ -8,11 +8,12 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (949 total)
+## Languages (948 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [():;#?!](%23/%28%29%CB%B8%3B%23%EF%BC%9F%21)
+* [*><>](%23/%2A%3E%3C%3E)
 * [0(nop^)](%23/0%28nop%5E%29)
 * [0587](%23/0587)
 * [05AB1E](%23/05AB1E)
@@ -30,6 +31,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [6969 Assembler](%23/6969%20Assembler)
 * [8051 Assembly](%23/8051%20Assembly)
 * [8th](%23/8th)
+* [><>](%23/%3E%3C%3E)
 * [@tention!](%23/%40tention%21)
 * [@text](%23/%40text)
 * [~Afrikaans](%23/~Afrikaans)
@@ -334,7 +336,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Divzeros](d/Divzeros.dz)
 * [Django](d/Django.py)
 * [DNA#](d/DNA%23.dna)
-* [DNA-Sharp](d/DNA-Sharp.dna)
 * [DNCL](d/DNCL.dncl)
 * [DOG](d/DOG)
 * [Dog](d/Dog)
@@ -834,7 +835,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Squirrel](s/Squirrel.nut)
 * [Standard ML](s/Standard%20ML.sml)
 * [Stanza](s/Stanza.stanza)
-* [Starfish](s/Starfish.sf)
 * [Starlark](s/Starlark.star)
 * [Starry](s/Starry)
 * [Streem](s/Streem.strm)
@@ -909,7 +909,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [VRML](v/VRML.wrl)
 * [Vue](v/Vue.js)
 * [WebAssembly](w/WebAssembly.wat)
-* [Wenyan](w/Wenyan.wy)
 * [Wheat](w/Wheat.wheat)
 * [Whenever](w/Whenever.whenever)
 * [Whirl](w/Whirl.wr)
