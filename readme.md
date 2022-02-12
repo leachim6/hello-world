@@ -556,6 +556,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Magic](m/Magic)
 * [Make](m/Make.makefile)
 * [Malbolge](m/Malbolge.mbg)
+* [Mana](m/Mana.mn)
 * [Mariolang](m/Mariolang)
 * [Markdown](m/Markdown.md)
 * [Mathematica Online](m/Mathematica%20Online.nb)
