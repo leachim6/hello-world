@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (913 total)
+## Languages (914 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -257,6 +257,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Centura](c/Centura.centura)
 * [CESIL](c/CESIL.cesil)
 * [Ceylon](c/Ceylon.ceylon)
+* [CFEngine](c/CFEngine.cf)
 * [CGI](c/CGI.c)
 * [Chaos](c/Chaos.kaos)
 * [Chapel](c/Chapel.chpl)
