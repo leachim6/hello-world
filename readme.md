@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (913 total)
+## Languages (914 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -300,6 +300,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Cuda](c/Cuda.cu)
 * [Cuneiform](c/Cuneiform.cfl)
 * [Curry](c/Curry.curry)
+* [Cyclone](c/Cyclone.cyc)
 * [CypherNeo4j](c/CypherNeo4j.cypher)
 * [Cω](c/C%CF%89.cs)
 * [C*](c/C%E2%88%97)
@@ -324,8 +325,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Django](d/Django.py)
 * [DNA#](d/DNA%23.dna)
 * [DNCL](d/DNCL.dncl)
-* [Dog](d/Dog)
 * [DOG](d/DOG)
+* [Dog](d/Dog)
 * [DogeScript](d/DogeScript.djs)
 * [DOGO](d/DOGO.dogo)
 * [dongbei](d/dongbei.dongbei)
@@ -595,7 +596,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [MXML](m/MXML.mxml)
 * [Myrddin](m/Myrddin.myr)
 * [MySQL](m/MySQL.sql)
-* [Nadeshiko](n/Nadeshiko.fjo)
 * [Neko](n/Neko.neko)
 * [Nemerle](n/Nemerle.n)
 * [NetRexx](n/NetRexx.nrx)
@@ -639,6 +639,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [OX](o/OX.oz)
 * [Oxygene](o/Oxygene.pas)
 * [o:XML](o/o%CB%B8XML)
+* [ParaSail](p/ParaSail.psi)
 * [Parenthetic](p/Parenthetic.p)
 * [Parser](p/Parser.p)
 * [Pascal](p/Pascal.p)
