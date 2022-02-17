@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (913 total)
+## Languages (914 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -639,6 +639,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [OX](o/OX.oz)
 * [Oxygene](o/Oxygene.pas)
 * [o:XML](o/o%CB%B8XML)
+* [ParaSail](p/ParaSail.psi)
 * [Parenthetic](p/Parenthetic.p)
 * [Parser](p/Parser.p)
 * [Pascal](p/Pascal.p)
