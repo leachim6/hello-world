@@ -1,0 +1,8 @@
+openC
+movLoc
+2
+extract
+movVar
+Hello World
+execute
+closeC
