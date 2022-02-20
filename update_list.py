@@ -42,4 +42,4 @@ open('readme.md', 'w', encoding="utf-8").write(
 os.system("git add readme.md")
 cmess = input("Staged README, please provide git commit message in order to push to GitHub: ")
 os.system("git commit -m '" + cmess + "'")
-print("git push")
+os.system("git push")
