@@ -39,3 +39,7 @@ readmeContents = open('readme.md', 'r', encoding="utf-8").read()
 open('readme.md', 'w', encoding="utf-8").write(
     regexReplace(readmeContents,
                  r"<!--Languages start-->(.|\n)*<!--Languages end-->", result))
+os.system("git add readme.md")
+cmess = input("Staged README, please provide git commit message in order to push to GitHub: ")
+os.system("git commit -m '" + cmess + "'")
+print("git push")
