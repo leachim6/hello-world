@@ -485,6 +485,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [IcedCoffeeScript](i/IcedCoffeeScript.ics)
 * [ICI](i/ICI.ici)
 * [Icon](i/Icon.icn)
+* [IDK](i/IDK.idk)
 * [IDL](i/IDL)
 * [Idris](i/Idris.idr)
 * [Il](i/Il.il)
