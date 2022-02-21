@@ -458,7 +458,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [haystack](h/haystack.hstk)
 * [Hello](h/Hello)
 * [Hello++](h/Hello%2B%2B)
-* [Hello, world!](h/Hello%2C%20world%21)
 * [HEX](h/HEX.hex)
 * [Hexish](h/Hexish.hexish)
 * [Higher Subleq](h/Higher%20Subleq.higher_subleq)
