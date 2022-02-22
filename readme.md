@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (917 total)
+## Languages (918 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -609,6 +609,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Night](n/Night.night)
 * [Nim](n/Nim.nim)
 * [Nit](n/Nit.nit)
+* [NoCode](n/NoCode)
 * [Node.js](n/Node.js.js)
 * [NoFlo](n/NoFlo.fbp)
 * [Not Python](n/Not%20Python)
