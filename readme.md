@@ -847,7 +847,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [TTSneo](t/TTSneo.ttsneo)
 * [Turing](t/Turing.oot)
 * [Turing](t/Turing.t)
-* [TwoCode](t/TwoCode.dcode)
+* [Twocode](t/Twocode.dcode)
 * [TypeScript](t/TypeScript.ts)
 * [Ubercode](u/Ubercode.cls)
 * [Ubiquity](u/Ubiquity.ubiquity)
