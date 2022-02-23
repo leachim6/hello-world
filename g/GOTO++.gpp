@@ -1,7 +1,1 @@
-GOTO Le premier "Hello World"
-
-§100
-GOTOPRINTDUTEXTE() ; *`s' *`r' *`e' *`v' *`i' *`n' *`u' *` ' *`o' *`l' *`l' *`e' *`h'
-§2989
-GOTOPRINTDUTEXTE() ; *`d' *`l' *`r' *`o' *`w' *` ' *`o' *`l' *`l' *`e' *`h'
-GOTOGOTO() %2989 ?50 %100 ?40
+GOTOPRINTDUTEXTE() ; «Hello World»
