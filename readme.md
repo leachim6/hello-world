@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (939 total)
+## Languages (940 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -396,6 +396,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Fetlang](f/Fetlang.fet)
 * [Fim++](f/Fim%2B%2B.fimpp)
 * [Fish](f/Fish.fish)
+* [Fist](f/Fist)
 * [Fjoelnir](f/Fjoelnir.fjo)
 * [FlaScript](f/FlaScript.fls)
 * [Flask](f/Flask.py)
@@ -627,6 +628,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Night](n/Night.night)
 * [Nim](n/Nim.nim)
 * [Nit](n/Nit.nit)
+* [NoCode](n/NoCode)
 * [Node.js](n/Node.js.js)
 * [NoFlo](n/NoFlo.fbp)
 * [Not Python](n/Not%20Python)
@@ -837,6 +839,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Sus](s/Sus.sus)
 * [Svelte](s/Svelte.svelte)
 * [SVG](s/SVG.svg)
+* [Swift Playgrounds](s/Swift%20Playgrounds.playgroundbook)
 * [Swift](s/Swift.swift)
 * [SystemTap](s/SystemTap.stp)
 * [Plain text](t/Plain%20text.txt)
@@ -850,6 +853,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Terra](t/Terra.t)
 * [TeX](t/TeX.tex)
 * [THP](t/THP.hrp)
+* [THROW THIS TO THAT](t/THROW%20THIS%20TO%20THAT)
 * [Thue](t/Thue.th)
 * [TI Hexadecimal](t/TI%20Hexadecimal.hex)
 * [TIBasic](t/TIBasic.ti)
@@ -866,6 +870,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [TTSneo](t/TTSneo.ttsneo)
 * [Turing](t/Turing.oot)
 * [Turing](t/Turing.t)
+* [Twocode](t/Twocode.dcode)
 * [TypeScript](t/TypeScript.ts)
 * [Ubercode](u/Ubercode.cls)
 * [Ubiquity](u/Ubiquity.ubiquity)
@@ -954,5 +959,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 ## Related
 
 - [FizzBuzz](https://github.com/zenware/FizzBuzz)
-- [The Hello World Collection](https://helloworldcollection.github.io/)
+- [The Hello World Collection](http://helloworldcollection.de/)
 - [one-two-three...infinity](https://github.com/clarkzjw/one-two-three...infinity)
+- [Hello World In Many Programming Languages](https://wiki.c2.com/?HelloWorldInManyProgrammingLanguages)
