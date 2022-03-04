@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (949 total)
+## Languages (950 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -91,6 +91,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [*](%23/%E2%88%97)
 * [なでしこ](%23/%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93.nako)
 * [ひまわり](%23/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A.hmw)
+* [タイルズ](%23/%E3%82%BF%E3%82%A4%E3%83%AB%E3%82%BA.tls)
 * [ドリトル](%23/%E3%83%89%E3%83%AA%E3%83%88%E3%83%AB.dtl)
 * [プロデル](%23/%E3%83%97%E3%83%AD%E3%83%87%E3%83%AB.rdr)
 * [上海话](%23/%E4%B8%8A%E6%B5%B7%E8%AF%9D.shanghai)
