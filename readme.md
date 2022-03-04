@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (953 total)
+## Languages (954 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -743,6 +743,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Radixal](r/Radixal.radixal)
 * [Rafflalang](r/Rafflalang.bro)
 * [Raku](r/Raku.raku)
+* [Rapira](r/Rapira.rap)
 * [RatFor](r/RatFor.ratfor)
 * [React Native](r/React%20Native.js)
 * [React](r/React.js)
