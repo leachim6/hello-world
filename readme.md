@@ -150,7 +150,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Arena](a/Arena.are)
 * [Argh](a/Argh.agh)
 * [ArkScript](a/ArkScript.ark)
-* [Arnoldc](a/Arnoldc.arnoldc)
+* [ArnoldC](a/ArnoldC.arnoldc)
 * [ARTICLE](a/ARTICLE.artl)
 * [Arturo](a/Arturo.art)
 * [AsciiDots](a/AsciiDots.ascii)
