@@ -589,7 +589,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Make](m/Make.makefile)
 * [Malbolge](m/Malbolge.mb)
 * [Mana](m/Mana.mn)
-* [Mariolang](m/Mariolang.mlg)
+* [MarioLANG](m/MarioLANG.mlg)
 * [Markdown](m/Markdown.md)
 * [Mathematica Online](m/Mathematica%20Online.nb)
 * [Mathematica](m/Mathematica.nb)
