@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (964 total)
+## Languages (965 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -421,6 +421,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [FROM HERE TO THERE](f/FROM%20HERE%20TO%20THERE)
 * [FSharp](f/FSharp.fs)
 * [FStar](f/FStar.fst)
+* [G-BASIC](g/G-BASIC)
 * [GAML](g/GAML.gaml)
 * [Gammaplex](g/Gammaplex.gammaplex)
 * [GASOIL](g/GASOIL.gasoil)
