@@ -532,7 +532,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [KimL](k/KimL.kiml)
 * [Kinx](k/Kinx.kx)
 * [Kipple](k/Kipple.kipple)
-* [Kitanai](k/Kitanai)
+* [Kitanai](k/Kitanai.ktn)
 * [Kitten](k/Kitten.ktn)
 * [Kivy](k/Kivy.py)
 * [Koa](k/Koa.js)
