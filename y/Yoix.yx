@@ -1,0 +1,3 @@
+import yoix.stdio.*;
+
+printf("Hello World");
