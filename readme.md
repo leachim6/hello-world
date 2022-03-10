@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (962 total)
+## Languages (964 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -102,6 +102,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [한국어](%23/%ED%95%9C%EA%B5%AD%EC%96%B4)
 * [?$51=](%23/%EF%BC%9F%2451%3D)
 * [🆒](%23/%F0%9F%86%92)
+* [.AnalF*ck.af](a/.AnalF%2Ack.af.kate-swp)
 * [A++](a/A%2B%2B)
 * [aardio](a/aardio.aardio)
 * [ABAP](a/ABAP.abap)
@@ -133,6 +134,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [AlPhAbEt](a/AlPhAbEt.abc)
 * [Amiga-E](a/Amiga-E.amiga-e)
 * [Amos](a/Amos)
+* [AnalF*ck](a/AnalF%2Ack.af)
 * [And](a/And)
 * [Android](a/Android.java)
 * [AngelScript](a/AngelScript)
