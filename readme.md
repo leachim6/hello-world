@@ -583,7 +583,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Macsyma](m/Macsyma.mac)
 * [Magic](m/Magic)
 * [Make](m/Make.makefile)
-* [Malbolge](m/Malbolge.mbg)
+* [Malbolge](m/Malbolge.mb)
 * [Mana](m/Mana.mn)
 * [Mariolang](m/Mariolang)
 * [Markdown](m/Markdown.md)
