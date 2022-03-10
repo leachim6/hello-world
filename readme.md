@@ -876,7 +876,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Tri](t/Tri.tri)
 * [TrollScript](t/TrollScript.troll)
 * [TrumpScript](t/TrumpScript.py)
-* [TSharp](t/TSharp.t%23)
+* [TSharp](t/TSharp.tsp)
 * [TSQL](t/TSQL.sql)
 * [TTCN3](t/TTCN3.ttcn)
 * [TTSneo](t/TTSneo.ttsneo)
