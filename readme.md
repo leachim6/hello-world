@@ -225,6 +225,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Befunge](b/Befunge.be)
 * [BennuGD](b/BennuGD)
 * [Beta](b/Beta.bet)
+* [Bhai Lang](b/Bhai%20Lang.bhai)
 * [Binaryfuck](b/Binaryfuck.bf)
 * [BIRL](b/BIRL.c)
 * [BIT](b/BIT.bit)
