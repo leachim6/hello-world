@@ -2,6 +2,6 @@ public class HelloCi
 {
     public static string GetMessage()
     {
-        return "Hello, world!";
+        return "Hello, world";
     }
 }
