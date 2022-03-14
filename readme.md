@@ -405,6 +405,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Fjoelnir](f/Fjoelnir.fjo)
 * [FlaScript](f/FlaScript.fls)
 * [Flask](f/Flask.py)
+* [Flix](f/Flix.flix)
 * [Flutter](f/Flutter.dart)
 * [Fob](f/Fob.fob)
 * [Focal](f/Focal.fc)
