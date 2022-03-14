@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (972 total)
+## Languages (973 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -320,6 +320,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [CypherNeo4j](c/CypherNeo4j.cypher)
 * [Cω](c/C%CF%89.cs)
 * [C*](c/C%E2%88%97)
+* [Ć](c/Ć.ci)
 * [D](d/D.d)
 * [dark](d/dark.txt)
 * [Dart](d/Dart.dart)
