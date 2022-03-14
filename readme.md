@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (974 total)
+## Languages (975 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -440,6 +440,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Glass](g/Glass.glass)
 * [GML](g/GML.gml)
 * [Go](g/Go.go)
+* [Gocaml](g/Gocaml.ml)
 * [Golfscript](g/Golfscript.golfscript)
 * [Golo](g/Golo.golo)
 * [Google Apps Script](g/Google%20Apps%20Script.gs)
