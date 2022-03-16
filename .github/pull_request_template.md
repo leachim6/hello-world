@@ -1,6 +1,6 @@
 ## Adding a language
 
-- [ ] The code displays "Hello World"
+- [ ] The code displays "Hello World" ([tio.run](https://tio.run) may help for testing)
 - [ ] I have updated the readme to include the new language
 - [ ] I have incremented the language count in the readme
 - [ ] I have no association with the language
