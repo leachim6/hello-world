@@ -1,2 +1,1 @@
-$(info "Hello World")
-all:
+@echo "Hello World"
