@@ -276,6 +276,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Chapel](c/Chapel.chpl)
 * [Charcoal verbose mode](c/Charcoal%20verbose%20mode.cl)
 * [Charcoal](c/Charcoal.cl)
+* [ChaScript](c/ChaScript)
 * [Cheddar](c/Cheddar.cheddar)
 * [Cheese++](c/Cheese%2B%2B.cheese)
 * [Chef](c/Chef.ch)
