@@ -1,0 +1,5 @@
++alias org.eolang.io.stdout
+
+[] > app
+  stdout > @
+    "Hello world"
