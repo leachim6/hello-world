@@ -466,6 +466,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Haifuckqueue](h/Haifuckqueue)
 * [Haml](h/Haml.haml)
 * [Harbour](h/Harbour.prg)
+* [Hare](h/Hare.ha)
 * [Haskell](h/Haskell.hs)
 * [Haxe](h/Haxe.hx)
 * [haystack](h/haystack.hstk)
