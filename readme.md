@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (980 total)
+## Languages (981 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -267,6 +267,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Catrobat](c/Catrobat.catrobat)
 * [Cbot](c/Cbot.txt)
 * [Cduce](c/Cduce.cduce)
+* [CEBL](c/CEBL.ceb)
 * [Centura](c/Centura.centura)
 * [CESIL](c/CESIL.cesil)
 * [Ceylon](c/Ceylon.ceylon)
