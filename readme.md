@@ -267,6 +267,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Catrobat](c/Catrobat.catrobat)
 * [Cbot](c/Cbot.txt)
 * [Cduce](c/Cduce.cduce)
+* [CEBL](c/CEBL.ceb)
 * [Centura](c/Centura.centura)
 * [CESIL](c/CESIL.cesil)
 * [Ceylon](c/Ceylon.ceylon)
