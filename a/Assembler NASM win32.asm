@@ -1,5 +1,4 @@
 ;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-;!so simple :) pure assembly language code without any the help on an outside .dll and  library and print hello world
 
 
 ;HELLO IT is NASM x86 windows .asm to print hello world
