@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (930 total)
+## Languages (931 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -174,6 +174,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [BennuGD](b/BennuGD)
 * [Beta](b/Beta.bet)
 * [Bhai Lang](b/Bhai%20Lang.bhai)
+* [Bicep](b/Bicep.bicep)
 * [Binaryfuck](b/Binaryfuck.bf)
 * [BIRL](b/BIRL.c)
 * [BIT](b/BIT.bit)
