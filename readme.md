@@ -538,7 +538,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [LotusScript](l/LotusScript.lss)
 * [LSL](l/LSL.lsl)
 * [Lua Grimex](l/Lua%20Grimex.j)
-* [LUA](l/LUA.lua)
+* [Lua](l/Lua.lua)
 * [LWC](l/LWC.html)
 * [Löve](l/L%C3%B6ve.lua)
 * [M4](m/M4.m4)
