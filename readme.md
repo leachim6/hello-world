@@ -42,7 +42,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [タイルズ](%23/%E3%82%BF%E3%82%A4%E3%83%AB%E3%82%BA.tls)
 * [ドリトル](%23/%E3%83%89%E3%83%AA%E3%83%88%E3%83%AB.dtl)
 * [プロデル](%23/%E3%83%97%E3%83%AD%E3%83%87%E3%83%AB.rdr)
-* [上海话](%23/%E4%B8%8A%E6%B5%B7%E8%AF%9D.shanghai)
 * [文言](%23/%E6%96%87%E8%A8%80.wy)
 * [易语言](%23/%E6%98%93%E8%AF%AD%E8%A8%80.e)
 * [火星文](%23/%E7%81%AB%E6%98%9F%E6%96%87.martian)
