@@ -33,6 +33,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [><>](%23/%3E%3C%3E)
 * [@tention!](%23/%40tention%21)
 * [@text](%23/%40text)
+* [~English](%23/~English)
 * [μλ](%23/%CE%BC%CE%BB)
 * [قلب](%23/%D9%82%D9%84%D8%A8)
 * [ᚱᚢᚾᛅᛦ](%23/%E1%9A%B1%E1%9A%A2%E1%9A%BE%E1%9B%85%E1%9B%A6)
