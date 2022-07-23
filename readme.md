@@ -204,6 +204,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [C Shell](c/C%20Shell.csh)
 * [C+](c/C%2B)
 * [C+++](c/C%2B%2B%2B)
+* [C+++](c/C%2B%2B%2B.cpp)
 * [C++](c/C%2B%2B.cpp)
 * [C--](c/C--)
 * [C](c/C.c)
