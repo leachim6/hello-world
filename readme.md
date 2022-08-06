@@ -430,7 +430,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Holy C](h/Holy%20C.HC)
 * [Homespring](h/Homespring.homespring)
 * [HOP](h/HOP)
-* [HP_41C](h/HP_41C)
+* [HP 41C](h/HP_41C)
 * [HQ9++](h/HQ9%2B%2B)
 * [HQ9+](h/HQ9%2B.h)
 * [HQ9funge](h/HQ9funge)
