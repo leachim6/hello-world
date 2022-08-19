@@ -392,6 +392,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Gibberish](g/Gibberish.gibberish)
 * [GitHub Actions](g/GitHub%20Actions.yaml)
 * [Glass](g/Glass.glass)
+* [GlueLang](g/GlueLang.glue)
 * [GML](g/GML.gml)
 * [Go](g/Go.go)
 * [Gocaml](g/Gocaml.ml)
