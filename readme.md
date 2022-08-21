@@ -638,6 +638,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Oxygene](o/Oxygene.pas)
 * [o:XML](o/o%CB%B8XML)
 * [Painter Programming](p/Painter%20Programming)
+* [PakhiBhasha](p/PakhiBhasha.pakhi)
 * [ParaSail](p/ParaSail.psi)
 * [Parenthetic](p/Parenthetic.p)
 * [Parser](p/Parser.p)
