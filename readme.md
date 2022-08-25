@@ -497,7 +497,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Kitten](k/Kitten.ktn)
 * [Kivy](k/Kivy.py)
 * [Koa](k/Koa.js)
-* [Kobeři C](k/Kobe%C5%99i%20C.koberice)
+* [Kobeři-C](k/Kobe%C5%99i-C.koberice)
 * [Kojo](k/Kojo.kojo)
 * [Kotlin Script](k/Kotlin%20Script.kts)
 * [Kotlin](k/Kotlin.kt)
