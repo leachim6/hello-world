@@ -1,11 +1,38 @@
-# Hello World
+# Hello-World
 
 Hello World in every computer language.
+
+````
+Hello World is a popular program meant to illustrate a language's syntax. The program simply outputs "Hello World" to the device and can ensure that the project is set up correctly. It is often used by programmers starting out in a language.
+````
 
 As I watch the collection expand, this project has blown up more than I ever thought possible.
 Thanks to everyone who continues to contribute; new languages are created every day!
 
+## Contributing
+
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
+
+## Usage
+
+The repo folders follow an alphabetical structure. For programming languages that do not start with a letter, navigate to the [#](https://github.com/leachim6/hello-world/tree/main/%23) folder.
+
+### Example:
+To find Hello World written in C++:
+1. Navigate to the [c](https://github.com/leachim6/hello-world/tree/main/c) folder.
+2. Open [C++.cpp](https://github.com/leachim6/hello-world/blob/main/c/C%2B%2B.cpp).
+3. Copy the code into your preferred editor.
+    ```C++
+    #include <iostream>
+
+    int main()
+    {
+        std::cout << "Hello World" << std::endl;
+    }
+    ```
+4. Run the program and "Hello World" will be displayed.
+
+- Now, you can build upon the Hello World program to continue to learn the language.
 
 <!--Languages start-->
 ## Languages (935 total)
@@ -953,3 +980,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 - [The Hello World Collection](http://helloworldcollection.de/)
 - [one-two-three...infinity](https://github.com/clarkzjw/one-two-three...infinity)
 - [Hello World In Many Programming Languages](https://wiki.c2.com/?HelloWorldInManyProgrammingLanguages)
+
+## License
+
+Hello-World is licensed under the [MIT](https://github.com/leachim6/hello-world/blob/main/license) license.
