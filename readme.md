@@ -3,7 +3,9 @@
 Hello World in every computer language.
 
 ````
-Hello World is a popular program meant to illustrate a language's syntax. The program simply outputs "Hello World" to the device and can ensure that the project is set up correctly. It is often used by programmers starting out in a language.
+Hello World is a popular program meant to illustrate a language's syntax. 
+The program simply outputs "Hello World" to the device and can ensure that the project is set up correctly. 
+It is often used by programmers starting out in a language.
 ````
 
 As I watch the collection expand, this project has blown up more than I ever thought possible.
