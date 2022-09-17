@@ -46,7 +46,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [易语言](%23/%E6%98%93%E8%AF%AD%E8%A8%80.e)
 * [火星文](%23/%E7%81%AB%E6%98%9F%E6%96%87.martian)
 * [秀丸マクロ](%23/%E7%A7%80%E4%B8%B8%E3%83%9E%E3%82%AF%E3%83%AD.mac)
-* [한국어](%23/%ED%95%9C%EA%B5%AD%EC%96%B4)
 * [><>](%23/%EF%B9%A5%EF%B9%A4%EF%B9%A5)
 * [?$51=](%23/%EF%BC%9F%2451%3D)
 * [🆒](%23/%F0%9F%86%92)
