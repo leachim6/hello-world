@@ -556,7 +556,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Mathematica](m/Mathematica.nb)
 * [MATLAB 1.0](m/MATLAB%201.0.m)
 * [MATLAB](m/MATLAB.m)
-* [Maple] (m/Maple.mpl)
+* [Maple](m/Maple.mpl)
 * [Maxima](m/Maxima.max)
 * [MaxScript](m/MaxScript.ms)
 * [Mel](m/Mel.mel)
