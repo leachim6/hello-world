@@ -474,6 +474,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Jason](j/Jason.mas2j)
 * [Java](j/Java.java)
 * [JavaScript](j/JavaScript.js)
+* [JCL](j/jcl.jcl)
 * [Jelly](j/Jelly.j)
 * [Jenkinsfile](j/Jenkinsfile)
 * [Jess](j/Jess.cpl)
