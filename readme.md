@@ -341,6 +341,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Executable](e/Executable.exe)
 * [Express](e/Express.js)
 * [F](f/F.f95)
+* [F#](f/F%23.fs)
 * [Factor](f/Factor.factor)
 * [Factors](f/Factors.fact)
 * [Falcon](f/Falcon.fal)
