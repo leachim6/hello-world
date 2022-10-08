@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (937 total)
+## Languages (936 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -340,8 +340,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Evil](e/Evil)
 * [Executable](e/Executable.exe)
 * [Express](e/Express.js)
-* [F](f/F.f95)
 * [F#](f/F%23.fs)
+* [F](f/F.f95)
 * [Factor](f/Factor.factor)
 * [Factors](f/Factors.fact)
 * [Falcon](f/Falcon.fal)
