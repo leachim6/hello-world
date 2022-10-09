@@ -867,6 +867,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Unlambda](u/Unlambda.unl)
 * [Unreal Script](u/Unreal%20Script.uc)
 * [UrduPython](u/UrduPython.py)
+* [UwU](u/uwu.uwupp)
 * [V](v/V)
 * [V](v/V.v)
 * [Vala](v/Vala.vala)
