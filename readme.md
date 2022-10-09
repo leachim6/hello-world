@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (937 total)
+## Languages (938 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -867,6 +867,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Unlambda](u/Unlambda.unl)
 * [Unreal Script](u/Unreal%20Script.uc)
 * [UrduPython](u/UrduPython.py)
+* [UwU](u/uwu.uwupp)
 * [V](v/V)
 * [V](v/V.v)
 * [Vala](v/Vala.vala)
