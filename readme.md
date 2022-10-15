@@ -609,6 +609,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Nu](n/Nu.nu)
 * [NWScript](n/NWScript.nss)
 * [NXC](n/NXC.nxc)
+* [Nya~](n/Nya~.nya)
 * [Oberon 2](o/Oberon%202.obn)
 * [Oberon](o/Oberon.o)
 * [Obix](o/Obix.osc)
