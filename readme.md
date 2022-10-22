@@ -118,7 +118,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Assembler Bootsect](a/Assembler%20Bootsect.asm)
 * [Assembler DCPU16](a/Assembler%20DCPU16.asm)
 * [Assembler FASM DOS](a/Assembler%20FASM%20DOS.asm)
-* [Assembler FASM DOS](a/Assembler%20FASM%20Win32.asm)
+* [Assembler FASM Win32](a/Assembler%20FASM%20Win32.asm)
 * [Assembler hla](a/Assembler%20hla.hla)
 * [Assembler HP85](a/Assembler%20HP85.asm)
 * [Assembler IBM360](a/Assembler%20IBM360.asm)
