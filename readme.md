@@ -7,8 +7,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
-<!--Languages start-->
-## Languages (940 total)
+## Languages (942 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -293,6 +292,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [DNA#](d/DNA%23.dna)
 * [DNCL](d/DNCL.dncl)
 * [Dog](d/Dog)
+* [DOG](d/DOG)
 * [DogeScript](d/DogeScript.djs)
 * [DOGO](d/DOGO.dogo)
 * [dongbei](d/dongbei.dongbei)
@@ -311,6 +311,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [E](e/E.e)
 * [e62qpodb593](e/e62qpodb593)
 * [EBuild](e/EBuild.ebuild)
+* [ESOPUNK](e/ESOPUNK.exa)
 * [Ec](e/Ec.ec)
 * [EchoLisp](e/EchoLisp.echolisp)
 * [Efene](e/Efene.efene)
@@ -390,6 +391,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Gibberish](g/Gibberish.gibberish)
 * [GitHub Actions](g/GitHub%20Actions.yaml)
 * [Glass](g/Glass.glass)
+* [Gleam](g/Gleam.gleam)
 * [GML](g/GML.gml)
 * [Go](g/Go.go)
 * [Gocaml](g/Gocaml.ml)
@@ -868,7 +870,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Unlambda](u/Unlambda.unl)
 * [Unreal Script](u/Unreal%20Script.uc)
 * [UrduPython](u/UrduPython.py)
-* [UwU](u/uwu.uwupp)
+* [uwu](u/uwu.uwupp)
 * [V](v/V)
 * [V](v/V.v)
 * [Vala](v/Vala.vala)
@@ -892,6 +894,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Vowels](v/Vowels.vw)
 * [VRML](v/VRML.wrl)
 * [Vue](v/Vue.js)
+* [Wax](w/Wax.wax)
 * [WebAssembly](w/WebAssembly.wat)
 * [Wheat](w/Wheat.wheat)
 * [Whenever](w/Whenever.whenever)
@@ -908,7 +911,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [wxPython](w/wxPython.py)
 * [Wyvern](w/Wyvern.wyv)
 * [X D](x/X%20D.xd)
-* [X++](x/X++.xpp)
+* [X++](x/X%2B%2B.xpp)
 * [X10](x/X10.x10)
 * [XBase++](x/XBase%2B%2B.prg)
 * [XBase](x/XBase.dbf)
