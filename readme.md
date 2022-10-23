@@ -676,7 +676,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Porth](p/Porth.porth)
 * [Portugol](p/Portugol.por)
 * [PostCSS](p/PostCSS.pcss)
-* [Postgre SQL](p/Postgre%20SQL.sql)
+* [PostgreSQL](p/Postgre%20SQL.sql)
 * [PostScript Page](p/PostScript%20Page.ps)
 * [PostScript](p/PostScript.ps)
 * [PosXML](p/PosXML.posxml)
