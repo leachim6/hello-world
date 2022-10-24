@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (943 total)
+## Languages (944 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -414,6 +414,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Groovy](g/Groovy.groovy)
 * [GTA3Script](g/GTA3Script.sc)
 * [Gui4Cli](g/Gui4Cli)
+* [H++](h/H%2B%2B.hpp)
 * [Hack](h/Hack.hh)
 * [Haifuckqueue](h/Haifuckqueue)
 * [Haml](h/Haml.haml)
