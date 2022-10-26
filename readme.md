@@ -9,7 +9,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 
 <!--Languages start-->
 
-## Languages (942 total)
+## Languages (944 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -587,6 +587,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Mouse](m/Mouse.mse)
 * [Move](m/Move.mv)
 * [Mozart](m/Mozart.oz)
+* [Mr Hashemi](m/Mr%20Hashemi.hashemi)
 * [Muf](m/Muf.muf)
 * [Mumps](m/Mumps.m)
 * [Muon](m/Muon.mu)
