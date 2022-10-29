@@ -1,0 +1,3 @@
+bebin azinja() {
+  bechap("Hello World");
+}
