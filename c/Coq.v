@@ -8,4 +8,4 @@ Import C.Notations.
 
 (** The classic Hello World program. *)
 Definition hello_world (argv : list LString.t) : C.t System.effect unit :=
-  System.log (LString.s "Hello world!").
+  System.log (LString.s "Hello World").
