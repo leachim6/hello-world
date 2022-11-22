@@ -1,1 +1,0 @@
-{Show 'Hello World'}

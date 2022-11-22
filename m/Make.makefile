@@ -1,2 +1,0 @@
-$(info "Hello World")
-all:

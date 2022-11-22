@@ -1,3 +1,0 @@
-BEGIN PROGRAM.
-print "Hello World"
-END PROGRAM.

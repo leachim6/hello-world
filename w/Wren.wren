@@ -1,1 +1,0 @@
-IO.print("Hello World")

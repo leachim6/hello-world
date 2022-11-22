@@ -1,1 +1,0 @@
-tellraw @p "Hello World"

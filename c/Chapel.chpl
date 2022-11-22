@@ -1,1 +1,0 @@
-writeln("Hello World");

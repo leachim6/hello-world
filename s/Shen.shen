@@ -1,1 +1,0 @@
-(pr "Hello World")

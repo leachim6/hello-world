@@ -1,1 +1,0 @@
-jlog("Hello World")

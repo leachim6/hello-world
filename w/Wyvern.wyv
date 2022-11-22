@@ -1,3 +1,0 @@
-require stdout
-
-stdout.print("Hello World")

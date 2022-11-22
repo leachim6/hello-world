@@ -1,1 +1,0 @@
-stdout println:'Hello World'.

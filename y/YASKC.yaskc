@@ -1,4 +1,0 @@
-using universal delay 200
-using loop False
-
-typewrite Hello World

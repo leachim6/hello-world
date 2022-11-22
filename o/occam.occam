@@ -1,5 +1,0 @@
-PROGRAM Hello
-#USE ioconv
-
-SEQ
-  write.full.string(screen,"Hello World")

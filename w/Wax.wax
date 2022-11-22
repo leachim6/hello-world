@@ -1,4 +1,0 @@
-(func main (result int)
-  (print "Hello World")
-  (return 0)
-)

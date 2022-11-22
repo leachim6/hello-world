@@ -1,1 +1,0 @@
-WScript.Echo("Hello World");

@@ -1,1 +1,0 @@
-VISIBLE "Hello World"

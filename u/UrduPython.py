@@ -1,1 +1,0 @@
-لکھو ("Hello World")

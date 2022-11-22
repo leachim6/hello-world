@@ -1,1 +1,0 @@
-skriv("Hello World")
