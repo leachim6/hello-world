@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (948 total)
+## Languages (951 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -212,6 +212,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Carbon](c/Carbon.carbon)
 * [Cardinal](c/Cardinal.cardinal)
 * [Casio BASIC](c/Casio%20BASIC)
+* [CASL2](c/CASL2.cas)
 * [cat](c/cat.cat)
 * [Catrobat](c/Catrobat.catrobat)
 * [Cbot](c/Cbot.txt)
@@ -314,7 +315,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [E](e/E.e)
 * [e62qpodb593](e/e62qpodb593)
 * [EBuild](e/EBuild.ebuild)
-* [ESOPUNK](e/ESOPUNK.exa)
 * [Ec](e/Ec.ec)
 * [EchoLisp](e/EchoLisp.echolisp)
 * [Efene](e/Efene.efene)
@@ -340,6 +340,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Erlang EScript](e/Erlang%20EScript.erl)
 * [Erlang](e/Erlang.erl)
 * [es](e/es)
+* [ESOPUNK](e/ESOPUNK.exa)
 * [Euphoria](e/Euphoria.ex)
 * [Evil](e/Evil)
 * [Executable](e/Executable.exe)
@@ -527,6 +528,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Like, Python](l/Like%2C%20Python.lp)
 * [LilyPond](l/LilyPond.ly)
 * [Limbo](l/Limbo.b)
+* [LINE entry](l/LINE%20entry.ent)
 * [Lingo](l/Lingo.lg4)
 * [Lisaac](l/Lisaac.li)
 * [Lisp](l/Lisp.lsp)
@@ -712,7 +714,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Pyth](p/Pyth.pyth)
 * [Python 2](p/Python%202.py)
 * [Python 3](p/Python%203.py)
-* [PythOwO](p/pythOwO.pyowo)
+* [pythOwO](p/pythOwO.pyowo)
 * [Q](q/Q.q)
 * [Qalb](q/Qalb)
 * [QBasic](q/QBasic.bas)
@@ -853,6 +855,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Tk](t/Tk.tk)
 * [Tkinter](t/Tkinter.py)
 * [TOML](t/TOML.toml)
+* [Tonyu](t/Tonyu)
 * [Trans-dimensional](t/Trans-dimensional)
 * [Tri](t/Tri.tri)
 * [TrollScript](t/TrollScript.troll)
