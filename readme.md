@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (951 total)
+## Languages (956 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -70,6 +70,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Aime](a/Aime.aime)
 * [Aiml](a/Aiml.aiml)
 * [ALAGUF](a/ALAGUF.alaguf)
+* [Alan](a/Alan.ln)
 * [Alda](a/Alda.alda)
 * [Algae](a/Algae.algae)
 * [ALGOL 60](a/ALGOL%2060.algol60)
@@ -78,6 +79,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Alice](a/Alice.alice)
 * [Alore](a/Alore.alore)
 * [AlPhAbEt](a/AlPhAbEt.abc)
+* [Amber](a/Amber.ab)
 * [Amiga-E](a/Amiga-E.amiga-e)
 * [Amos](a/Amos)
 * [AnalF*ck](a/AnalF%E2%88%97ck.af)
@@ -295,8 +297,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Django](d/Django.py)
 * [DNA#](d/DNA%23.dna)
 * [DNCL](d/DNCL.dncl)
-* [DOG](d/DOG)
 * [Dog](d/Dog)
+* [DOG](d/DOG)
 * [DogeScript](d/DogeScript.djs)
 * [DOGO](d/DOGO.dogo)
 * [dongbei](d/dongbei.dongbei)
@@ -485,6 +487,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Jelly](j/Jelly.j)
 * [Jenkinsfile](j/Jenkinsfile)
 * [Jess](j/Jess.cpl)
+* [Jolie](j/Jolie.ol)
 * [JScript](j/JScript.js)
 * [JSFuck](j/JSFuck.js)
 * [JSON](j/JSON.json)
@@ -535,6 +538,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [ListLang](l/ListLang)
 * [LiveCode](l/LiveCode)
 * [LiveScript](l/LiveScript.ls)
+* [llrl](l/llrl.llrl)
 * [LLVM](l/LLVM.ll)
 * [LNUSP](l/LNUSP.lnusp)
 * [Locomotive Basic](l/Locomotive%20Basic.b)
@@ -647,6 +651,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [o:XML](o/o%CB%B8XML)
 * [Painter Programming](p/Painter%20Programming)
 * [Pakhi](p/Pakhi.pakhi)
+* [Pangaea](p/Pangaea.pangaea)
 * [ParaSail](p/ParaSail.psi)
 * [Parenthetic](p/Parenthetic.p)
 * [Parser](p/Parser.p)
