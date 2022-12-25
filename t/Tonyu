@@ -1,0 +1,1 @@
+new Label{x:50, y:20, text:"Hello World"};
