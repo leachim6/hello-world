@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (956 total)
+## Languages (960 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -261,6 +261,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Coq](c/Coq.v)
 * [Cor](c/Cor.cor)
 * [Coral 66](c/Coral%2066.cor)
+* [Cotowali](c/Cotowali.li)
 * [COW](c/COW.cow)
 * [Cryptol](c/Cryptol)
 * [Crystal](c/Crystal.cr)
@@ -380,6 +381,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Fourier](f/Fourier.fourier)
 * [FoxPro](f/FoxPro.prg)
 * [Fractran++](f/Fractran%2B%2B.fpp)
+* [FreakC](f/FreakC.fclang)
 * [Freebrain](f/Freebrain.frbr)
 * [Frink](f/Frink.frink)
 * [FROM HERE TO THERE](f/FROM%20HERE%20TO%20THERE)
@@ -697,6 +699,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [PosXML](p/PosXML.posxml)
 * [Potaka](p/Potaka.ptk)
 * [Potigol](p/Potigol.poti)
+* [Power Fx](p/Power%20Fx.pfx)
 * [PowerBuilder](p/PowerBuilder.psr)
 * [PowerShell](p/PowerShell.ps1)
 * [Printscript](p/Printscript)
@@ -859,6 +862,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [TIBasic](t/TIBasic.ti)
 * [Tk](t/Tk.tk)
 * [Tkinter](t/Tkinter.py)
+* [Tokay](t/Tokay.tok)
 * [TOML](t/TOML.toml)
 * [Tonyu](t/Tonyu)
 * [Trans-dimensional](t/Trans-dimensional)
