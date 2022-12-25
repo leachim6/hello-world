@@ -248,7 +248,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [COBOL](c/COBOL.cbl)
 * [CobolScript](c/CobolScript.cbl)
 * [Cobra](c/Cobra.cobra)
-* [Coconut](c/Coconut.coc)
+* [Coconut](c/Coconut.coco)
 * [CoffeeScript](c/CoffeeScript.coffee)
 * [ColdFusion](c/ColdFusion.cfm)
 * [Come Here](c/Come%20Here)
