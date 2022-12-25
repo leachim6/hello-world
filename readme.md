@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (961 total)
+## Languages (967 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -327,6 +327,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Elixir](e/Elixir.ex)
 * [Elixir](e/Elixir.exs)
 * [Elm](e/Elm.elm)
+* [Elvish](e/Elvish.elv)
 * [EmacsLisp](e/EmacsLisp.el)
 * [Emerald](e/Emerald.m)
 * [Emmental](e/Emmental.emmental)
@@ -402,6 +403,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Glass](g/Glass.glass)
 * [Gleam](g/Gleam.gleam)
 * [GML](g/GML.gml)
+* [Go+](g/Go%2B.gop)
 * [Go](g/Go.go)
 * [Gocaml](g/Gocaml.ml)
 * [Golfscript](g/Golfscript.golfscript)
@@ -426,6 +428,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Hack](h/Hack.hh)
 * [Haifuckqueue](h/Haifuckqueue)
 * [Haml](h/Haml.haml)
+* [Hamler](h/Hamler.hm)
 * [Harbour](h/Harbour.prg)
 * [Hare](h/Hare.ha)
 * [Haskell](h/Haskell.hs)
@@ -608,6 +611,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Myrddin](m/Myrddin.myr)
 * [MySQL](m/MySQL.sql)
 * [Neko](n/Neko.neko)
+* [Nelua](n/Nelua.nelua)
 * [Nemerle](n/Nemerle.n)
 * [NetRexx](n/NetRexx.nrx)
 * [NewLISP](n/NewLISP.lsp)
@@ -689,6 +693,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [PLI](p/PLI.pl1)
 * [Pluvo](p/Pluvo.pvo)
 * [PL/SQL](p/PL%E2%88%95SQL.pls)
+* [Poketlang](p/Poketlang.pk)
 * [Polynomial](p/Polynomial.pol)
 * [Pony](p/Pony.pony)
 * [Porth](p/Porth.porth)
@@ -893,6 +898,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [V](v/V)
 * [V](v/V.v)
 * [Vala](v/Vala.vala)
+* [Vale](v/Vale.vale)
 * [VB.NET](v/VB.NET.vb)
 * [Velato](v/Velato.ly)
 * [Verbose](v/Verbose.verbose)
