@@ -113,7 +113,7 @@ call r15
 section .data
 
 	offset equ -11
-	message db "hello world",0
+	message db "Hello World",0
 	len equ $-message
 
 section .bss
