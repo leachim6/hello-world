@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (960 total)
+## Languages (961 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -565,6 +565,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Malbolge](m/Malbolge.mb)
 * [Mana](m/Mana.mn)
 * [Manim](m/Manim.py)
+* [Maple](m/Maple.mpl)
 * [MarioLANG](m/MarioLANG.mlg)
 * [Markdown](m/Markdown.md)
 * [Mathematica Online](m/Mathematica%20Online.nb)
