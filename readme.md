@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (967 total)
+## Languages (970 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -402,6 +402,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [GitHub Actions](g/GitHub%20Actions.yaml)
 * [Glass](g/Glass.glass)
 * [Gleam](g/Gleam.gleam)
+* [Gluon](g/Gluon.glu)
 * [GML](g/GML.gml)
 * [Go+](g/Go%2B.gop)
 * [Go](g/Go.go)
@@ -663,6 +664,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Parenthetic](p/Parenthetic.p)
 * [Parser](p/Parser.p)
 * [Pascal](p/Pascal.p)
+* [Passerine](p/Passerine.pn)
 * [Pattern Language](p/Pattern%20Language.pat)
 * [Pauscal](p/Pauscal.pdp)
 * [Pawn](p/Pawn.p)
@@ -857,6 +859,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [TCSH](t/TCSH.tcsh)
 * [Tea](t/Tea.tea)
 * [Telephone](t/Telephone)
+* [Tengo](t/Tengo.tengo)
 * [Terra](t/Terra.t)
 * [Terraform](t/Terraform.tf)
 * [TeX](t/TeX.tex)
