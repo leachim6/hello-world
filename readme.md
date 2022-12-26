@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (970 total)
+## Languages (974 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -211,6 +211,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Cache ObjectScript](c/Cache%20ObjectScript.mac)
 * [CAML](c/CAML.ml)
 * [Candy](c/Candy.candy)
+* [Cantonese](c/Cantonese.cantonese)
 * [Carbon](c/Carbon.carbon)
 * [Cardinal](c/Cardinal.cardinal)
 * [Casio BASIC](c/Casio%20BASIC)
@@ -239,6 +240,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [ChinesePython](c/ChinesePython.py)
 * [Cil](c/Cil.il)
 * [Clean](c/Clean.icl)
+* [Clio](c/Clio.clio)
 * [Clipper](c/Clipper.prg)
 * [CLIPS](c/CLIPS.clips)
 * [CLISP](c/CLISP.lisp)
@@ -321,6 +323,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Ec](e/Ec.ec)
 * [EchoLisp](e/EchoLisp.echolisp)
 * [Efene](e/Efene.efene)
+* [Egison](e/Egison.egi)
 * [Egl](e/Egl.egl)
 * [Eiffel](e/Eiffel.eiff)
 * [Elena](e/Elena.elena)
@@ -890,6 +893,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Ubercode](u/Ubercode.cls)
 * [Ubiquity](u/Ubiquity.ubiquity)
 * [Umajin](u/Umajin.u)
+* [Umka](u/Umka.um)
 * [Underload](u/Underload.ul)
 * [Unicomal](u/Unicomal.lst)
 * [Unicon](u/Unicon.icn)
