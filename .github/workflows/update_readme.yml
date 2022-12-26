@@ -20,8 +20,16 @@ jobs:
 
       - id: last-commit-message
         run: echo "msg=$(git log -1 --pretty=%s)" >> $GITHUB_OUTPUT
+      - id: get-author-name
+        run: echo "msg=$(git log -1 --pretty=%an)" >> $GITHUB_OUTPUT
+      - id: get-author-email
+        run: echo "msg=$(git log -1 --pretty=%aE)" >> $GITHUB_OUTPUT
+
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
+          commit_user_name: ${{ steps.get-author-name.outputs.msg }}
+          commit_user_email: ${{ steps.get-author-email.outputs.msg }}
+          commit_author: ${{ steps.get-author-name.outputs.msg }} <${{ steps.get-author-email.outputs.msg }}>
           commit_message: ${{ steps.last-commit-message.outputs.msg }}
           commit_options: '--amend --no-edit'
           push_options: '--force'
