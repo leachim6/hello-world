@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (983 total)
+## Languages (985 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -145,6 +145,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Assembler Z80 Knightos](a/Assembler%20Z80%20Knightos.asm)
 * [Assembler Z80 TI83calculator](a/Assembler%20Z80%20TI83calculator.asm)
 * [Assembler Z80 zxspectrum](a/Assembler%20Z80%20zxspectrum.asm)
+* [Asteria](a/Asteria)
 * [ATS2](a/ATS2.dats)
 * [Attache](a/Attache.%40)
 * [AutoHotKey](a/AutoHotKey.ahk)
@@ -863,6 +864,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Swift](s/Swift.swift)
 * [SystemTap](s/SystemTap.stp)
 * [Plain text](t/Plain%20text.txt)
+* [Tabloid](t/Tabloid)
 * [Takeover](t/Takeover)
 * [Tao Presentations](t/Tao%20Presentations.ddd)
 * [TapeBagel](t/TapeBagel.tb)
