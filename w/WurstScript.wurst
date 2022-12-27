@@ -1,0 +1,5 @@
+package HelloWurst
+import Printing
+
+init
+	print("Hello World")
