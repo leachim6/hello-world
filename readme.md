@@ -807,6 +807,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Ruby on Rails](r/Ruby%20on%20Rails.rb)
 * [Ruby](r/Ruby.rb)
 * [Ruota](r/Ruota.ruo)
+* [Rune](r/Rune.rn)
 * [Rust](r/Rust.rs)
 * [S Algol](s/S%20Algol)
 * [Sacred](s/Sacred.sacred)
