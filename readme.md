@@ -40,7 +40,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 - [Z](#z)
 
 <!--Languages start-->
-## Languages (999 total)
+## Languages (1001 total)
 
 ### #_
 * [!](%23/%21)
@@ -116,7 +116,9 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Alice](a/Alice.alice)
 * [Alore](a/Alore.alore)
 * [AlPhAbEt](a/AlPhAbEt.abc)
+* [Amazon State Language](a/Amazon-States-Language.json)
 * [Amber](a/Amber.ab)
+* [amharic](a/amharic.js)
 * [Amiga-E](a/Amiga-E.amiga-e)
 * [Amos](a/Amos)
 * [AnalF*ck](a/AnalF%E2%88%97ck.af)
