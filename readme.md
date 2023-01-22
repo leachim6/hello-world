@@ -1,15 +1,48 @@
-# Hello World
+# :wave:	Hello World 
 
-Hello World in every computer language.
+![Hello World](https://user-images.githubusercontent.com/67141217/213929468-e2dd3f39-3eb6-4719-b877-ab618b956cd7.png)
+
+This repository contains the ```Hello World Program``` in every Computer Language.
 
 As I watch the collection expand, this project has blown up more than I ever thought possible.
 Thanks to everyone who continues to contribute; new languages are created every day!
 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
+## Table of Contents
+
+- [#](#_)
+- [A](#a)
+- [B](#b)
+- [C](#c)
+- [D](#d)
+- [E](#e)
+- [F](#f)
+- [G](#g)
+- [H](#h)
+- [I](#i)
+- [J](#j)
+- [K](#k)
+- [L](#l)
+- [M](#m)
+- [N](#n)
+- [O](#o)
+- [P](#p)
+- [Q](#q)
+- [R](#r)
+- [S](#s)
+- [T](#t)
+- [U](#u)
+- [V](#v)
+- [W](#w)
+- [X](#x)
+- [Y](#y)
+- [Z](#z)
+
 <!--Languages start-->
 ## Languages (999 total)
 
+### #_
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
 * [():;#?!](%23/%28%29%CB%B8%3B%23%EF%BC%9F%21)
@@ -50,6 +83,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [><>](%23/%EF%B9%A5%EF%B9%A4%EF%B9%A5)
 * [?$51=](%23/%EF%BC%9F%2451%3D)
 * [🆒](%23/%F0%9F%86%92)
+
+### A
 * [A++](a/A%2B%2B)
 * [aardio](a/aardio.aardio)
 * [ABAP](a/ABAP.abap)
@@ -157,6 +192,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [AWK](a/AWK.awk)
 * [Axe](a/Axe.axe)
 * [A:;](a/A%CB%B8%3B)
+
+### B
 * [B](b/B.b)
 * [Backshift](b/Backshift)
 * [BAIK](b/BAIK.ina)
@@ -205,6 +242,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [BuddyScript](b/BuddyScript)
 * [Burlesque](b/Burlesque.burlesque)
 * [Byter](b/Byter.byter)
+
+### C
 * [C Shell](c/C%20Shell.csh)
 * [C+](c/C%2B)
 * [C+++](c/C%2B%2B%2B)
@@ -285,6 +324,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Cω](c/C%CF%89.cs)
 * [C*](c/C%E2%88%97)
 * [Ć](c/%C4%86.ci)
+
+### D
 * [D](d/D.d)
 * [dark](d/dark.txt)
 * [Dart](d/Dart.dart)
@@ -326,6 +367,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Dylan](d/Dylan.dl)
 * [Dyvil](d/Dyvil.dyv)
 * [D♭♭](d/D%E2%99%AD%E2%99%AD)
+
+### E
 * [E](e/E.e)
 * [e62qpodb593](e/e62qpodb593)
 * [EBuild](e/EBuild.ebuild)
@@ -361,6 +404,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Evil](e/Evil)
 * [Executable](e/Executable.exe)
 * [Express](e/Express.js)
+
+### F
 * [F#](f/F%23.fs)
 * [F](f/F.f95)
 * [Factor](f/Factor.factor)
@@ -400,6 +445,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [FROM HERE TO THERE](f/FROM%20HERE%20TO%20THERE)
 * [FSharp](f/FSharp.fs)
 * [FStar](f/FStar.fst)
+
+### G
 * [G-BASIC](g/G-BASIC)
 * [GAML](g/GAML.gaml)
 * [Gammaplex](g/Gammaplex.gammaplex)
@@ -437,6 +484,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Groovy](g/Groovy.groovy)
 * [GTA3Script](g/GTA3Script.sc)
 * [Gui4Cli](g/Gui4Cli)
+
+### H
 * [H++](h/H%2B%2B.hpp)
 * [Hack](h/Hack.hh)
 * [Haifuckqueue](h/Haifuckqueue)
@@ -470,6 +519,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Hy](h/Hy.hy)
 * [HyperTalk](h/HyperTalk.ht)
 * [H🌍](h/H%F0%9F%8C%8D)
+
+### I
 * [I5](i/I5.i5)
 * [IBM1401](i/IBM1401)
 * [IcedCoffeeScript](i/IcedCoffeeScript.ics)
@@ -493,6 +544,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Iscom](i/Iscom.iscom)
 * [ISLISP](i/ISLISP.lisp)
 * [ITAMFSARL](i/ITAMFSARL.itamfsarl)
+
+### J
 * [J#](j/J%23.jsl)
 * [J](j/J.ijs)
 * [Jade](j/Jade.jade)
@@ -515,6 +568,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [JudoScript](j/JudoScript)
 * [Julia](j/Julia.jl)
 * [Jython](j/Jython.py)
+
+### K
 * [K](k/K.k)
 * [Karel](k/Karel.kl)
 * [Ked](k/Ked.ked)
@@ -534,6 +589,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Kuin](k/Kuin.kn)
 * [Kumir](k/Kumir.kum)
 * [Kv](k/Kv.kv)
+
+### L
 * [Labyrinth](l/Labyrinth.labyrinth)
 * [LassoScript](l/LassoScript.lasso)
 * [LaTeX](l/LaTeX.tex)
@@ -574,6 +631,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Luau](l/Luau.luau)
 * [LWC](l/LWC.html)
 * [Löve](l/L%C3%B6ve.lua)
+
+### M
 * [M4](m/M4.m4)
 * [MacLisp](m/MacLisp.lisp)
 * [Macsyma](m/Macsyma.mac)
@@ -629,6 +688,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [MXML](m/MXML.mxml)
 * [Myrddin](m/Myrddin.myr)
 * [MySQL](m/MySQL.sql)
+
+### N
 * [Neko](n/Neko.neko)
 * [Nelua](n/Nelua.nelua)
 * [Nemerle](n/Nemerle.n)
@@ -649,6 +710,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Nu](n/Nu.nu)
 * [NWScript](n/NWScript.nss)
 * [NXC](n/NXC.nxc)
+
+### O
 * [Oberon 2](o/Oberon%202.obn)
 * [Oberon](o/Oberon.o)
 * [Obix](o/Obix.osc)
@@ -677,6 +740,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [OX](o/OX.oz)
 * [Oxygene](o/Oxygene.pas)
 * [o:XML](o/o%CB%B8XML)
+
+### P
 * [Painter Programming](p/Painter%20Programming)
 * [Pakhi](p/Pakhi.pakhi)
 * [Pangaea](p/Pangaea.pangaea)
@@ -752,6 +817,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Python 2](p/Python%202.py)
 * [Python 3](p/Python%203.py)
 * [pythOwO](p/pythOwO.pyowo)
+
+### Q
 * [Q](q/Q.q)
 * [Qalb](q/Qalb)
 * [QBasic](q/QBasic.bas)
@@ -765,6 +832,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Qugord](q/Qugord.qugord)
 * [Quorum](q/Quorum.quorum)
 * [QWERTY](q/QWERTY.qwerty)
+
+### R
 * [R](r/R.R)
 * [Racket](r/Racket.rkt)
 * [Radixal](r/Radixal.radixal)
@@ -808,6 +877,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Ruby](r/Ruby.rb)
 * [Ruota](r/Ruota.ruo)
 * [Rust](r/Rust.rs)
+
+### S
 * [S Algol](s/S%20Algol)
 * [Sacred](s/Sacred.sacred)
 * [Sal](s/Sal.s)
@@ -875,7 +946,9 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Swift Playgrounds](s/Swift%20Playgrounds.playgroundbook)
 * [Swift](s/Swift.swift)
 * [SystemTap](s/SystemTap.stp)
-* [Plain text](t/Plain%20text.txt)
+
+### T
+* [Plain Text](t/Plain%20text.txt)
 * [Tabloid](t/Tabloid)
 * [Takeover](t/Takeover)
 * [Tao Presentations](t/Tao%20Presentations.ddd)
@@ -913,6 +986,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Turtle Script](t/Turtle%20Script.turtle)
 * [Twocode](t/Twocode.dcode)
 * [TypeScript](t/TypeScript.ts)
+
+### U
 * [Ubercode](u/Ubercode.cls)
 * [Ubiquity](u/Ubiquity.ubiquity)
 * [Umajin](u/Umajin.u)
@@ -925,6 +1000,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Unreal Script](u/Unreal%20Script.uc)
 * [UrduPython](u/UrduPython.py)
 * [uwu](u/uwu.uwupp)
+
+### V
 * [V](v/V)
 * [V](v/V.v)
 * [Vala](v/Vala.vala)
@@ -949,6 +1026,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Vowels](v/Vowels.vw)
 * [VRML](v/VRML.wrl)
 * [Vue](v/Vue.js)
+
+### W
 * [Wax](w/Wax.wax)
 * [WebAssembly](w/WebAssembly.wat)
 * [Wheat](w/Wheat.wheat)
@@ -966,6 +1045,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [WurstScript](w/WurstScript.wurst)
 * [wxPython](w/wxPython.py)
 * [Wyvern](w/Wyvern.wyv)
+
+### X
 * [X D](x/X%20D.xd)
 * [X++](x/X%2B%2B.xpp)
 * [X10](x/X10.x10)
@@ -985,6 +1066,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [XSLT](x/XSLT.xslt)
 * [Xtal](x/Xtal.xtal)
 * [XUL](x/XUL.xul)
+
+### Y
 * [Y](y/Y.y)
 * [YAML](y/YAML.yaml)
 * [YASKC](y/YASKC.yaskc)
@@ -993,6 +1076,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [YoptaScript](y/YoptaScript)
 * [Yorick](y/Yorick.i)
 * [Your Mom](y/Your%20Mom)
+
+### Z
 * [Z Shell](z/Z%20Shell.zsh)
 * [ZBD](z/ZBD)
 * [Zepto](z/Zepto.zp)
