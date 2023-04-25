@@ -536,6 +536,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Kuin](k/Kuin.kn)
 * [Kumir](k/Kumir.kum)
 * [Kv](k/Kv.kv)
+* [L33t](l/L33t.l33t)
 * [Labyrinth](l/Labyrinth.labyrinth)
 * [LassoScript](l/LassoScript.lasso)
 * [LaTeX](l/LaTeX.tex)
