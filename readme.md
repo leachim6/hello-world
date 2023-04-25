@@ -50,6 +50,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [><>](%23/%EF%B9%A5%EF%B9%A4%EF%B9%A5)
 * [?$51=](%23/%EF%BC%9F%2451%3D)
 * [🆒](%23/%F0%9F%86%92)
+* [μ6](%23/%CE%BC6.%CE%BC6)
 * [A++](a/A%2B%2B)
 * [aardio](a/aardio.aardio)
 * [ABAP](a/ABAP.abap)
