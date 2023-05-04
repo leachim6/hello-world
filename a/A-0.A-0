@@ -1,0 +1,8 @@
+// JOB NAME: HELLO
+
+         JOB HELLO   // START OF JOB CARD
+0001     OUT SPOOL  // PRINT MESSAGE TO PRINTER
+         ALPHA HELLO WORLD!    // MESSAGE
+         HED
+0002     FIN
+         END       // END OF PROGRAM
