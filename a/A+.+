@@ -1,0 +1,6 @@
+$INCLUDE     STDIO.H
+
+MAIN()
+{
+   PRINT("Hello, world!\n");
+}
