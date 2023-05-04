@@ -1,0 +1,4 @@
+PROCEDURE Main
+    ! Display "Hello, World!" in a message box:
+    MessageOut("Hello, World!");
+ENDPROCEDURE
