@@ -1,0 +1,5 @@
+! start of program
+PROGRAM HELLO_WORLD
+PRINT "Hello, world!"
+ENDPROGRAM
+! end of program
