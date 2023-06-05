@@ -1,3 +1,3 @@
 mob
    Login()
-      world << "Hello, world!"
+      world << "Hello World"
