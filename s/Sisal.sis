@@ -3,5 +3,5 @@ define main
 type string = array[character];
 
 function main(returns string)
-  "Hello world"
+  "Hello World"
 end function
