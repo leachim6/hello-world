@@ -1,8 +1,8 @@
-import flet 
+import flet as ft
 
-def main(page: flet.Page):
-    t = flet.Text(value="Hello, World!", color="red")
+def main(page: ft.Page):
+    t = ft.Text(value="Hello, World!")
     page.controls.append(t)
     page.update()
 
-flet.app(target=main)
+ft.app(target=main)
