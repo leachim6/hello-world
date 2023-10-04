@@ -608,6 +608,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [ModiScript](m/ModiScript.chai)
 * [Modula 2](m/Modula%202.mod)
 * [Modula 3](m/Modula%203.m3)
+* [Mojo](m/Mojo.🔥)
 * [Mokkosu](m/Mokkosu.mok)
 * [Mongo](m/Mongo.sh)
 * [Monkey](m/Monkey)
