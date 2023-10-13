@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (999 total)
+## Languages (1000 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -608,6 +608,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [ModiScript](m/ModiScript.chai)
 * [Modula 2](m/Modula%202.mod)
 * [Modula 3](m/Modula%203.m3)
+* [Mojo](m/Mojo.%F0%9F%94%A5)
 * [Mokkosu](m/Mokkosu.mok)
 * [Mongo](m/Mongo.sh)
 * [Monkey](m/Monkey)
