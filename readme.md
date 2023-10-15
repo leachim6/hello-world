@@ -237,6 +237,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Charcoal](c/Charcoal.cl)
 * [Charly](c/Charly.ch)
 * [ChaScript](c/ChaScript)
+* [Chavascript](c/Chavascript.js)
 * [Cheddar](c/Cheddar.cheddar)
 * [Cheese++](c/Cheese%2B%2B.cheese)
 * [Chef](c/Chef.ch)
