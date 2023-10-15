@@ -283,6 +283,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Curry](c/Curry.curry)
 * [Cyclone](c/Cyclone.cyc)
 * [CypherNeo4j](c/CypherNeo4j.cypher)
+* [Cython](c/Cython.pyx)
 * [Cω](c/C%CF%89.cs)
 * [C*](c/C%E2%88%97)
 * [Ć](c/%C4%86.ci)
