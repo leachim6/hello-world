@@ -1,0 +1,2 @@
+(def 'impure main
+     (λ () (putStrLn "Hello World")))

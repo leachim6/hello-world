@@ -1,0 +1,1 @@
+WRITE "Hello World"

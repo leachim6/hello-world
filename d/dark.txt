@@ -1,0 +1,12 @@
++helloworld hell
+helloworld$twist stalker io
+helloworld$twist sign string
+io$stalk
+io$personal
+string$scrawl " Hello World
+string$read ~
+io$echo
+helloworld$consume io
+helloworld$consume string
+helloworld$empty
+helloworld$apocalypse

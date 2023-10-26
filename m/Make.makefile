@@ -1,0 +1,2 @@
+$(info "Hello World")
+all:
