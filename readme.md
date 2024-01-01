@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (1000 total)
+## Languages (1001 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -111,6 +111,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Asm2bf](a/Asm2bf.asm)
 * [ASP](a/ASP.asp)
 * [Aspectj](a/Aspectj.aj)
+* [Assembler 4004](a/Assembler%204004.asm)
 * [Assembler 6502](a/Assembler%206502.asm)
 * [Assembler 6502appleII](a/Assembler%206502appleII.asm)
 * [Assembler 6502c64](a/Assembler%206502c64.asm)
