@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (1000 total)
+## Languages (1001 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -27,7 +27,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [4test](%23/4test)
 * [4th Dimension](%23/4th%20Dimension.4dd)
 * [6969 Assembler](%23/6969%20Assembler)
-* [8051 Assembly](%23/8051%20Assembly)
 * [8th](%23/8th)
 * [@tention!](%23/%40tention%21)
 * [@text](%23/%40text)
@@ -111,11 +110,13 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Asm2bf](a/Asm2bf.asm)
 * [ASP](a/ASP.asp)
 * [Aspectj](a/Aspectj.aj)
+* [Assembler 4004](a/Assembler%204004.asm)
 * [Assembler 6502](a/Assembler%206502.asm)
 * [Assembler 6502appleII](a/Assembler%206502appleII.asm)
 * [Assembler 6502c64](a/Assembler%206502c64.asm)
 * [Assembler 6809vectrex](a/Assembler%206809vectrex.asm)
 * [Assembler 8048 videopac](a/Assembler%208048%20videopac.asm)
+* [Assembler 8051](a/Assembler%208051.asm)
 * [Assembler ARM aarch64](a/Assembler%20ARM%20aarch64.s)
 * [Assembler ARM](a/Assembler%20ARM.s)
 * [Assembler Atari 2600](a/Assembler%20Atari%202600.asm)
