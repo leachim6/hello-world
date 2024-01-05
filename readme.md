@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (1002 total)
+## Languages (1004 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -123,6 +123,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Assembler Bootsect](a/Assembler%20Bootsect.asm)
 * [Assembler DCPU16](a/Assembler%20DCPU16.asm)
 * [Assembler FASM DOS](a/Assembler%20FASM%20DOS.asm)
+* [Assembler FASM Win32](a/Assembler%20FASM%20Win32.asm)
 * [Assembler hla](a/Assembler%20hla.hla)
 * [Assembler HP85](a/Assembler%20HP85.asm)
 * [Assembler IBM360](a/Assembler%20IBM360.asm)
@@ -139,6 +140,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Assembler NASM Linux64](a/Assembler%20NASM%20Linux64.asm)
 * [Assembler NASM Macho64](a/Assembler%20NASM%20Macho64.asm)
 * [Assembler NASM Win32](a/Assembler%20NASM%20Win32.asm)
+* [Assembler NASM Win64](a/Assembler%20NASM%20Win64.asm)
 * [Assembler pdp10 midas](a/Assembler%20pdp10%20midas.mid)
 * [Assembler pdp11 palx](a/Assembler%20pdp11%20palx.palx)
 * [Assembler RISC-V](a/Assembler%20RISC-V.s)
