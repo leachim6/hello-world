@@ -1,0 +1,5 @@
+behavior hello_world {
+  state start {
+    output("Hello, World!")
+  }
+}
