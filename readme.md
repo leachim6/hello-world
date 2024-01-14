@@ -322,6 +322,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [DPATL Python](d/DPATL%20Python.dpatl)
 * [Draco](d/Draco.d)
 * [Dragon](d/Dragon)
+* [DreamBerd E/ACC](d/DreamBerd E-ACC.db3)
 * [DreamMaker](d/DreamMaker.dm)
 * [Drive-In Window](d/Drive-In%20Window.diw)
 * [DTrace](d/DTrace.d)
