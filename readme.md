@@ -1008,6 +1008,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Zim](z/Zim.zim)
 * [Zimbu](z/Zimbu.zu)
 * [Zinc](z/Zinc.zn)
+* [ZLanguage](z/zlang.zlang)
 * [Zombie](z/Zombie.zombie)
 * [Zonnon](z/Zonnon.znn)
 * [ZPL](z/ZPL)
