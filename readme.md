@@ -402,6 +402,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Frink](f/Frink.frink)
 * [FROM HERE TO THERE](f/FROM%20HERE%20TO%20THERE)
 * [FStar](f/FStar.fst)
+* [Futhark](f/Futhark.fut)
 * [G-BASIC](g/G-BASIC)
 * [GAML](g/GAML.gaml)
 * [Gammaplex](g/Gammaplex.gammaplex)
