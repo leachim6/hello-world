@@ -1,1 +1,1 @@
-main: () = std::println("Hello, world!");
+main: () = std::println("Hello World");
