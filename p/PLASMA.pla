@@ -1,0 +1,4 @@
+include "inc/cmdsys.plh"
+
+puts("Hello World\n")
+done
