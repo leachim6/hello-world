@@ -1,5 +1,5 @@
 # Hello World
-
+The "Hello World" project demonstrates the ability for programming languages to make connections between individuals aacross borders through one's own creativity. With its broad array of language examples and dedication to community involvement, the project actively demonstates the importance of each indivdual's contributution to the programming community, serving as an inspiration for future generations of programmers to delve into the vast realm of coding.
 Hello World in every computer language.
 
 As I watch the collection expand, this project has blown up more than I ever thought possible.
