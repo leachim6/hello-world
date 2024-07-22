@@ -796,7 +796,6 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Retina](r/Retina.ret)
 * [Retro](r/Retro.retro)
 * [Rexx](r/Rexx.rexx)
-* [Rhai](r/Rhai.rhai)
 * [Rick Roll](r/Rick%20Roll.rickroll)
 * [Ricktea](r/Ricktea.tea)
 * [Ride](r/Ride.ride)
