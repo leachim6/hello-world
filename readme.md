@@ -78,6 +78,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [ALGOL 68](a/ALGOL%2068.algol68)
 * [ALGOL W](a/ALGOL%20W.algol)
 * [Alice](a/Alice.alice)
+* [Aliflang](a/Aliflang.alif)
 * [Alore](a/Alore.alore)
 * [AlPhAbEt](a/AlPhAbEt.abc)
 * [Amber](a/Amber.ab)
