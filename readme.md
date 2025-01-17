@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (1006 total)
+## Languages (1007 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -994,6 +994,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [XUL](x/XUL.xul)
 * [Y](y/Y.y)
 * [YAML](y/YAML.yaml)
+* [YARA](y/YARA.yara)
 * [YASKC](y/YASKC.yaskc)
 * [Yoix](y/Yoix.yx)
 * [YoLang](y/YoLang.yo)
