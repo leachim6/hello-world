@@ -1016,6 +1016,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [ZSharp](z/ZSharp.zs)
 * [Zsq](z/Zsq.zsq)
 * [zx](z/zx.js)
+* [as](as/s.as)
 <!--Languages end-->
 
 ## Related
