@@ -815,6 +815,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Rune](r/Rune.rn)
 * [Ruota](r/Ruota.ruo)
 * [Rust](r/Rust.rs)
+* [Rajini++](r/rajini++.rpp)
 * [S Algol](s/S%20Algol)
 * [Sacred](s/Sacred.sacred)
 * [Sal](s/Sal.s)
