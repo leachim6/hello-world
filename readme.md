@@ -475,6 +475,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [HyperTalk](h/HyperTalk.ht)
 * [H🌍](h/H%F0%9F%8C%8D)
 * [I5](i/I5.i5)
+* [i use arch btw](i/i-use-arch-btw.archbtw)
 * [IBM1401](i/IBM1401)
 * [IcedCoffeeScript](i/IcedCoffeeScript.ics)
 * [ICI](i/ICI.ici)
