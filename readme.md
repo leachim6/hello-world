@@ -882,6 +882,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Swift Playgrounds](s/Swift%20Playgrounds.playgroundbook)
 * [Swift](s/Swift.swift)
 * [SystemTap](s/SystemTap.stp)
+* [SystemVerilog](s/SystemVerilog.sv)
 * [Plain text](t/Plain%20text.txt)
 * [Tabloid](t/Tabloid)
 * [Takeover](t/Takeover)
