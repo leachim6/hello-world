@@ -686,6 +686,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Painter Programming](p/Painter%20Programming)
 * [Pakhi](p/Pakhi.pakhi)
 * [Pangaea](p/Pangaea.pangaea)
+* [Pankti](p/Pankti.pank)
 * [Panther](p/Panther.py)
 * [ParaSail](p/ParaSail.psi)
 * [Parenthetic](p/Parenthetic.p)
