@@ -204,6 +204,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Brainfuck 2D](b/Brainfuck%202D.bf2d)
 * [Brainfuck](b/Brainfuck.bf)
 * [Brainloller](b/Brainloller.png)
+* [Brainrot](b/Brainrot.brainrot)
 * [Broccoli](b/Broccoli.brocc)
 * [BRZRK](b/BRZRK.brzrk)
 * [BuddyScript](b/BuddyScript)
