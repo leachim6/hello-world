@@ -1,0 +1,1 @@
+{"variables":{"hlworld":"Hello, World!"},"functions":{"main":[{"func":"print","data":"hlworld"}]}}
