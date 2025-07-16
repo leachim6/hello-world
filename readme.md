@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (1006 total)
+## Languages (1007 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -45,6 +45,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [文言](%23/%E6%96%87%E8%A8%80.wy)
 * [易语言](%23/%E6%98%93%E8%AF%AD%E8%A8%80.e)
 * [火星文](%23/%E7%81%AB%E6%98%9F%E6%96%87.martian)
+* [屁语 Bullshit language](%23/Bullshit-language.pi)
 * [秀丸マクロ](%23/%E7%A7%80%E4%B8%B8%E3%83%9E%E3%82%AF%E3%83%AD.mac)
 * [><>](%23/%EF%B9%A5%EF%B9%A4%EF%B9%A5)
 * [?$51=](%23/%EF%BC%9F%2451%3D)
