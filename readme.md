@@ -750,6 +750,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [PureScript](p/PureScript.purs)
 * [Pxem](p/Pxem.zip)
 * [Pygame](p/Pygame.py)
+* [PygameZero](p/PygameZero.py)
 * [PyQt4](p/PyQt4.py)
 * [PyQt5](p/PyQt5.py)
 * [Pyret](p/Pyret.arr)
