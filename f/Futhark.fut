@@ -1,0 +1,1 @@
+entry main() = "Hello, World!"
