@@ -1,0 +1,3 @@
+program print_hello
+  put "Hello World"
+end program
