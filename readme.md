@@ -146,6 +146,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Assembler RISC-V](a/Assembler%20RISC-V.s)
 * [Assembler TASM DOS](a/Assembler%20TASM%20DOS.asm)
 * [Assembler tms9900 ti99 4a](a/Assembler%20tms9900%20ti99%204a.asm)
+* [Assembler 8085](a/Assembler_8085.asm)
 * [Assembler Vax Ultrix](a/Assembler%20Vax%20Ultrix.asm)
 * [Assembler Z80 Knightos](a/Assembler%20Z80%20Knightos.asm)
 * [Assembler Z80 TI83calculator](a/Assembler%20Z80%20TI83calculator.asm)
