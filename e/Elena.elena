@@ -1,4 +1,4 @@
-public program
-[
-    console writeLine("Hello World").
-]
+public program()
+{
+    console.writeLine("Hello World")
+}
