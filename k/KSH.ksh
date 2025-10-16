@@ -1,2 +1,2 @@
 #!/bin/ksh
-echo "Hello World"
+print "Hello World"
