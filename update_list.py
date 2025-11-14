@@ -34,7 +34,7 @@ for initialDir in sorted(os.listdir('.')):
         displayInitial = normalize(initialDir)
         displayLanguage = normalize(languageDir)
         languagesText += (
-            f'* [{displayInitial}/{displayLanguage}]'
+            f'* [{displayLanguage}]'
             f'({posixpath.join(quote(initialDir), quote(languageDir))})\n')
         languageCount += 1
 
