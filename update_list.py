@@ -13,21 +13,30 @@ def regexReplace(string, search, replacement):
 languageCount = 0
 languagesText = ""
 
+
+def normalize(name):
+    return (name.replace("∕", "/").replace("＼", "\\").replace("˸", ":").replace(
+        "∗", "*").replace("？", "?").replace("＂", "\"").replace(
+            "﹤", "<").replace("﹥", ">").replace("❘", "|"))
+
+
 # List the available languages
-for directory in sorted(os.listdir('.')):
-    if not (directory == '.' or directory == '..' or directory[0] == '.'
-            or os.path.isfile(directory)):
-        for filename in sorted(os.listdir(directory), key=lambda s: s.lower()):
-            if os.path.isfile(os.path.join(directory, filename)):
-                language = (os.path.splitext(filename)[0].replace(
-                    "-", "-").replace("∕", "/").replace("＼", "\\").replace(
-                        "˸", ":").replace("∗", "*").replace("？", "?").replace(
-                            "＂",
-                            "\"").replace("﹤",
-                                          "<").replace("﹥",
-                                                       ">").replace("❘", "|"))
-                languagesText += f'* [{language}]({posixpath.join(quote(directory), quote(filename))})\n'
-                languageCount += 1
+for initialDir in sorted(os.listdir('.')):
+    if (initialDir == '.' or initialDir == '..' or initialDir[0] == '.'
+            or os.path.isfile(initialDir)):
+        continue
+
+    for languageDir in sorted(os.listdir(initialDir), key=lambda s: s.lower()):
+        languagePath = os.path.join(initialDir, languageDir)
+        if not os.path.isdir(languagePath):
+            continue
+
+        displayInitial = normalize(initialDir)
+        displayLanguage = normalize(languageDir)
+        languagesText += (
+            f'* [{displayLanguage}]'
+            f'({posixpath.join(quote(initialDir), quote(languageDir))})\n')
+        languageCount += 1
 
 result = f"""<!--Languages start-->
 ## Languages ({languageCount} total)
