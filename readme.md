@@ -195,6 +195,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Blitz3D](b/Blitz3D.bb)
 * [Bloop](b/Bloop.bloop)
 * [Blub](b/Blub.blub)
+* [BracketLang](b/BracketLang.bl)
 * [Bolgefuck](b/Bolgefuck.bf)
 * [Boo](b/Boo.boo)
 * [Boolet](b/Boolet)
