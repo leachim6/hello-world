@@ -2,4 +2,4 @@
 const user = 'anwar tarek';
 const age = 23;
 const job = 'software engineer'
-console.log(`MY NAME IS: ${user}, MY AGE IS: ${age}, MY JOB IS: ${job}`)
+console.log(`MY NAME IS: ${user}, MY AGE IS: ${age}, MY JOB IS: ${job}.`)
