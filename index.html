@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <title>115.01.06 數學複習測驗</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; padding: 20px; background-color: #f0f2f5; }
+        .quiz-container { max-width: 600px; margin: auto; background: white; padding: 30px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        h1 { color: #1a73e8; text-align: center; }
+        .question { margin-bottom: 20px; border-bottom: 1px solid #eee; padding-bottom: 10px; }
+        input { padding: 8px; width: 100px; border: 1px solid #ccc; border-radius: 4px; }
+        button { display: block; width: 100%; padding: 10px; background: #1a73e8; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; margin-top: 20px; }
+        button:hover { background: #1557b0; }
+        #result { margin-top: 20px; font-weight: bold; text-align: center; color: #d93025; }
+    </style>
+</head>
+<body>
+
+<div class="quiz-container">
+    <h1>數學考題練習</h1>
+    
+    <div class="question">
+        <p>3. 若 $Z = -1 + \sqrt{3}i$，其主幅角 $\text{Arg}(Z)$ 為？</p>
+        解答：<input type="text" id="q3" placeholder="度數"> 度
+    </div>
+
+    <div class="question">
+        <p>4. $f(x) = -12\sin \theta + 5\cos \theta + 3$ 的最小值為？</p>
+        解答：<input type="number" id="q4">
+    </div>
+
+    <div class="question">
+        <p>12. $2^{100}$ 乘開後為幾位數？</p>
+        解答：<input type="number" id="q12"> 位
+    </div>
+
+    <button onclick="checkAnswers()">送出答案</button>
+    <div id="result"></div>
+</div>
+
+<script>
+    function checkAnswers() {
+        let score = 0;
+        const q3 = document.getElementById('q3').value;
+        const q4 = document.getElementById('q4').value;
+        const q12 = document.getElementById('q12').value;
+        
+        // 檢查答案 (這就是網頁的邏輯部分)
+        if (q3 == "120") score++;
+        if (q4 == "-10") score++;
+        if (q12 == "31") score++;
+        
+        document.getElementById('result').innerHTML = 
+            "你答對了 " + score + " 題！" + (score == 3 ? " 太強了，高點智商發威！" : " 再檢查看看喔！");
+    }
+</script>
+
+</body>
+</html>
