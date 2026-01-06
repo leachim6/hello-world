@@ -545,7 +545,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [LazyK](l/LazyK.lazy)
 * [LBL](l/LBL.lbl)
 * [LCoffee](l/LCoffee.lcoff)
-* [Lean](l/Lean)
+* [Lean](l/Lean.lean)
 * [Less](l/Less.less)
 * [Leszek](l/Leszek.leszek)
 * [libavg](l/libavg.py)
