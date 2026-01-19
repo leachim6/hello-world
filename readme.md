@@ -554,6 +554,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [LibreOffice Basic](l/LibreOffice%20Basic.bas)
 * [Like, Python](l/Like%2C%20Python.lp)
 * [LilyPond](l/LilyPond.ly)
+* [Lil](l/Lil.lil)
 * [Limbo](l/Limbo.b)
 * [LINE entry](l/LINE%20entry.ent)
 * [Lingo](l/Lingo.lg4)
