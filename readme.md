@@ -805,6 +805,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Ring](r/Ring.ring)
 * [RiveScript](r/RiveScript.rive)
 * [Robot Framework](r/Robot%20Framework.robot)
+* [Roc](r/Roc.roc)
 * [Rockstar](r/Rockstar.rock)
 * [Roco](r/Roco.roco)
 * [Rotor](r/Rotor)
