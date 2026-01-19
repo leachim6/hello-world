@@ -649,6 +649,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Night](n/Night.night)
 * [Nim](n/Nim.nim)
 * [Nit](n/Nit.nit)
+* [Nix](n/Nix)
 * [NoCode](n/NoCode)
 * [Node.js](n/Node.js.js)
 * [NoFlo](n/NoFlo.fbp)
