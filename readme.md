@@ -637,6 +637,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [MXML](m/MXML.mxml)
 * [Myrddin](m/Myrddin.myr)
 * [MySQL](m/MySQL.sql)
+* [Nasal](n/Nasal.nas)
 * [Neko](n/Neko.neko)
 * [Nelua](n/Nelua.nelua)
 * [Nemerle](n/Nemerle.n)
