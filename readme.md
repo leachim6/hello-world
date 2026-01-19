@@ -778,6 +778,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Racket](r/Racket.rkt)
 * [Radixal](r/Radixal.radixal)
 * [Rafflalang](r/Rafflalang.bro)
+* [RainLisp](r/RainLisp.rl)
 * [Raku](r/Raku.raku)
 * [Rapira](r/Rapira.rap)
 * [RatFor](r/RatFor.ratfor)
