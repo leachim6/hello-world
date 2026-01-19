@@ -1,0 +1,2 @@
+output("Hello, World!") :- greeting(true).
+greeting(true).
