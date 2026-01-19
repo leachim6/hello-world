@@ -520,6 +520,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [JudoScript](j/JudoScript)
 * [Julia](j/Julia.jl)
 * [Jython](j/Jython.py)
+* [Jaksel](j/Jaksel.jaksel)
 * [K](k/K.k)
 * [Karel](k/Karel.kl)
 * [Ked](k/Ked.ked)
