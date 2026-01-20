@@ -1,18 +1,18 @@
-indexing "Hello World in Eiffel , from http://roesler-ac.de/wolfram/hello.htm#Eiffel"
+note
+
+	description: "Hello World in Eiffel"
 
 class HELLO
 
-creation
+create
 	run
 
 feature
 
-	run is
-		local
-			io : BASIC_IO;
+	run
 		do
-			!!io;
-			io.put_string("Hello World");
-			io.put_newline
-		end; -- run
-end; -- class HELLO
+			io.put_string ("Hello World")
+			io.put_new_line
+		end -- run
+
+end -- class HELLO
