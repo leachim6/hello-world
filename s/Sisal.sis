@@ -1,0 +1,7 @@
+define main
+
+type string = array[character];
+
+function main(returns string)
+  "Hello World"
+end function

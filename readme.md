@@ -847,6 +847,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [SIL](s/SIL.SIL)
 * [Simpl+](s/Simpl%2B.usp)
 * [Simula](s/Simula.sim)
+* [Sisal](s/Sisal.sis)
 * [Skip](s/Skip.sk)
 * [Skript](s/Skript.sk)
 * [Slashes](s/Slashes.slashes)
