@@ -1,0 +1,5 @@
+start HelloWorld;
+
+blue HelloWorld {
+    parrot("Hello, World!");
+}
