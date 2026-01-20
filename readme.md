@@ -997,6 +997,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [XUL](x/XUL.xul)
 * [Y](y/Y.y)
 * [YAML](y/YAML.yaml)
+* [YAP](y/YAP.yap)
 * [YASKC](y/YASKC.yaskc)
 * [Yoix](y/Yoix.yx)
 * [YoLang](y/YoLang.yo)
