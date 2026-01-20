@@ -1,7 +1,7 @@
-algoritmo "Hello World"
-
-var
- 
-inicio
-escreva ("Hello World")
-fimalgoritmo
+programa 
+{ 
+	funcao inicio () 
+	{
+		escreva("Hello World")
+	} 
+}
