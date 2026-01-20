@@ -1005,6 +1005,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Your Mom](y/Your%20Mom)
 * [Z Shell](z/Z%20Shell.zsh)
 * [ZBD](z/ZBD)
+* [Zenscript](z/Zenscript.zs)
 * [Zepto](z/Zepto.zp)
 * [Zetaplex](z/Zetaplex.zeta)
 * [Zhpy](z/Zhpy.py)
