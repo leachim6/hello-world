@@ -621,6 +621,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Monkey](m/Monkey)
 * [Monte](m/Monte.mt)
 * [Moo](m/Moo.moo)
+* [MoonBit](m/MoonBit.mbt)
 * [MOONBlock](m/MOONBlock.png)
 * [Moonscript](m/Moonscript.moon)
 * [Morloc](m/Morloc.loc)
