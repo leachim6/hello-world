@@ -589,6 +589,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Mana](m/Mana.mn)
 * [Manim](m/Manim.py)
 * [Maple](m/Maple.mpl)
+* [MariaDB](m/MariaDB.sql)
 * [MarioLANG](m/MarioLANG.mlg)
 * [Markdown](m/Markdown.md)
 * [Mathematica Online](m/Mathematica%20Online.nb)
