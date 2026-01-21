@@ -581,6 +581,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [LWC](l/LWC.html)
 * [Löve](l/L%C3%B6ve.lua)
 * [M4](m/M4.m4)
+* [Magma](m/magma.mag)
 * [MacLisp](m/MacLisp.lisp)
 * [Macsyma](m/Macsyma.mac)
 * [Magic](m/Magic)
