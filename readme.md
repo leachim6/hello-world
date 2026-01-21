@@ -74,6 +74,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Alan](a/Alan.ln)
 * [Alda](a/Alda.alda)
 * [Algae](a/Algae.algae)
+* [Algobox](a/Algobox.alg)
 * [ALGOL 60](a/ALGOL%2060.algol60)
 * [ALGOL 68](a/ALGOL%2068.algol68)
 * [ALGOL W](a/ALGOL%20W.algol)
