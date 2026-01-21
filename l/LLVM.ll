@@ -1,10 +1,12 @@
-target datalayout = "e-p:32:32:32-i1:8:8-i8:8:8-i16:16:16-i32:32:32-i64:32:64-f32:32:32-f64:32:64-v64:64:64-v128:128:128-a0:0:64-f80:128:128"
-@.str = internal constant [12 x i8] c"Hello World\00"
+@str = constant [14 x i8] c"Hello, World!\00" ; '\00' is the null terminator
 
-; puts from libc
-declare i32 @puts(i8*)
+declare i64 @puts(i8*) ; external declaration for the puts function
 
-define i32 @main(...) {
-	call i32 @puts(i8* getelementptr([12 x i8]* @.str, i32 0, i32 0))
-	ret i32 0
+; definition of main function
+define i64 @main() { ; return type is i64, no parameters
+  %1 = getelementptr [14 x i8], [14 x i8]* @str, i64 0, i64 0 ; convert [14 x i8]* to i8*
+
+  call i64 @puts(i8* %1) ; call puts with %1
+
+  ret i64 0 ; return a success code
 }
