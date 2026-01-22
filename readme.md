@@ -606,7 +606,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Millfork](m/Millfork.mfk)
 * [Mind](m/Mind.src)
 * [Minecraft Script](m/Minecraft%20Script.mcscript)
-* [Minecraft](m/Minecraft.mcfunction)
+* [Mcfunction](m/Mcfunction.mcfunction)
 * [Mint](m/Mint.mint)
 * [Mips](m/Mips.s)
 * [Miranda](m/Miranda.m)
