@@ -1,11 +1,28 @@
-# Hello World
+# Hello World 🌍
 
-Hello World in every computer language.
+A collection of **Hello World** programs written in as many programming languages as possible.
 
-As I watch the collection expand, this project has blown up more than I ever thought possible.
-Thanks to everyone who continues to contribute; new languages are created every day!
+What started as a small experiment has grown into a massive archive of programming languages — from well-known standards to obscure, experimental, and esoteric creations. New languages are being created every day, and this project grows with them.
 
-Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
+Huge thanks to everyone who continues to contribute and keep this collection alive ❤️
+
+---
+
+## 📌 Contributing
+
+Want to add a new language or improve an existing example?
+
+Please read **[contributing.md](/contributing.md)** before submitting a pull request.  
+It explains naming conventions, folder structure, and contribution rules to keep the project consistent.
+
+---
+
+## 🗂 Languages
+
+This repository currently contains **1009 languages**.
+
+Languages are listed **alphabetically** and grouped by their starting character.  
+Each entry links directly to its corresponding Hello World implementation.
 
 <!--Languages start-->
 ## Languages (1009 total)
