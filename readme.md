@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (1007 total)
+## Languages (1009 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -242,6 +242,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Charcoal](c/Charcoal.cl)
 * [Charly](c/Charly.ch)
 * [ChaScript](c/ChaScript)
+* [ChavaScript](c/ChavaScript.chs)
 * [Cheddar](c/Cheddar.cheddar)
 * [Cheese++](c/Cheese%2B%2B.cheese)
 * [Chef](c/Chef.ch)
@@ -532,6 +533,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Koa](k/Koa.js)
 * [Kobeři-C](k/Kobe%C5%99i-C.koberice)
 * [Kojo](k/Kojo.kojo)
+* [Koka](k/Koka.kk)
 * [Kotlin Script](k/Kotlin%20Script.kts)
 * [Kotlin](k/Kotlin.kt)
 * [KSH](k/KSH.ksh)
@@ -546,7 +548,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [LazyK](l/LazyK.lazy)
 * [LBL](l/LBL.lbl)
 * [LCoffee](l/LCoffee.lcoff)
-* [Lean](l/Lean)
+* [Lean](l/Lean.lean)
 * [Less](l/Less.less)
 * [Leszek](l/Leszek.leszek)
 * [libavg](l/libavg.py)
