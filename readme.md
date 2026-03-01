@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (1009 total)
+## Languages (1010 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -793,6 +793,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Recurse](r/Recurse.recurse)
 * [Red](r/Red.red)
 * [Redis](r/Redis)
+* [Redscript](r/Redscript.reds)
 * [Refal](r/Refal.ref)
 * [ReScript](r/ReScript.res)
 * [reStructuredText](r/reStructuredText.rst)
