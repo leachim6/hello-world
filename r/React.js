@@ -1,5 +1,8 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 function Hello() {
   return <h1>Hello World</h1>;
 }
 
-React.render(<Hello />, document.body);
+ReactDOM.createRoot(document.getElementById("root")).render(<Hello />);
