@@ -944,6 +944,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Verbose](v/Verbose.verbose)
 * [VerboseFuck](v/VerboseFuck.vbfk)
 * [Verilog](v/Verilog.v)
+* [Verse](v/verse.verse)
 * [Verve](v/Verve.vrv)
 * [VHDL](v/VHDL.vhdl)
 * [Vi](v/Vi)
