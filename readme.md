@@ -44,6 +44,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [プロデル](%23/%E3%83%97%E3%83%AD%E3%83%87%E3%83%AB.rdr)
 * [文言](%23/%E6%96%87%E8%A8%80.wy)
 * [人工智能](%23/人工智能.rgzn)
+* [中文C++](%23/中文C++.CPP源文件)
+* [中文C](%23/中文C.C源文件)
 * [易语言](%23/%E6%98%93%E8%AF%AD%E8%A8%80.e)
 * [火星文](%23/%E7%81%AB%E6%98%9F%E6%96%87.martian)
 * [秀丸マクロ](%23/%E7%A7%80%E4%B8%B8%E3%83%9E%E3%82%AF%E3%83%AD.mac)
