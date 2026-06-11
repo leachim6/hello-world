@@ -1,0 +1,3 @@
+//@version=5
+indicator("Hello World")
+label.new(bar_index, high, "Hello, World!")
