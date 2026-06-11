@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (1009 total)
+## Languages (1010 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -719,6 +719,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Pike](p/Pike.pike)
 * [Pikelet!](p/Pikelet%21.pi)
 * [Pinecone](p/Pinecone.pn)
+* [Pinescript](p/Pinescript.pine)
 * [Pit](p/Pit.pit)
 * [Pizza](p/Pizza.pizza)
 * [Please Porige Hot](p/Please%20Porige%20Hot.pph)
