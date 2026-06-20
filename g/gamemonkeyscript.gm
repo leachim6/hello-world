@@ -1,0 +1,8 @@
+
+global HelloWorld = function()
+{
+    print("Hello World!");
+};
+
+// Execute the function
+HelloWorld();
