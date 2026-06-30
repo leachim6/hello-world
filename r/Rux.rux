@@ -1,0 +1,6 @@
+import Std::Io::Print;
+
+func Main() -> int {
+	Print("Hello, World!");
+	return 0;
+}
