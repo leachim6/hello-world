@@ -1,0 +1,1 @@
+entry main () = println "Hello, World!"
