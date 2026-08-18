@@ -503,6 +503,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Jade](j/Jade.jade)
 * [Jai](j/Jai.jai)
 * [Jakt](j/Jakt.jakt)
+* [Janet] (j/Janet.janet)
 * [Jasmin](j/Jasmin.j)
 * [Jason](j/Jason.mas2j)
 * [Java](j/Java.java)
