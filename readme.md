@@ -959,6 +959,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Vowels](v/Vowels.vw)
 * [VRML](v/VRML.wrl)
 * [Vue](v/Vue.js)
+* [Vue](v/js.vue)
 * [Wax](w/Wax.wax)
 * [WebAssembly](w/WebAssembly.wat)
 * [Wheat](w/Wheat.wheat)
