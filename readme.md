@@ -904,6 +904,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Thue](t/Thue.th)
 * [TI Hexadecimal](t/TI%20Hexadecimal.hex)
 * [TIBasic](t/TIBasic.ti)
+* [TIS-100](t/TIS-100.tis)
 * [Tk](t/Tk.tk)
 * [Tkinter](t/Tkinter.py)
 * [Tokay](t/Tokay.tok)
