@@ -1,0 +1,3 @@
+please()
+print("Hello World")
+please()
