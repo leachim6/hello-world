@@ -1,4 +1,3 @@
-module main;
 import stdlib;
 
 fn main() nil
