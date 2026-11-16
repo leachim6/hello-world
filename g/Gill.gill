@@ -1,0 +1,6 @@
+import stdlib;
+
+fn main() nil
+{
+	printn("Hello World");
+}
